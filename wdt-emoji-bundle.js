@@ -15960,6 +15960,7 @@
               emojiLink.dataset.wdtEmojiName = em.name;
               emojiLink.dataset.wdtEmojiShortnames = ':' + em.short_names.join(': :') + ':';
               emojiLink.dataset.wdtEmojiShortname = em.short_name;
+              emojiLink.dataset.wdtEmojiUnicode = em.unicode;
               emojiLink.dataset.wdtEmojiOrder = em.sort_order;
 
               emojiLink.innerHTML = self.emoji.replace_colons(':' + em.short_name + ':');
@@ -16038,7 +16039,7 @@
     live('click', '.wdt-emoji-list a.wdt-emoji', function (event) {
       var selection = getSelection(wdtEmojiBundle.input);
 
-      replaceText(wdtEmojiBundle.input, selection, ':' + this.dataset.wdtEmojiShortname + ':');
+      replaceText(wdtEmojiBundle.input, selection, this.dataset.wdtEmojiUnicode);
       fire('select', {el: wdtEmojiBundle.input, event: event, emoji: ':' + this.dataset.wdtEmojiShortname + ':'});
 
       var ce = document.createEvent('Event');
