@@ -5448,7 +5448,7 @@
         "name": "DOG FACE",
         "short_name": "dog",
         "short_names": ["dog"],
-        "unicode": "",
+        "unicode": "1f436",
         "sort_order": 1
       }, {
         "has_img_apple": true,
@@ -5460,7 +5460,7 @@
         "name": "CAT FACE",
         "short_name": "cat",
         "short_names": ["cat"],
-        "unicode": "",
+        "unicode": "1f431",
         "sort_order": 2
       }, {
         "has_img_apple": true,
@@ -5472,7 +5472,7 @@
         "name": "MOUSE FACE",
         "short_name": "mouse",
         "short_names": ["mouse"],
-        "unicode": "",
+        "unicode": "1f42d",
         "sort_order": 3
       }, {
         "has_img_apple": true,
@@ -5484,7 +5484,7 @@
         "name": "HAMSTER FACE",
         "short_name": "hamster",
         "short_names": ["hamster"],
-        "unicode": "",
+        "unicode": "1f439",
         "sort_order": 4
       }, {
         "has_img_apple": true,
@@ -5496,7 +5496,7 @@
         "name": "RABBIT FACE",
         "short_name": "rabbit",
         "short_names": ["rabbit"],
-        "unicode": "",
+        "unicode": "1f430",
         "sort_order": 5
       }, {
         "has_img_apple": true,
@@ -5508,7 +5508,7 @@
         "name": "BEAR FACE",
         "short_name": "bear",
         "short_names": ["bear"],
-        "unicode": "",
+        "unicode": "1f43b",
         "sort_order": 6
       }, {
         "has_img_apple": true,
@@ -5520,7 +5520,7 @@
         "name": "PANDA FACE",
         "short_name": "panda_face",
         "short_names": ["panda_face"],
-        "unicode": "",
+        "unicode": "1f43c",
         "sort_order": 7
       }, {
         "has_img_apple": true,
@@ -5532,7 +5532,7 @@
         "name": "KOALA",
         "short_name": "koala",
         "short_names": ["koala"],
-        "unicode": "",
+        "unicode": "1f428",
         "sort_order": 8
       }, {
         "has_img_apple": true,
@@ -5544,7 +5544,7 @@
         "name": "TIGER FACE",
         "short_name": "tiger",
         "short_names": ["tiger"],
-        "unicode": "",
+        "unicode": "1f42f",
         "sort_order": 9
       }, {
         "has_img_apple": true,
@@ -5556,7 +5556,7 @@
         "name": "LION FACE",
         "short_name": "lion_face",
         "short_names": ["lion_face"],
-        "unicode": "",
+        "unicode": "1f981",
         "sort_order": 10
       }, {
         "has_img_apple": true,
@@ -5568,7 +5568,7 @@
         "name": "COW FACE",
         "short_name": "cow",
         "short_names": ["cow"],
-        "unicode": "",
+        "unicode": "1f42e",
         "sort_order": 11
       }, {
         "has_img_apple": true,
@@ -5580,7 +5580,7 @@
         "name": "PIG FACE",
         "short_name": "pig",
         "short_names": ["pig"],
-        "unicode": "",
+        "unicode": "1f437",
         "sort_order": 12
       }, {
         "has_img_apple": true,
@@ -5592,7 +5592,7 @@
         "name": "PIG NOSE",
         "short_name": "pig_nose",
         "short_names": ["pig_nose"],
-        "unicode": "",
+        "unicode": "1f43d",
         "sort_order": 13
       }, {
         "has_img_apple": true,
@@ -5604,7 +5604,7 @@
         "name": "FROG FACE",
         "short_name": "frog",
         "short_names": ["frog"],
-        "unicode": "",
+        "unicode": "1f438",
         "sort_order": 14
       }, {
         "has_img_apple": true,
@@ -5616,7 +5616,7 @@
         "name": "OCTOPUS",
         "short_name": "octopus",
         "short_names": ["octopus"],
-        "unicode": "",
+        "unicode": "1f419",
         "sort_order": 15
       }, {
         "has_img_apple": true,
@@ -5628,7 +5628,7 @@
         "name": "MONKEY FACE",
         "short_name": "monkey_face",
         "short_names": ["monkey_face"],
-        "unicode": "",
+        "unicode": "1f435",
         "sort_order": 16
       }, {
         "has_img_apple": true,
@@ -5640,7 +5640,7 @@
         "name": "SEE-NO-EVIL MONKEY",
         "short_name": "see_no_evil",
         "short_names": ["see_no_evil"],
-        "unicode": "",
+        "unicode": "1f648",
         "sort_order": 17
       }, {
         "has_img_apple": true,
@@ -5652,7 +5652,7 @@
         "name": "HEAR-NO-EVIL MONKEY",
         "short_name": "hear_no_evil",
         "short_names": ["hear_no_evil"],
-        "unicode": "",
+        "unicode": "1f649",
         "sort_order": 18
       }, {
         "has_img_apple": true,
@@ -5664,7 +5664,7 @@
         "name": "SPEAK-NO-EVIL MONKEY",
         "short_name": "speak_no_evil",
         "short_names": ["speak_no_evil"],
-        "unicode": "",
+        "unicode": "1f64a",
         "sort_order": 19
       }, {
         "has_img_apple": true,
@@ -5676,7 +5676,7 @@
         "name": "MONKEY",
         "short_name": "monkey",
         "short_names": ["monkey"],
-        "unicode": "",
+        "unicode": "1f412",
         "sort_order": 20
       }, {
         "has_img_apple": true,
@@ -5688,7 +5688,7 @@
         "name": "CHICKEN",
         "short_name": "chicken",
         "short_names": ["chicken"],
-        "unicode": "",
+        "unicode": "1f414",
         "sort_order": 21
       }, {
         "has_img_apple": true,
@@ -5700,7 +5700,7 @@
         "name": "PENGUIN",
         "short_name": "penguin",
         "short_names": ["penguin"],
-        "unicode": "",
+        "unicode": "1f427",
         "sort_order": 22
       }, {
         "has_img_apple": true,
@@ -5712,7 +5712,7 @@
         "name": "BIRD",
         "short_name": "bird",
         "short_names": ["bird"],
-        "unicode": "",
+        "unicode": "1f426",
         "sort_order": 23
       }, {
         "has_img_apple": true,
@@ -5724,7 +5724,7 @@
         "name": "BABY CHICK",
         "short_name": "baby_chick",
         "short_names": ["baby_chick"],
-        "unicode": "",
+        "unicode": "1f424",
         "sort_order": 24
       }, {
         "has_img_apple": true,
@@ -5736,7 +5736,7 @@
         "name": "HATCHING CHICK",
         "short_name": "hatching_chick",
         "short_names": ["hatching_chick"],
-        "unicode": "",
+        "unicode": "1f423",
         "sort_order": 25
       }, {
         "has_img_apple": true,
@@ -5748,7 +5748,7 @@
         "name": "FRONT-FACING BABY CHICK",
         "short_name": "hatched_chick",
         "short_names": ["hatched_chick"],
-        "unicode": "",
+        "unicode": "1f425",
         "sort_order": 26
       }, {
         "has_img_apple": true,
@@ -5760,7 +5760,7 @@
         "name": "WOLF FACE",
         "short_name": "wolf",
         "short_names": ["wolf"],
-        "unicode": "",
+        "unicode": "1f43a",
         "sort_order": 27
       }, {
         "has_img_apple": true,
@@ -5772,7 +5772,7 @@
         "name": "BOAR",
         "short_name": "boar",
         "short_names": ["boar"],
-        "unicode": "",
+        "unicode": "1f417",
         "sort_order": 28
       }, {
         "has_img_apple": true,
@@ -5784,7 +5784,7 @@
         "name": "HORSE FACE",
         "short_name": "horse",
         "short_names": ["horse"],
-        "unicode": "",
+        "unicode": "1f434",
         "sort_order": 29
       }, {
         "has_img_apple": true,
@@ -5796,7 +5796,7 @@
         "name": "UNICORN FACE",
         "short_name": "unicorn_face",
         "short_names": ["unicorn_face"],
-        "unicode": "",
+        "unicode": "1f984",
         "sort_order": 30
       }, {
         "has_img_apple": true,
@@ -5808,7 +5808,7 @@
         "name": "HONEYBEE",
         "short_name": "bee",
         "short_names": ["bee", "honeybee"],
-        "unicode": "",
+        "unicode": "1f41d",
         "sort_order": 31
       }, {
         "has_img_apple": true,
@@ -5820,7 +5820,7 @@
         "name": "BUG",
         "short_name": "bug",
         "short_names": ["bug"],
-        "unicode": "",
+        "unicode": "1f41b",
         "sort_order": 32
       }, {
         "has_img_apple": true,
@@ -5832,7 +5832,7 @@
         "name": "SNAIL",
         "short_name": "snail",
         "short_names": ["snail"],
-        "unicode": "",
+        "unicode": "1f40c",
         "sort_order": 33
       }, {
         "has_img_apple": true,
@@ -5844,7 +5844,7 @@
         "name": "LADY BEETLE",
         "short_name": "beetle",
         "short_names": ["beetle"],
-        "unicode": "",
+        "unicode": "1f41e",
         "sort_order": 34
       }, {
         "has_img_apple": true,
@@ -5856,7 +5856,7 @@
         "name": "ANT",
         "short_name": "ant",
         "short_names": ["ant"],
-        "unicode": "",
+        "unicode": "1f41c",
         "sort_order": 35
       }, {
         "has_img_apple": true,
@@ -5868,7 +5868,7 @@
         "name": "SPIDER",
         "short_name": "spider",
         "short_names": ["spider"],
-        "unicode": "",
+        "unicode": "1f577",
         "sort_order": 36
       }, {
         "has_img_apple": true,
@@ -5880,7 +5880,7 @@
         "name": "SCORPION",
         "short_name": "scorpion",
         "short_names": ["scorpion"],
-        "unicode": "",
+        "unicode": "1f982",
         "sort_order": 37
       }, {
         "has_img_apple": true,
@@ -5892,7 +5892,7 @@
         "name": "CRAB",
         "short_name": "crab",
         "short_names": ["crab"],
-        "unicode": "",
+        "unicode": "1f980",
         "sort_order": 38
       }, {
         "has_img_apple": true,
@@ -5904,7 +5904,7 @@
         "name": "SNAKE",
         "short_name": "snake",
         "short_names": ["snake"],
-        "unicode": "",
+        "unicode": "1f40d",
         "sort_order": 39
       }, {
         "has_img_apple": true,
@@ -5916,7 +5916,7 @@
         "name": "TURTLE",
         "short_name": "turtle",
         "short_names": ["turtle"],
-        "unicode": "",
+        "unicode": "1f422",
         "sort_order": 40
       }, {
         "has_img_apple": true,
@@ -5928,7 +5928,7 @@
         "name": "TROPICAL FISH",
         "short_name": "tropical_fish",
         "short_names": ["tropical_fish"],
-        "unicode": "",
+        "unicode": "1f420",
         "sort_order": 41
       }, {
         "has_img_apple": true,
@@ -5940,7 +5940,7 @@
         "name": "FISH",
         "short_name": "fish",
         "short_names": ["fish"],
-        "unicode": "",
+        "unicode": "1f41f",
         "sort_order": 42
       }, {
         "has_img_apple": true,
@@ -5952,7 +5952,7 @@
         "name": "BLOWFISH",
         "short_name": "blowfish",
         "short_names": ["blowfish"],
-        "unicode": "",
+        "unicode": "1f421",
         "sort_order": 43
       }, {
         "has_img_apple": true,
@@ -5964,7 +5964,7 @@
         "name": "DOLPHIN",
         "short_name": "dolphin",
         "short_names": ["dolphin", "flipper"],
-        "unicode": "",
+        "unicode": "1f42c",
         "sort_order": 44
       }, {
         "has_img_apple": true,
@@ -5976,7 +5976,7 @@
         "name": "SPOUTING WHALE",
         "short_name": "whale",
         "short_names": ["whale"],
-        "unicode": "",
+        "unicode": "1f433",
         "sort_order": 45
       }, {
         "has_img_apple": true,
@@ -5988,7 +5988,7 @@
         "name": "WHALE",
         "short_name": "whale2",
         "short_names": ["whale2"],
-        "unicode": "",
+        "unicode": "1f40b",
         "sort_order": 46
       }, {
         "has_img_apple": true,
@@ -6000,7 +6000,7 @@
         "name": "CROCODILE",
         "short_name": "crocodile",
         "short_names": ["crocodile"],
-        "unicode": "",
+        "unicode": "1f40a",
         "sort_order": 47
       }, {
         "has_img_apple": true,
@@ -6012,7 +6012,7 @@
         "name": "LEOPARD",
         "short_name": "leopard",
         "short_names": ["leopard"],
-        "unicode": "",
+        "unicode": "1f406",
         "sort_order": 48
       }, {
         "has_img_apple": true,
@@ -6024,7 +6024,7 @@
         "name": "TIGER",
         "short_name": "tiger2",
         "short_names": ["tiger2"],
-        "unicode": "",
+        "unicode": "1f405",
         "sort_order": 49
       }, {
         "has_img_apple": true,
@@ -6036,7 +6036,7 @@
         "name": "WATER BUFFALO",
         "short_name": "water_buffalo",
         "short_names": ["water_buffalo"],
-        "unicode": "",
+        "unicode": "1f403",
         "sort_order": 50
       }, {
         "has_img_apple": true,
@@ -6048,7 +6048,7 @@
         "name": "OX",
         "short_name": "ox",
         "short_names": ["ox"],
-        "unicode": "",
+        "unicode": "1f402",
         "sort_order": 51
       }, {
         "has_img_apple": true,
@@ -6060,7 +6060,7 @@
         "name": "COW",
         "short_name": "cow2",
         "short_names": ["cow2"],
-        "unicode": "",
+        "unicode": "1f404",
         "sort_order": 52
       }, {
         "has_img_apple": true,
@@ -6072,7 +6072,7 @@
         "name": "DROMEDARY CAMEL",
         "short_name": "dromedary_camel",
         "short_names": ["dromedary_camel"],
-        "unicode": "",
+        "unicode": "1f42a",
         "sort_order": 53
       }, {
         "has_img_apple": true,
@@ -6084,7 +6084,7 @@
         "name": "BACTRIAN CAMEL",
         "short_name": "camel",
         "short_names": ["camel"],
-        "unicode": "",
+        "unicode": "1f42b",
         "sort_order": 54
       }, {
         "has_img_apple": true,
@@ -6096,7 +6096,7 @@
         "name": "ELEPHANT",
         "short_name": "elephant",
         "short_names": ["elephant"],
-        "unicode": "",
+        "unicode": "1f418",
         "sort_order": 55
       }, {
         "has_img_apple": true,
@@ -6108,7 +6108,7 @@
         "name": "GOAT",
         "short_name": "goat",
         "short_names": ["goat"],
-        "unicode": "",
+        "unicode": "1f410",
         "sort_order": 56
       }, {
         "has_img_apple": true,
@@ -6120,7 +6120,7 @@
         "name": "RAM",
         "short_name": "ram",
         "short_names": ["ram"],
-        "unicode": "",
+        "unicode": "1f40f",
         "sort_order": 57
       }, {
         "has_img_apple": true,
@@ -6132,7 +6132,7 @@
         "name": "SHEEP",
         "short_name": "sheep",
         "short_names": ["sheep"],
-        "unicode": "",
+        "unicode": "1f411",
         "sort_order": 58
       }, {
         "has_img_apple": true,
@@ -6144,7 +6144,7 @@
         "name": "HORSE",
         "short_name": "racehorse",
         "short_names": ["racehorse"],
-        "unicode": "",
+        "unicode": "1f40e",
         "sort_order": 59
       }, {
         "has_img_apple": true,
@@ -6156,7 +6156,7 @@
         "name": "PIG",
         "short_name": "pig2",
         "short_names": ["pig2"],
-        "unicode": "",
+        "unicode": "1f416",
         "sort_order": 60
       }, {
         "has_img_apple": true,
@@ -6168,7 +6168,7 @@
         "name": "RAT",
         "short_name": "rat",
         "short_names": ["rat"],
-        "unicode": "",
+        "unicode": "1f400",
         "sort_order": 61
       }, {
         "has_img_apple": true,
@@ -6180,7 +6180,7 @@
         "name": "MOUSE",
         "short_name": "mouse2",
         "short_names": ["mouse2"],
-        "unicode": "",
+        "unicode": "1f401",
         "sort_order": 62
       }, {
         "has_img_apple": true,
@@ -6192,7 +6192,7 @@
         "name": "ROOSTER",
         "short_name": "rooster",
         "short_names": ["rooster"],
-        "unicode": "",
+        "unicode": "1f413",
         "sort_order": 63
       }, {
         "has_img_apple": true,
@@ -6204,7 +6204,7 @@
         "name": "TURKEY",
         "short_name": "turkey",
         "short_names": ["turkey"],
-        "unicode": "",
+        "unicode": "1f983",
         "sort_order": 64
       }, {
         "has_img_apple": true,
@@ -6216,7 +6216,7 @@
         "name": "DOVE OF PEACE",
         "short_name": "dove_of_peace",
         "short_names": ["dove_of_peace"],
-        "unicode": "",
+        "unicode": "1f54a",
         "sort_order": 65
       }, {
         "has_img_apple": true,
@@ -6228,7 +6228,7 @@
         "name": "DOG",
         "short_name": "dog2",
         "short_names": ["dog2"],
-        "unicode": "",
+        "unicode": "1f415",
         "sort_order": 66
       }, {
         "has_img_apple": true,
@@ -6240,7 +6240,7 @@
         "name": "POODLE",
         "short_name": "poodle",
         "short_names": ["poodle"],
-        "unicode": "",
+        "unicode": "1f429",
         "sort_order": 67
       }, {
         "has_img_apple": true,
@@ -6252,7 +6252,7 @@
         "name": "CAT",
         "short_name": "cat2",
         "short_names": ["cat2"],
-        "unicode": "",
+        "unicode": "1f408",
         "sort_order": 68
       }, {
         "has_img_apple": true,
@@ -6264,7 +6264,7 @@
         "name": "RABBIT",
         "short_name": "rabbit2",
         "short_names": ["rabbit2"],
-        "unicode": "",
+        "unicode": "1f407",
         "sort_order": 69
       }, {
         "has_img_apple": true,
@@ -6276,7 +6276,7 @@
         "name": "CHIPMUNK",
         "short_name": "chipmunk",
         "short_names": ["chipmunk"],
-        "unicode": "",
+        "unicode": "1f43f",
         "sort_order": 70
       }, {
         "has_img_apple": true,
@@ -6288,7 +6288,7 @@
         "name": "PAW PRINTS",
         "short_name": "feet",
         "short_names": ["feet", "paw_prints"],
-        "unicode": "",
+        "unicode": "1f43e",
         "sort_order": 71
       }, {
         "has_img_apple": true,
@@ -6300,7 +6300,7 @@
         "name": "DRAGON",
         "short_name": "dragon",
         "short_names": ["dragon"],
-        "unicode": "",
+        "unicode": "1f409",
         "sort_order": 72
       }, {
         "has_img_apple": true,
@@ -6312,7 +6312,7 @@
         "name": "DRAGON FACE",
         "short_name": "dragon_face",
         "short_names": ["dragon_face"],
-        "unicode": "",
+        "unicode": "1f432",
         "sort_order": 73
       }, {
         "has_img_apple": true,
@@ -6324,7 +6324,7 @@
         "name": "CACTUS",
         "short_name": "cactus",
         "short_names": ["cactus"],
-        "unicode": "",
+        "unicode": "1f335",
         "sort_order": 74
       }, {
         "has_img_apple": true,
@@ -6336,7 +6336,7 @@
         "name": "CHRISTMAS TREE",
         "short_name": "christmas_tree",
         "short_names": ["christmas_tree"],
-        "unicode": "",
+        "unicode": "1f384",
         "sort_order": 75
       }, {
         "has_img_apple": true,
@@ -6348,7 +6348,7 @@
         "name": "EVERGREEN TREE",
         "short_name": "evergreen_tree",
         "short_names": ["evergreen_tree"],
-        "unicode": "",
+        "unicode": "1f332",
         "sort_order": 76
       }, {
         "has_img_apple": true,
@@ -6360,7 +6360,7 @@
         "name": "DECIDUOUS TREE",
         "short_name": "deciduous_tree",
         "short_names": ["deciduous_tree"],
-        "unicode": "",
+        "unicode": "1f333",
         "sort_order": 77
       }, {
         "has_img_apple": true,
@@ -6372,7 +6372,7 @@
         "name": "PALM TREE",
         "short_name": "palm_tree",
         "short_names": ["palm_tree"],
-        "unicode": "",
+        "unicode": "1f334",
         "sort_order": 78
       }, {
         "has_img_apple": true,
@@ -6384,7 +6384,7 @@
         "name": "SEEDLING",
         "short_name": "seedling",
         "short_names": ["seedling"],
-        "unicode": "",
+        "unicode": "1f331",
         "sort_order": 79
       }, {
         "has_img_apple": true,
@@ -6396,7 +6396,7 @@
         "name": "HERB",
         "short_name": "herb",
         "short_names": ["herb"],
-        "unicode": "",
+        "unicode": "1f33f",
         "sort_order": 80
       }, {
         "has_img_apple": true,
@@ -6408,7 +6408,7 @@
         "name": "SHAMROCK",
         "short_name": "shamrock",
         "short_names": ["shamrock"],
-        "unicode": "",
+        "unicode": "2618",
         "sort_order": 81
       }, {
         "has_img_apple": true,
@@ -6420,7 +6420,7 @@
         "name": "FOUR LEAF CLOVER",
         "short_name": "four_leaf_clover",
         "short_names": ["four_leaf_clover"],
-        "unicode": "",
+        "unicode": "1f340",
         "sort_order": 82
       }, {
         "has_img_apple": true,
@@ -6432,7 +6432,7 @@
         "name": "PINE DECORATION",
         "short_name": "bamboo",
         "short_names": ["bamboo"],
-        "unicode": "",
+        "unicode": "1f38d",
         "sort_order": 83
       }, {
         "has_img_apple": true,
@@ -6444,7 +6444,7 @@
         "name": "TANABATA TREE",
         "short_name": "tanabata_tree",
         "short_names": ["tanabata_tree"],
-        "unicode": "",
+        "unicode": "1f38b",
         "sort_order": 84
       }, {
         "has_img_apple": true,
@@ -6456,7 +6456,7 @@
         "name": "LEAF FLUTTERING IN WIND",
         "short_name": "leaves",
         "short_names": ["leaves"],
-        "unicode": "",
+        "unicode": "1f343",
         "sort_order": 85
       }, {
         "has_img_apple": true,
@@ -6468,7 +6468,7 @@
         "name": "FALLEN LEAF",
         "short_name": "fallen_leaf",
         "short_names": ["fallen_leaf"],
-        "unicode": "",
+        "unicode": "1f342",
         "sort_order": 86
       }, {
         "has_img_apple": true,
@@ -6480,7 +6480,7 @@
         "name": "MAPLE LEAF",
         "short_name": "maple_leaf",
         "short_names": ["maple_leaf"],
-        "unicode": "",
+        "unicode": "1f341",
         "sort_order": 87
       }, {
         "has_img_apple": true,
@@ -6492,7 +6492,7 @@
         "name": "EAR OF RICE",
         "short_name": "ear_of_rice",
         "short_names": ["ear_of_rice"],
-        "unicode": "",
+        "unicode": "1f33e",
         "sort_order": 88
       }, {
         "has_img_apple": true,
@@ -6504,7 +6504,7 @@
         "name": "HIBISCUS",
         "short_name": "hibiscus",
         "short_names": ["hibiscus"],
-        "unicode": "",
+        "unicode": "1f33a",
         "sort_order": 89
       }, {
         "has_img_apple": true,
@@ -6516,7 +6516,7 @@
         "name": "SUNFLOWER",
         "short_name": "sunflower",
         "short_names": ["sunflower"],
-        "unicode": "",
+        "unicode": "1f33b",
         "sort_order": 90
       }, {
         "has_img_apple": true,
@@ -6528,7 +6528,7 @@
         "name": "ROSE",
         "short_name": "rose",
         "short_names": ["rose"],
-        "unicode": "",
+        "unicode": "1f339",
         "sort_order": 91
       }, {
         "has_img_apple": true,
@@ -6540,7 +6540,7 @@
         "name": "TULIP",
         "short_name": "tulip",
         "short_names": ["tulip"],
-        "unicode": "",
+        "unicode": "1f337",
         "sort_order": 92
       }, {
         "has_img_apple": true,
@@ -6552,7 +6552,7 @@
         "name": "BLOSSOM",
         "short_name": "blossom",
         "short_names": ["blossom"],
-        "unicode": "",
+        "unicode": "1f33c",
         "sort_order": 93
       }, {
         "has_img_apple": true,
@@ -6564,7 +6564,7 @@
         "name": "CHERRY BLOSSOM",
         "short_name": "cherry_blossom",
         "short_names": ["cherry_blossom"],
-        "unicode": "",
+        "unicode": "1f338",
         "sort_order": 94
       }, {
         "has_img_apple": true,
@@ -6576,7 +6576,7 @@
         "name": "BOUQUET",
         "short_name": "bouquet",
         "short_names": ["bouquet"],
-        "unicode": "",
+        "unicode": "1f490",
         "sort_order": 95
       }, {
         "has_img_apple": true,
@@ -6588,7 +6588,7 @@
         "name": "MUSHROOM",
         "short_name": "mushroom",
         "short_names": ["mushroom"],
-        "unicode": "",
+        "unicode": "1f344",
         "sort_order": 96
       }, {
         "has_img_apple": true,
@@ -6600,7 +6600,7 @@
         "name": "CHESTNUT",
         "short_name": "chestnut",
         "short_names": ["chestnut"],
-        "unicode": "",
+        "unicode": "1f330",
         "sort_order": 97
       }, {
         "has_img_apple": true,
@@ -6612,7 +6612,7 @@
         "name": "JACK-O-LANTERN",
         "short_name": "jack_o_lantern",
         "short_names": ["jack_o_lantern"],
-        "unicode": "",
+        "unicode": "1f383",
         "sort_order": 98
       }, {
         "has_img_apple": true,
@@ -6624,7 +6624,7 @@
         "name": "SPIRAL SHELL",
         "short_name": "shell",
         "short_names": ["shell"],
-        "unicode": "",
+        "unicode": "1f41a",
         "sort_order": 99
       }, {
         "has_img_apple": true,
@@ -6636,7 +6636,7 @@
         "name": "SPIDER WEB",
         "short_name": "spider_web",
         "short_names": ["spider_web"],
-        "unicode": "",
+        "unicode": "1f578",
         "sort_order": 100
       }, {
         "has_img_apple": true,
@@ -6648,7 +6648,7 @@
         "name": "EARTH GLOBE AMERICAS",
         "short_name": "earth_americas",
         "short_names": ["earth_americas"],
-        "unicode": "",
+        "unicode": "1f30e",
         "sort_order": 101
       }, {
         "has_img_apple": true,
@@ -6660,7 +6660,7 @@
         "name": "EARTH GLOBE EUROPE-AFRICA",
         "short_name": "earth_africa",
         "short_names": ["earth_africa"],
-        "unicode": "",
+        "unicode": "1f30d",
         "sort_order": 102
       }, {
         "has_img_apple": true,
@@ -6672,7 +6672,7 @@
         "name": "EARTH GLOBE ASIA-AUSTRALIA",
         "short_name": "earth_asia",
         "short_names": ["earth_asia"],
-        "unicode": "",
+        "unicode": "1f30f",
         "sort_order": 103
       }, {
         "has_img_apple": true,
@@ -6684,7 +6684,7 @@
         "name": "FULL MOON SYMBOL",
         "short_name": "full_moon",
         "short_names": ["full_moon"],
-        "unicode": "",
+        "unicode": "1f315",
         "sort_order": 104
       }, {
         "has_img_apple": true,
@@ -6696,7 +6696,7 @@
         "name": "WANING GIBBOUS MOON SYMBOL",
         "short_name": "waning_gibbous_moon",
         "short_names": ["waning_gibbous_moon"],
-        "unicode": "",
+        "unicode": "1f316",
         "sort_order": 105
       }, {
         "has_img_apple": true,
@@ -6708,7 +6708,7 @@
         "name": "LAST QUARTER MOON SYMBOL",
         "short_name": "last_quarter_moon",
         "short_names": ["last_quarter_moon"],
-        "unicode": "",
+        "unicode": "1f317",
         "sort_order": 106
       }, {
         "has_img_apple": true,
@@ -6720,7 +6720,7 @@
         "name": "WANING CRESCENT MOON SYMBOL",
         "short_name": "waning_crescent_moon",
         "short_names": ["waning_crescent_moon"],
-        "unicode": "",
+        "unicode": "1f318",
         "sort_order": 107
       }, {
         "has_img_apple": true,
@@ -6732,7 +6732,7 @@
         "name": "NEW MOON SYMBOL",
         "short_name": "new_moon",
         "short_names": ["new_moon"],
-        "unicode": "",
+        "unicode": "1f311",
         "sort_order": 108
       }, {
         "has_img_apple": true,
@@ -6744,7 +6744,7 @@
         "name": "WAXING CRESCENT MOON SYMBOL",
         "short_name": "waxing_crescent_moon",
         "short_names": ["waxing_crescent_moon"],
-        "unicode": "",
+        "unicode": "1f312",
         "sort_order": 109
       }, {
         "has_img_apple": true,
@@ -6756,7 +6756,7 @@
         "name": "FIRST QUARTER MOON SYMBOL",
         "short_name": "first_quarter_moon",
         "short_names": ["first_quarter_moon"],
-        "unicode": "",
+        "unicode": "1f313",
         "sort_order": 110
       }, {
         "has_img_apple": true,
@@ -6768,7 +6768,7 @@
         "name": "WAXING GIBBOUS MOON SYMBOL",
         "short_name": "moon",
         "short_names": ["moon", "waxing_gibbous_moon"],
-        "unicode": "",
+        "unicode": "1f314",
         "sort_order": 111
       }, {
         "has_img_apple": true,
@@ -6780,7 +6780,7 @@
         "name": "NEW MOON WITH FACE",
         "short_name": "new_moon_with_face",
         "short_names": ["new_moon_with_face"],
-        "unicode": "",
+        "unicode": "1f31a",
         "sort_order": 112
       }, {
         "has_img_apple": true,
@@ -6792,7 +6792,7 @@
         "name": "FULL MOON WITH FACE",
         "short_name": "full_moon_with_face",
         "short_names": ["full_moon_with_face"],
-        "unicode": "",
+        "unicode": "1f31d",
         "sort_order": 113
       }, {
         "has_img_apple": true,
@@ -6804,7 +6804,7 @@
         "name": "FIRST QUARTER MOON WITH FACE",
         "short_name": "first_quarter_moon_with_face",
         "short_names": ["first_quarter_moon_with_face"],
-        "unicode": "",
+        "unicode": "1f31b",
         "sort_order": 114
       }, {
         "has_img_apple": true,
@@ -6816,7 +6816,7 @@
         "name": "LAST QUARTER MOON WITH FACE",
         "short_name": "last_quarter_moon_with_face",
         "short_names": ["last_quarter_moon_with_face"],
-        "unicode": "",
+        "unicode": "1f31c",
         "sort_order": 115
       }, {
         "has_img_apple": true,
@@ -6828,7 +6828,7 @@
         "name": "SUN WITH FACE",
         "short_name": "sun_with_face",
         "short_names": ["sun_with_face"],
-        "unicode": "",
+        "unicode": "1f31e",
         "sort_order": 116
       }, {
         "has_img_apple": true,
@@ -6840,7 +6840,7 @@
         "name": "CRESCENT MOON",
         "short_name": "crescent_moon",
         "short_names": ["crescent_moon"],
-        "unicode": "",
+        "unicode": "1f319",
         "sort_order": 117
       }, {
         "has_img_apple": true,
@@ -6852,7 +6852,7 @@
         "name": "WHITE MEDIUM STAR",
         "short_name": "star",
         "short_names": ["star"],
-        "unicode": "",
+        "unicode": "2b50",
         "sort_order": 118
       }, {
         "has_img_apple": true,
@@ -6864,7 +6864,7 @@
         "name": "GLOWING STAR",
         "short_name": "star2",
         "short_names": ["star2"],
-        "unicode": "",
+        "unicode": "1f31f",
         "sort_order": 119
       }, {
         "has_img_apple": true,
@@ -6876,7 +6876,7 @@
         "name": "DIZZY SYMBOL",
         "short_name": "dizzy",
         "short_names": ["dizzy"],
-        "unicode": "",
+        "unicode": "1f4ab",
         "sort_order": 120
       }, {
         "has_img_apple": true,
@@ -6888,7 +6888,7 @@
         "name": "SPARKLES",
         "short_name": "sparkles",
         "short_names": ["sparkles"],
-        "unicode": "",
+        "unicode": "2728",
         "sort_order": 121
       }, {
         "has_img_apple": true,
@@ -6900,7 +6900,7 @@
         "name": "COMET",
         "short_name": "comet",
         "short_names": ["comet"],
-        "unicode": "",
+        "unicode": "2604",
         "sort_order": 122
       }, {
         "has_img_apple": true,
@@ -6912,7 +6912,7 @@
         "name": "BLACK SUN WITH RAYS",
         "short_name": "sunny",
         "short_names": ["sunny"],
-        "unicode": "",
+        "unicode": "2600",
         "sort_order": 123
       }, {
         "has_img_apple": true,
@@ -6924,7 +6924,7 @@
         "name": "WHITE SUN WITH SMALL CLOUD",
         "short_name": "mostly_sunny",
         "short_names": ["mostly_sunny", "sun_small_cloud"],
-        "unicode": "",
+        "unicode": "1f324",
         "sort_order": 124
       }, {
         "has_img_apple": true,
@@ -6936,7 +6936,7 @@
         "name": "SUN BEHIND CLOUD",
         "short_name": "partly_sunny",
         "short_names": ["partly_sunny"],
-        "unicode": "",
+        "unicode": "26c5",
         "sort_order": 125
       }, {
         "has_img_apple": true,
@@ -6948,7 +6948,7 @@
         "name": "WHITE SUN BEHIND CLOUD",
         "short_name": "barely_sunny",
         "short_names": ["barely_sunny", "sun_behind_cloud"],
-        "unicode": "",
+        "unicode": "1f325",
         "sort_order": 126
       }, {
         "has_img_apple": true,
@@ -6972,7 +6972,7 @@
         "name": "CLOUD",
         "short_name": "cloud",
         "short_names": ["cloud"],
-        "unicode": "",
+        "unicode": "1f326",
         "sort_order": 128
       }, {
         "has_img_apple": true,
@@ -6984,7 +6984,7 @@
         "name": "CLOUD WITH RAIN",
         "short_name": "rain_cloud",
         "short_names": ["rain_cloud"],
-        "unicode": "",
+        "unicode": "1f327",
         "sort_order": 129
       }, {
         "has_img_apple": true,
@@ -6996,7 +6996,7 @@
         "name": "THUNDER CLOUD AND RAIN",
         "short_name": "thunder_cloud_and_rain",
         "short_names": ["thunder_cloud_and_rain"],
-        "unicode": "",
+        "unicode": "26c8",
         "sort_order": 130
       }, {
         "has_img_apple": true,
@@ -7008,7 +7008,7 @@
         "name": "CLOUD WITH LIGHTNING",
         "short_name": "lightning",
         "short_names": ["lightning", "lightning_cloud"],
-        "unicode": "",
+        "unicode": "1f329",
         "sort_order": 131
       }, {
         "has_img_apple": true,
@@ -7020,7 +7020,7 @@
         "name": "HIGH VOLTAGE SIGN",
         "short_name": "zap",
         "short_names": ["zap"],
-        "unicode": "",
+        "unicode": "26a1",
         "sort_order": 132
       }, {
         "has_img_apple": true,
@@ -7032,7 +7032,7 @@
         "name": "FIRE",
         "short_name": "fire",
         "short_names": ["fire"],
-        "unicode": "",
+        "unicode": "1f525",
         "sort_order": 133
       }, {
         "has_img_apple": true,
@@ -7044,7 +7044,7 @@
         "name": "COLLISION SYMBOL",
         "short_name": "boom",
         "short_names": ["boom", "collision"],
-        "unicode": "",
+        "unicode": "1f4a5",
         "sort_order": 134
       }, {
         "has_img_apple": true,
@@ -7056,7 +7056,7 @@
         "name": "SNOWFLAKE",
         "short_name": "snowflake",
         "short_names": ["snowflake"],
-        "unicode": "",
+        "unicode": "2744",
         "sort_order": 135
       }, {
         "has_img_apple": true,
@@ -7068,7 +7068,7 @@
         "name": "CLOUD WITH SNOW",
         "short_name": "snow_cloud",
         "short_names": ["snow_cloud"],
-        "unicode": "",
+        "unicode": "1f328",
         "sort_order": 136
       }, {
         "has_img_apple": true,
@@ -7080,7 +7080,7 @@
         "name": "SNOWMAN",
         "short_name": "snowman",
         "short_names": ["snowman"],
-        "unicode": "",
+        "unicode": "2603",
         "sort_order": 137
       }, {
         "has_img_apple": true,
@@ -7092,7 +7092,7 @@
         "name": "SNOWMAN WITHOUT SNOW",
         "short_name": "snowman_without_snow",
         "short_names": ["snowman_without_snow"],
-        "unicode": "",
+        "unicode": "26c4",
         "sort_order": 138
       }, {
         "has_img_apple": true,
@@ -7104,7 +7104,7 @@
         "name": "WIND BLOWING FACE",
         "short_name": "wind_blowing_face",
         "short_names": ["wind_blowing_face"],
-        "unicode": "",
+        "unicode": "1f32c",
         "sort_order": 139
       }, {
         "has_img_apple": true,
@@ -7116,7 +7116,7 @@
         "name": "DASH SYMBOL",
         "short_name": "dash",
         "short_names": ["dash"],
-        "unicode": "",
+        "unicode": "1f4a8",
         "sort_order": 140
       }, {
         "has_img_apple": true,
@@ -7128,7 +7128,7 @@
         "name": "CLOUD WITH TORNADO",
         "short_name": "tornado",
         "short_names": ["tornado", "tornado_cloud"],
-        "unicode": "",
+        "unicode": "1f32a",
         "sort_order": 141
       }, {
         "has_img_apple": true,
@@ -7140,7 +7140,7 @@
         "name": "FOG",
         "short_name": "fog",
         "short_names": ["fog"],
-        "unicode": "",
+        "unicode": "1f32b",
         "sort_order": 142
       }, {
         "has_img_apple": true,
@@ -7152,7 +7152,7 @@
         "name": "UMBRELLA",
         "short_name": "umbrella",
         "short_names": ["umbrella"],
-        "unicode": "",
+        "unicode": "2602",
         "sort_order": 143
       }, {
         "has_img_apple": true,
@@ -7164,7 +7164,7 @@
         "name": "UMBRELLA WITH RAIN DROPS",
         "short_name": "umbrella_with_rain_drops",
         "short_names": ["umbrella_with_rain_drops"],
-        "unicode": "",
+        "unicode": "2614",
         "sort_order": 144
       }, {
         "has_img_apple": true,
@@ -7176,7 +7176,7 @@
         "name": "DROPLET",
         "short_name": "droplet",
         "short_names": ["droplet"],
-        "unicode": "",
+        "unicode": "1f4a7",
         "sort_order": 145
       }, {
         "has_img_apple": true,
@@ -7188,7 +7188,7 @@
         "name": "SPLASHING SWEAT SYMBOL",
         "short_name": "sweat_drops",
         "short_names": ["sweat_drops"],
-        "unicode": "",
+        "unicode": "1f4a6",
         "sort_order": 146
       }, {
         "has_img_apple": true,
@@ -7200,7 +7200,7 @@
         "name": "WATER WAVE",
         "short_name": "ocean",
         "short_names": ["ocean"],
-        "unicode": "",
+        "unicode": "1f30a",
         "sort_order": 147
       }],
       "Foods": [{
