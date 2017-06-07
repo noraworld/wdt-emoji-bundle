@@ -45,6 +45,20 @@
       'facebook' : '/sheets/sheet_facebook_64_indexed_128.png',
       'messenger': '/sheets/sheet_messenger_64_indexed_128.png'
     },
+    /**
+     *    Key:  number  total
+     * ======================
+     * Symbols:    270  (270)
+     * Objects:    178  (448)
+     * Nature:     147  (595)
+     * Foods:       67  (662)
+     * People:     204  (866)
+     * Places:     115  (981)
+     * Activity:    57 (1038)
+     * Skin Tones:   5 (1043)
+     * Flags:      257 (1300)
+     * ======================
+     */
     emojiData: {
       "Symbols": [{
         "has_img_apple": true,
