@@ -70,7 +70,7 @@
         "name": "HEAVY BLACK HEART",
         "short_name": "heart",
         "short_names": ["heart"],
-        "unicode": "2764-fe0f",
+        "unicode": "2764",
         "sort_order": 1
       }, {
         "has_img_apple": true,
@@ -142,7 +142,7 @@
         "name": "HEAVY HEART EXCLAMATION MARK ORNAMENT",
         "short_name": "heavy_heart_exclamation_mark_ornament",
         "short_names": ["heavy_heart_exclamation_mark_ornament"],
-        "unicode": "",
+        "unicode": "2763",
         "sort_order": 7
       }, {
         "has_img_apple": true,
@@ -250,7 +250,7 @@
         "name": "PEACE SYMBOL",
         "short_name": "peace_symbol",
         "short_names": ["peace_symbol"],
-        "unicode": "",
+        "unicode": "262e",
         "sort_order": 16
       }, {
         "has_img_apple": true,
@@ -262,7 +262,7 @@
         "name": "LATIN CROSS",
         "short_name": "latin_cross",
         "short_names": ["latin_cross"],
-        "unicode": "",
+        "unicode": "271d",
         "sort_order": 17
       }, {
         "has_img_apple": true,
@@ -274,7 +274,7 @@
         "name": "STAR AND CRESCENT",
         "short_name": "star_and_crescent",
         "short_names": ["star_and_crescent"],
-        "unicode": "262a-fe0f",
+        "unicode": "262a",
         "sort_order": 18
       }, {
         "has_img_apple": true,
@@ -286,7 +286,7 @@
         "name": "OM SYMBOL",
         "short_name": "om_symbol",
         "short_names": ["om_symbol"],
-        "unicode": "1f549-fe0f",
+        "unicode": "1f549",
         "sort_order": 19
       }, {
         "has_img_apple": true,
@@ -298,7 +298,7 @@
         "name": "WHEEL OF DHARMA",
         "short_name": "wheel_of_dharma",
         "short_names": ["wheel_of_dharma"],
-        "unicode": "2638-fe0f",
+        "unicode": "2638",
         "sort_order": 20
       }, {
         "has_img_apple": true,
@@ -310,7 +310,7 @@
         "name": "STAR OF DAVID",
         "short_name": "star_of_david",
         "short_names": ["star_of_david"],
-        "unicode": "2721-fe0f",
+        "unicode": "2721",
         "sort_order": 21
       }, {
         "has_img_apple": true,
@@ -334,7 +334,7 @@
         "name": "MENORAH WITH NINE BRANCHES",
         "short_name": "menorah_with_nine_branches",
         "short_names": ["menorah_with_nine_branches"],
-        "unicode": "",
+        "unicode": "1f54e",
         "sort_order": 23
       }, {
         "has_img_apple": true,
@@ -346,7 +346,7 @@
         "name": "YIN YANG",
         "short_name": "yin_yang",
         "short_names": ["yin_yang"],
-        "unicode": "262f-fe0f",
+        "unicode": "262f",
         "sort_order": 24
       }, {
         "has_img_apple": true,
@@ -358,7 +358,7 @@
         "name": "ORTHODOX CROSS",
         "short_name": "orthodox_cross",
         "short_names": ["orthodox_cross"],
-        "unicode": "2626-fe0f",
+        "unicode": "2626",
         "sort_order": 25
       }, {
         "has_img_apple": true,
@@ -550,7 +550,7 @@
         "name": "ATOM SYMBOL",
         "short_name": "atom_symbol",
         "short_names": ["atom_symbol"],
-        "unicode": "",
+        "unicode": "269b",
         "sort_order": 41
       }, {
         "has_img_apple": true,
@@ -586,7 +586,7 @@
         "name": "RADIOACTIVE SIGN",
         "short_name": "radioactive_sign",
         "short_names": ["radioactive_sign"],
-        "unicode": "",
+        "unicode": "2622",
         "sort_order": 44
       }, {
         "has_img_apple": true,
@@ -598,7 +598,7 @@
         "name": "BIOHAZARD SIGN",
         "short_name": "biohazard_sign",
         "short_names": ["biohazard_sign"],
-        "unicode": "",
+        "unicode": "2623",
         "sort_order": 45
       }, {
         "has_img_apple": true,
@@ -682,7 +682,7 @@
         "name": "SQUARED CJK UNIFIED IDEOGRAPH-6708",
         "short_name": "u6708",
         "short_names": ["u6708"],
-        "unicode": "1f237-fe0f",
+        "unicode": "1f237",
         "sort_order": 52
       }, {
         "has_img_apple": true,
@@ -694,7 +694,7 @@
         "name": "EIGHT POINTED BLACK STAR",
         "short_name": "eight_pointed_black_star",
         "short_names": ["eight_pointed_black_star"],
-        "unicode": "2734-fe0f",
+        "unicode": "2734",
         "sort_order": 53
       }, {
         "has_img_apple": true,
@@ -754,7 +754,7 @@
         "name": "CIRCLED IDEOGRAPH SECRET",
         "short_name": "secret",
         "short_names": ["secret"],
-        "unicode": "3299-fe0f",
+        "unicode": "3299",
         "sort_order": 58
       }, {
         "has_img_apple": true,
@@ -766,7 +766,7 @@
         "name": "CIRCLED IDEOGRAPH CONGRATULATION",
         "short_name": "congratulations",
         "short_names": ["congratulations"],
-        "unicode": "3297-fe0f",
+        "unicode": "3297",
         "sort_order": 59
       }, {
         "has_img_apple": true,
@@ -814,7 +814,7 @@
         "name": "NEGATIVE SQUARED LATIN CAPITAL LETTER A",
         "short_name": "a",
         "short_names": ["a"],
-        "unicode": "1f170-fe0f",
+        "unicode": "1f170",
         "sort_order": 63
       }, {
         "has_img_apple": true,
@@ -826,7 +826,7 @@
         "name": "NEGATIVE SQUARED LATIN CAPITAL LETTER B",
         "short_name": "b",
         "short_names": ["b"],
-        "unicode": "1f171-fe0f",
+        "unicode": "1f171",
         "sort_order": 64
       }, {
         "has_img_apple": true,
@@ -862,7 +862,7 @@
         "name": "NEGATIVE SQUARED LATIN CAPITAL LETTER O",
         "short_name": "o2",
         "short_names": ["o2"],
-        "unicode": "1f17e-fe0f",
+        "unicode": "1f17e",
         "sort_order": 67
       }, {
         "has_img_apple": true,
@@ -958,7 +958,7 @@
         "name": "HOT SPRINGS",
         "short_name": "hotsprings",
         "short_names": ["hotsprings"],
-        "unicode": "2668-fe0f",
+        "unicode": "2668",
         "sort_order": 75
       }, {
         "has_img_apple": true,
@@ -1090,7 +1090,7 @@
         "name": "DOUBLE EXCLAMATION MARK",
         "short_name": "bangbang",
         "short_names": ["bangbang"],
-        "unicode": "203c-fe0f",
+        "unicode": "203c",
         "sort_order": 86
       }, {
         "has_img_apple": true,
@@ -1102,7 +1102,7 @@
         "name": "EXCLAMATION QUESTION MARK",
         "short_name": "interrobang",
         "short_names": ["interrobang"],
-        "unicode": "2049-fe0f",
+        "unicode": "2049",
         "sort_order": 87
       }, {
         "has_img_apple": true,
@@ -1162,7 +1162,7 @@
         "name": "FLEUR-DE-LIS",
         "short_name": "fleur_de_lis",
         "short_names": ["fleur_de_lis"],
-        "unicode": "",
+        "unicode": "269c",
         "sort_order": 92
       }, {
         "has_img_apple": true,
@@ -1174,7 +1174,7 @@
         "name": "PART ALTERNATION MARK",
         "short_name": "part_alternation_mark",
         "short_names": ["part_alternation_mark"],
-        "unicode": "303d-fe0f",
+        "unicode": "303d",
         "sort_order": 93
       }, {
         "has_img_apple": true,
@@ -1186,7 +1186,7 @@
         "name": "WARNING SIGN",
         "short_name": "warning",
         "short_names": ["warning"],
-        "unicode": "26a0-fe0f",
+        "unicode": "26a0",
         "sort_order": 94
       }, {
         "has_img_apple": true,
@@ -1222,7 +1222,7 @@
         "name": "BLACK UNIVERSAL RECYCLING SYMBOL",
         "short_name": "recycle",
         "short_names": ["recycle"],
-        "unicode": "267b-fe0f",
+        "unicode": "267b",
         "sort_order": 97
       }, {
         "has_img_apple": true,
@@ -1258,7 +1258,7 @@
         "name": "SPARKLE",
         "short_name": "sparkle",
         "short_names": ["sparkle"],
-        "unicode": "2747-fe0f",
+        "unicode": "2747",
         "sort_order": 100
       }, {
         "has_img_apple": true,
@@ -1270,7 +1270,7 @@
         "name": "EIGHT SPOKED ASTERISK",
         "short_name": "eight_spoked_asterisk",
         "short_names": ["eight_spoked_asterisk"],
-        "unicode": "2733-fe0f",
+        "unicode": "2733",
         "sort_order": 101
       }, {
         "has_img_apple": true,
@@ -1354,7 +1354,7 @@
         "name": "CIRCLED LATIN CAPITAL LETTER M",
         "short_name": "m",
         "short_names": ["m"],
-        "unicode": "24c2-fe0f",
+        "unicode": "24c2",
         "sort_order": 108
       }, {
         "has_img_apple": true,
@@ -1378,7 +1378,7 @@
         "name": "SQUARED KATAKANA SA",
         "short_name": "sa",
         "short_names": ["sa"],
-        "unicode": "1f202-fe0f",
+        "unicode": "1f202",
         "sort_order": 110
       }, {
         "has_img_apple": true,
@@ -1474,7 +1474,7 @@
         "name": "NEGATIVE SQUARED LATIN CAPITAL LETTER P",
         "short_name": "parking",
         "short_names": ["parking"],
-        "unicode": "1f17f-fe0f",
+        "unicode": "1f17f",
         "sort_order": 118
       }, {
         "has_img_apple": true,
@@ -1666,7 +1666,7 @@
         "name": "KEYCAP 0",
         "short_name": "zero",
         "short_names": ["zero"],
-        "unicode": "0030-fe0f-20e3",
+        "unicode": "0030-20e3",
         "sort_order": 134
       }, {
         "has_img_apple": true,
@@ -1678,7 +1678,7 @@
         "name": "KEYCAP 1",
         "short_name": "one",
         "short_names": ["one"],
-        "unicode": "0031-fe0f-20e3",
+        "unicode": "0031-20e3",
         "sort_order": 135
       }, {
         "has_img_apple": true,
@@ -1690,7 +1690,7 @@
         "name": "KEYCAP 2",
         "short_name": "two",
         "short_names": ["two"],
-        "unicode": "0032-fe0f-20e3",
+        "unicode": "0032-20e3",
         "sort_order": 136
       }, {
         "has_img_apple": true,
@@ -1702,7 +1702,7 @@
         "name": "KEYCAP 3",
         "short_name": "three",
         "short_names": ["three"],
-        "unicode": "0033-fe0f-20e3",
+        "unicode": "0033-20e3",
         "sort_order": 137
       }, {
         "has_img_apple": true,
@@ -1714,7 +1714,7 @@
         "name": "KEYCAP 4",
         "short_name": "four",
         "short_names": ["four"],
-        "unicode": "0034-fe0f-20e3",
+        "unicode": "0034-20e3",
         "sort_order": 138
       }, {
         "has_img_apple": true,
@@ -1726,7 +1726,7 @@
         "name": "KEYCAP 5",
         "short_name": "five",
         "short_names": ["five"],
-        "unicode": "0035-fe0f-20e3",
+        "unicode": "0035-20e3",
         "sort_order": 139
       }, {
         "has_img_apple": true,
@@ -1738,7 +1738,7 @@
         "name": "KEYCAP 6",
         "short_name": "six",
         "short_names": ["six"],
-        "unicode": "0036-fe0f-20e3",
+        "unicode": "0036-20e3",
         "sort_order": 140
       }, {
         "has_img_apple": true,
@@ -1750,7 +1750,7 @@
         "name": "KEYCAP 7",
         "short_name": "seven",
         "short_names": ["seven"],
-        "unicode": "0037-fe0f-20e3",
+        "unicode": "0037-20e3",
         "sort_order": 141
       }, {
         "has_img_apple": true,
@@ -1762,7 +1762,7 @@
         "name": "KEYCAP 8",
         "short_name": "eight",
         "short_names": ["eight"],
-        "unicode": "0038-fe0f-20e3",
+        "unicode": "0038-20e3",
         "sort_order": 142
       }, {
         "has_img_apple": true,
@@ -1774,7 +1774,7 @@
         "name": "KEYCAP 9",
         "short_name": "nine",
         "short_names": ["nine"],
-        "unicode": "0039-fe0f-20e3",
+        "unicode": "0039-20e3",
         "sort_order": 143
       }, {
         "has_img_apple": true,
@@ -1798,7 +1798,7 @@
         "name": null,
         "short_name": "keycap_star",
         "short_names": ["keycap_star"],
-        "unicode": "",
+        "unicode": "002a-20e3",
         "sort_order": 145
       }, {
         "has_img_apple": true,
@@ -1822,7 +1822,7 @@
         "name": "BLACK RIGHT-POINTING TRIANGLE",
         "short_name": "arrow_forward",
         "short_names": ["arrow_forward"],
-        "unicode": "25b6-fe0f",
+        "unicode": "25b6",
         "sort_order": 147
       }, {
         "has_img_apple": true,
@@ -1834,7 +1834,7 @@
         "name": "DOUBLE VERTICAL BAR",
         "short_name": "double_vertical_bar",
         "short_names": ["double_vertical_bar"],
-        "unicode": "",
+        "unicode": "23f8",
         "sort_order": 148
       }, {
         "has_img_apple": true,
@@ -1846,7 +1846,7 @@
         "name": "BLACK RIGHT-POINTING TRIANGLE WITH DOUBLE VERTICAL BAR",
         "short_name": "black_right_pointing_triangle_with_double_vertical_bar",
         "short_names": ["black_right_pointing_triangle_with_double_vertical_bar"],
-        "unicode": "",
+        "unicode": "23ef",
         "sort_order": 149
       }, {
         "has_img_apple": true,
@@ -1858,7 +1858,7 @@
         "name": "BLACK SQUARE FOR STOP",
         "short_name": "black_square_for_stop",
         "short_names": ["black_square_for_stop"],
-        "unicode": "",
+        "unicode": "23f9",
         "sort_order": 150
       }, {
         "has_img_apple": false,
@@ -1870,7 +1870,7 @@
         "name": "EJECT SYMBOL",
         "short_name": "eject",
         "short_names": ["eject"],
-        "unicode": "23cf-fe0f",
+        "unicode": "23cf",
         "sort_order": 151
       }, {
         "has_img_apple": true,
@@ -1882,7 +1882,7 @@
         "name": "BLACK CIRCLE FOR RECORD",
         "short_name": "black_circle_for_record",
         "short_names": ["black_circle_for_record"],
-        "unicode": "",
+        "unicode": "23fa",
         "sort_order": 152
       }, {
         "has_img_apple": true,
@@ -1894,7 +1894,7 @@
         "name": "BLACK RIGHT-POINTING DOUBLE TRIANGLE WITH VERTICAL BAR",
         "short_name": "black_right_pointing_double_triangle_with_vertical_bar",
         "short_names": ["black_right_pointing_double_triangle_with_vertical_bar"],
-        "unicode": "",
+        "unicode": "23ed",
         "sort_order": 153
       }, {
         "has_img_apple": true,
@@ -1906,7 +1906,7 @@
         "name": "BLACK LEFT-POINTING DOUBLE TRIANGLE WITH VERTICAL BAR",
         "short_name": "black_left_pointing_double_triangle_with_vertical_bar",
         "short_names": ["black_left_pointing_double_triangle_with_vertical_bar"],
-        "unicode": "",
+        "unicode": "23ee",
         "sort_order": 154
       }, {
         "has_img_apple": true,
@@ -1978,7 +1978,7 @@
         "name": "BLACK LEFT-POINTING TRIANGLE",
         "short_name": "arrow_backward",
         "short_names": ["arrow_backward"],
-        "unicode": "25c0-fe0f",
+        "unicode": "25c0",
         "sort_order": 160
       }, {
         "has_img_apple": true,
@@ -2038,7 +2038,7 @@
         "name": "BLACK RIGHTWARDS ARROW",
         "short_name": "arrow_right",
         "short_names": ["arrow_right"],
-        "unicode": "27a1-fe0f",
+        "unicode": "27a1",
         "sort_order": 165
       }, {
         "has_img_apple": true,
@@ -2050,7 +2050,7 @@
         "name": "LEFTWARDS BLACK ARROW",
         "short_name": "arrow_left",
         "short_names": ["arrow_left"],
-        "unicode": "2b05-fe0f",
+        "unicode": "2b05",
         "sort_order": 166
       }, {
         "has_img_apple": true,
@@ -2062,7 +2062,7 @@
         "name": "UPWARDS BLACK ARROW",
         "short_name": "arrow_up",
         "short_names": ["arrow_up"],
-        "unicode": "2b06-fe0f",
+        "unicode": "2b06",
         "sort_order": 167
       }, {
         "has_img_apple": true,
@@ -2074,7 +2074,7 @@
         "name": "DOWNWARDS BLACK ARROW",
         "short_name": "arrow_down",
         "short_names": ["arrow_down"],
-        "unicode": "2b07-fe0f",
+        "unicode": "2b07",
         "sort_order": 168
       }, {
         "has_img_apple": true,
@@ -2086,7 +2086,7 @@
         "name": "NORTH EAST ARROW",
         "short_name": "arrow_upper_right",
         "short_names": ["arrow_upper_right"],
-        "unicode": "2197-fe0f",
+        "unicode": "2197",
         "sort_order": 169
       }, {
         "has_img_apple": true,
@@ -2098,7 +2098,7 @@
         "name": "SOUTH EAST ARROW",
         "short_name": "arrow_lower_right",
         "short_names": ["arrow_lower_right"],
-        "unicode": "2198-fe0f",
+        "unicode": "2198",
         "sort_order": 170
       }, {
         "has_img_apple": true,
@@ -2110,7 +2110,7 @@
         "name": "SOUTH WEST ARROW",
         "short_name": "arrow_lower_left",
         "short_names": ["arrow_lower_left"],
-        "unicode": "2199-fe0f",
+        "unicode": "2199",
         "sort_order": 171
       }, {
         "has_img_apple": true,
@@ -2122,7 +2122,7 @@
         "name": "NORTH WEST ARROW",
         "short_name": "arrow_upper_left",
         "short_names": ["arrow_upper_left"],
-        "unicode": "2196-fe0f",
+        "unicode": "2196",
         "sort_order": 172
       }, {
         "has_img_apple": true,
@@ -2134,7 +2134,7 @@
         "name": "UP DOWN ARROW",
         "short_name": "arrow_up_down",
         "short_names": ["arrow_up_down"],
-        "unicode": "2195-fe0f",
+        "unicode": "2195",
         "sort_order": 173
       }, {
         "has_img_apple": true,
@@ -2146,7 +2146,7 @@
         "name": "LEFT RIGHT ARROW",
         "short_name": "left_right_arrow",
         "short_names": ["left_right_arrow"],
-        "unicode": "2194-fe0f",
+        "unicode": "2194",
         "sort_order": 174
       }, {
         "has_img_apple": true,
@@ -2170,7 +2170,7 @@
         "name": "RIGHTWARDS ARROW WITH HOOK",
         "short_name": "arrow_right_hook",
         "short_names": ["arrow_right_hook"],
-        "unicode": "21aa-fe0f",
+        "unicode": "21aa",
         "sort_order": 176
       }, {
         "has_img_apple": true,
@@ -2182,7 +2182,7 @@
         "name": "LEFTWARDS ARROW WITH HOOK",
         "short_name": "leftwards_arrow_with_hook",
         "short_names": ["leftwards_arrow_with_hook"],
-        "unicode": "21a9-fe0f",
+        "unicode": "21a9",
         "sort_order": 177
       }, {
         "has_img_apple": true,
@@ -2194,7 +2194,7 @@
         "name": "ARROW POINTING RIGHTWARDS THEN CURVING UPWARDS",
         "short_name": "arrow_heading_up",
         "short_names": ["arrow_heading_up"],
-        "unicode": "2934-fe0f",
+        "unicode": "2934",
         "sort_order": 178
       }, {
         "has_img_apple": true,
@@ -2206,7 +2206,7 @@
         "name": "ARROW POINTING RIGHTWARDS THEN CURVING DOWNWARDS",
         "short_name": "arrow_heading_down",
         "short_names": ["arrow_heading_down"],
-        "unicode": "2935-fe0f",
+        "unicode": "2935",
         "sort_order": 179
       }, {
         "has_img_apple": true,
@@ -2218,7 +2218,7 @@
         "name": "HASH KEY",
         "short_name": "hash",
         "short_names": ["hash"],
-        "unicode": "0023-fe0f-20e3",
+        "unicode": "0023-20e3",
         "sort_order": 180
       }, {
         "has_img_apple": true,
@@ -2230,7 +2230,7 @@
         "name": "INFORMATION SOURCE",
         "short_name": "information_source",
         "short_names": ["information_source"],
-        "unicode": "2139-fe0f",
+        "unicode": "2139",
         "sort_order": 181
       }, {
         "has_img_apple": true,
@@ -2314,7 +2314,7 @@
         "name": "WAVY DASH",
         "short_name": "wavy_dash",
         "short_names": ["wavy_dash"],
-        "unicode": "3030-fe0f",
+        "unicode": "3030",
         "sort_order": 188
       }, {
         "has_img_apple": true,
@@ -2338,7 +2338,7 @@
         "name": "HEAVY CHECK MARK",
         "short_name": "heavy_check_mark",
         "short_names": ["heavy_check_mark"],
-        "unicode": "2714-fe0f",
+        "unicode": "2714",
         "sort_order": 190
       }, {
         "has_img_apple": true,
@@ -2398,7 +2398,7 @@
         "name": "HEAVY MULTIPLICATION X",
         "short_name": "heavy_multiplication_x",
         "short_names": ["heavy_multiplication_x"],
-        "unicode": "2716-fe0f",
+        "unicode": "2716",
         "sort_order": 195
       }, {
         "has_img_apple": true,
@@ -2434,7 +2434,7 @@
         "name": "COPYRIGHT SIGN",
         "short_name": "copyright",
         "short_names": ["copyright"],
-        "unicode": "00a9-fe0f",
+        "unicode": "00a9",
         "sort_order": 198
       }, {
         "has_img_apple": true,
@@ -2446,7 +2446,7 @@
         "name": "REGISTERED SIGN",
         "short_name": "registered",
         "short_names": ["registered"],
-        "unicode": "00ae-fe0f",
+        "unicode": "00ae",
         "sort_order": 199
       }, {
         "has_img_apple": true,
@@ -2458,7 +2458,7 @@
         "name": "TRADE MARK SIGN",
         "short_name": "tm",
         "short_names": ["tm"],
-        "unicode": "2122-fe0f",
+        "unicode": "2122",
         "sort_order": 200
       }, {
         "has_img_apple": true,
@@ -2530,7 +2530,7 @@
         "name": "BALLOT BOX WITH CHECK",
         "short_name": "ballot_box_with_check",
         "short_names": ["ballot_box_with_check"],
-        "unicode": "2611-fe0f",
+        "unicode": "2611",
         "sort_order": 206
       }, {
         "has_img_apple": true,
@@ -2590,7 +2590,7 @@
         "name": "LARGE BLUE CIRCLE",
         "short_name": "large_blue_circle",
         "short_names": ["large_blue_circle"],
-        "unicode": "",
+        "unicode": "1f535",
         "sort_order": 211
       }, {
         "has_img_apple": true,
@@ -2662,7 +2662,7 @@
         "name": "BLACK SMALL SQUARE",
         "short_name": "black_small_square",
         "short_names": ["black_small_square"],
-        "unicode": "25aa-fe0f",
+        "unicode": "25aa",
         "sort_order": 217
       }, {
         "has_img_apple": true,
@@ -2674,7 +2674,7 @@
         "name": "WHITE SMALL SQUARE",
         "short_name": "white_small_square",
         "short_names": ["white_small_square"],
-        "unicode": "25ab-fe0f",
+        "unicode": "25ab",
         "sort_order": 218
       }, {
         "has_img_apple": true,
@@ -2722,7 +2722,7 @@
         "name": "BLACK MEDIUM SQUARE",
         "short_name": "black_medium_square",
         "short_names": ["black_medium_square"],
-        "unicode": "25fc-fe0f",
+        "unicode": "25fc",
         "sort_order": 222
       }, {
         "has_img_apple": true,
@@ -2734,7 +2734,7 @@
         "name": "WHITE MEDIUM SQUARE",
         "short_name": "white_medium_square",
         "short_names": ["white_medium_square"],
-        "unicode": "25fb-fe0f",
+        "unicode": "25fb",
         "sort_order": 223
       }, {
         "has_img_apple": true,
@@ -2914,7 +2914,7 @@
         "name": "BLACK SPADE SUIT",
         "short_name": "spades",
         "short_names": ["spades"],
-        "unicode": "2660-fe0f",
+        "unicode": "2660",
         "sort_order": 238
       }, {
         "has_img_apple": true,
@@ -2926,7 +2926,7 @@
         "name": "BLACK CLUB SUIT",
         "short_name": "clubs",
         "short_names": ["clubs"],
-        "unicode": "2663-fe0f",
+        "unicode": "2663",
         "sort_order": 239
       }, {
         "has_img_apple": true,
@@ -2938,7 +2938,7 @@
         "name": "BLACK HEART SUIT",
         "short_name": "hearts",
         "short_names": ["hearts"],
-        "unicode": "2665-fe0f",
+        "unicode": "2665",
         "sort_order": 240
       }, {
         "has_img_apple": true,
@@ -2950,7 +2950,7 @@
         "name": "BLACK DIAMOND SUIT",
         "short_name": "diamonds",
         "short_names": ["diamonds"],
-        "unicode": "2666-fe0f",
+        "unicode": "2666",
         "sort_order": 241
       }, {
         "has_img_apple": true,
@@ -2986,7 +2986,7 @@
         "name": "RIGHT ANGER BUBBLE",
         "short_name": "right_anger_bubble",
         "short_names": ["right_anger_bubble"],
-        "unicode": "",
+        "unicode": "1f5ef",
         "sort_order": 244
       }, {
         "has_img_apple": true,
@@ -3010,7 +3010,7 @@
         "name": "LEFT SPEECH BUBBLE",
         "short_name": "left_speech_bubble",
         "short_names": ["left_speech_bubble"],
-        "unicode": "",
+        "unicode": "1f5e8",
         "sort_order": 246
       }, {
         "has_img_apple": true,
@@ -3359,7 +3359,7 @@
         "name": "KEYBOARD",
         "short_name": "keyboard",
         "short_names": ["keyboard"],
-        "unicode": "2328-fe0f",
+        "unicode": "2328",
         "sort_order": 5
       }, {
         "has_img_apple": true,
@@ -3371,7 +3371,7 @@
         "name": "DESKTOP COMPUTER",
         "short_name": "desktop_computer",
         "short_names": ["desktop_computer"],
-        "unicode": "",
+        "unicode": "1f5a5",
         "sort_order": 6
       }, {
         "has_img_apple": true,
@@ -3383,7 +3383,7 @@
         "name": "PRINTER",
         "short_name": "printer",
         "short_names": ["printer"],
-        "unicode": "1f5a8-fe0f",
+        "unicode": "1f5a8",
         "sort_order": 7
       }, {
         "has_img_apple": true,
@@ -3395,7 +3395,7 @@
         "name": "THREE BUTTON MOUSE",
         "short_name": "three_button_mouse",
         "short_names": ["three_button_mouse"],
-        "unicode": "",
+        "unicode": "1f5b1",
         "sort_order": 8
       }, {
         "has_img_apple": true,
@@ -3407,7 +3407,7 @@
         "name": "TRACKBALL",
         "short_name": "trackball",
         "short_names": ["trackball"],
-        "unicode": "1f5b2-fe0f",
+        "unicode": "1f5b2",
         "sort_order": 9
       }, {
         "has_img_apple": true,
@@ -3419,7 +3419,7 @@
         "name": "JOYSTICK",
         "short_name": "joystick",
         "short_names": ["joystick"],
-        "unicode": "1f579-fe0f",
+        "unicode": "1f579",
         "sort_order": 10
       }, {
         "has_img_apple": true,
@@ -3431,7 +3431,7 @@
         "name": "COMPRESSION",
         "short_name": "compression",
         "short_names": ["compression"],
-        "unicode": "1f5dc-fe0f",
+        "unicode": "1f5dc",
         "sort_order": 11
       }, {
         "has_img_apple": true,
@@ -3551,7 +3551,7 @@
         "name": "FILM PROJECTOR",
         "short_name": "film_projector",
         "short_names": ["film_projector"],
-        "unicode": "",
+        "unicode": "1f4fd",
         "sort_order": 21
       }, {
         "has_img_apple": true,
@@ -3563,7 +3563,7 @@
         "name": "FILM FRAMES",
         "short_name": "film_frames",
         "short_names": ["film_frames"],
-        "unicode": "1f39e-fe0f",
+        "unicode": "1f39e",
         "sort_order": 22
       }, {
         "has_img_apple": true,
@@ -3587,7 +3587,7 @@
         "name": "BLACK TELEPHONE",
         "short_name": "phone",
         "short_names": ["phone", "telephone"],
-        "unicode": "260e-fe0f",
+        "unicode": "260e",
         "sort_order": 24
       }, {
         "has_img_apple": true,
@@ -3647,7 +3647,7 @@
         "name": "STUDIO MICROPHONE",
         "short_name": "studio_microphone",
         "short_names": ["studio_microphone"],
-        "unicode": "",
+        "unicode": "1f399",
         "sort_order": 29
       }, {
         "has_img_apple": true,
@@ -3659,7 +3659,7 @@
         "name": "LEVEL SLIDER",
         "short_name": "level_slider",
         "short_names": ["level_slider"],
-        "unicode": "1f39a-fe0f",
+        "unicode": "1f39a",
         "sort_order": 30
       }, {
         "has_img_apple": true,
@@ -3671,7 +3671,7 @@
         "name": "CONTROL KNOBS",
         "short_name": "control_knobs",
         "short_names": ["control_knobs"],
-        "unicode": "1f39b-fe0f",
+        "unicode": "1f39b",
         "sort_order": 31
       }, {
         "has_img_apple": true,
@@ -3683,7 +3683,7 @@
         "name": "STOPWATCH",
         "short_name": "stopwatch",
         "short_names": ["stopwatch"],
-        "unicode": "23f1-fe0f",
+        "unicode": "23f1",
         "sort_order": 32
       }, {
         "has_img_apple": true,
@@ -3695,7 +3695,7 @@
         "name": "TIMER CLOCK",
         "short_name": "timer_clock",
         "short_names": ["timer_clock"],
-        "unicode": "",
+        "unicode": "23f2",
         "sort_order": 33
       }, {
         "has_img_apple": true,
@@ -3719,7 +3719,7 @@
         "name": "MANTELPIECE CLOCK",
         "short_name": "mantelpiece_clock",
         "short_names": ["mantelpiece_clock"],
-        "unicode": "",
+        "unicode": "1f570",
         "sort_order": 35
       }, {
         "has_img_apple": true,
@@ -3755,7 +3755,7 @@
         "name": "SATELLITE ANTENNA",
         "short_name": "satellite_antenna",
         "short_names": ["satellite_antenna"],
-        "unicode": "",
+        "unicode": "1f4e1",
         "sort_order": 38
       }, {
         "has_img_apple": true,
@@ -3815,7 +3815,7 @@
         "name": "CANDLE",
         "short_name": "candle",
         "short_names": ["candle"],
-        "unicode": "1f56f-fe0f",
+        "unicode": "1f56f",
         "sort_order": 43
       }, {
         "has_img_apple": true,
@@ -3827,7 +3827,7 @@
         "name": "WASTEBASKET",
         "short_name": "wastebasket",
         "short_names": ["wastebasket"],
-        "unicode": "1f5d1-fe0f",
+        "unicode": "1f5d1",
         "sort_order": 44
       }, {
         "has_img_apple": true,
@@ -3839,7 +3839,7 @@
         "name": "OIL DRUM",
         "short_name": "oil_drum",
         "short_names": ["oil_drum"],
-        "unicode": "",
+        "unicode": "1f6e2",
         "sort_order": 45
       }, {
         "has_img_apple": true,
@@ -3947,7 +3947,7 @@
         "name": "SCALES",
         "short_name": "scales",
         "short_names": ["scales"],
-        "unicode": "2696-fe0f",
+        "unicode": "2696",
         "sort_order": 54
       }, {
         "has_img_apple": true,
@@ -3983,7 +3983,7 @@
         "name": "HAMMER AND PICK",
         "short_name": "hammer_and_pick",
         "short_names": ["hammer_and_pick"],
-        "unicode": "",
+        "unicode": "2692",
         "sort_order": 57
       }, {
         "has_img_apple": true,
@@ -3995,7 +3995,7 @@
         "name": "HAMMER AND WRENCH",
         "short_name": "hammer_and_wrench",
         "short_names": ["hammer_and_wrench"],
-        "unicode": "",
+        "unicode": "1f6e0",
         "sort_order": 58
       }, {
         "has_img_apple": true,
@@ -4007,7 +4007,7 @@
         "name": "PICK",
         "short_name": "pick",
         "short_names": ["pick"],
-        "unicode": "26cf-fe0f",
+        "unicode": "26cf",
         "sort_order": 59
       }, {
         "has_img_apple": true,
@@ -4031,7 +4031,7 @@
         "name": "GEAR",
         "short_name": "gear",
         "short_names": ["gear"],
-        "unicode": "2699-fe0f",
+        "unicode": "2699",
         "sort_order": 61
       }, {
         "has_img_apple": true,
@@ -4043,7 +4043,7 @@
         "name": "CHAINS",
         "short_name": "chains",
         "short_names": ["chains"],
-        "unicode": "26d3-fe0f",
+        "unicode": "26d3",
         "sort_order": 62
       }, {
         "has_img_apple": true,
@@ -4091,7 +4091,7 @@
         "name": "DAGGER KNIFE",
         "short_name": "dagger_knife",
         "short_names": ["dagger_knife"],
-        "unicode": "",
+        "unicode": "1f5e1",
         "sort_order": 66
       }, {
         "has_img_apple": true,
@@ -4103,7 +4103,7 @@
         "name": "CROSSED SWORDS",
         "short_name": "crossed_swords",
         "short_names": ["crossed_swords"],
-        "unicode": "2694-fe0f",
+        "unicode": "2694",
         "sort_order": 67
       }, {
         "has_img_apple": true,
@@ -4115,7 +4115,7 @@
         "name": "SHIELD",
         "short_name": "shield",
         "short_names": ["shield"],
-        "unicode": "1f6e1-fe0f",
+        "unicode": "1f6e1",
         "sort_order": 68
       }, {
         "has_img_apple": true,
@@ -4139,7 +4139,7 @@
         "name": "SKULL AND CROSSBONES",
         "short_name": "skull_and_crossbones",
         "short_names": ["skull_and_crossbones"],
-        "unicode": "",
+        "unicode": "2620",
         "sort_order": 70
       }, {
         "has_img_apple": true,
@@ -4151,7 +4151,7 @@
         "name": "COFFIN",
         "short_name": "coffin",
         "short_names": ["coffin"],
-        "unicode": "26b0-fe0f",
+        "unicode": "26b0",
         "sort_order": 71
       }, {
         "has_img_apple": true,
@@ -4163,7 +4163,7 @@
         "name": "FUNERAL URN",
         "short_name": "funeral_urn",
         "short_names": ["funeral_urn"],
-        "unicode": "",
+        "unicode": "26b1",
         "sort_order": 72
       }, {
         "has_img_apple": true,
@@ -4223,7 +4223,7 @@
         "name": "ALEMBIC",
         "short_name": "alembic",
         "short_names": ["alembic"],
-        "unicode": "2697-fe0f",
+        "unicode": "2697",
         "sort_order": 77
       }, {
         "has_img_apple": true,
@@ -4259,7 +4259,7 @@
         "name": "HOLE",
         "short_name": "hole",
         "short_names": ["hole"],
-        "unicode": "1f573-fe0f",
+        "unicode": "1f573",
         "sort_order": 80
       }, {
         "has_img_apple": true,
@@ -4295,7 +4295,7 @@
         "name": "THERMOMETER",
         "short_name": "thermometer",
         "short_names": ["thermometer"],
-        "unicode": "1f321-fe0f",
+        "unicode": "1f321",
         "sort_order": 83
       }, {
         "has_img_apple": true,
@@ -4307,7 +4307,7 @@
         "name": "LABEL",
         "short_name": "label",
         "short_names": ["label"],
-        "unicode": "1f3f7-fe0f",
+        "unicode": "1f3f7",
         "sort_order": 84
       }, {
         "has_img_apple": true,
@@ -4379,7 +4379,7 @@
         "name": "OLD KEY",
         "short_name": "old_key",
         "short_names": ["old_key"],
-        "unicode": "",
+        "unicode": "1f5dd",
         "sort_order": 90
       }, {
         "has_img_apple": true,
@@ -4391,7 +4391,7 @@
         "name": "COUCH AND LAMP",
         "short_name": "couch_and_lamp",
         "short_names": ["couch_and_lamp"],
-        "unicode": "",
+        "unicode": "1f6cb",
         "sort_order": 91
       }, {
         "has_img_apple": true,
@@ -4415,7 +4415,7 @@
         "name": "BED",
         "short_name": "bed",
         "short_names": ["bed"],
-        "unicode": "1f6cf-fe0f",
+        "unicode": "1f6cf",
         "sort_order": 93
       }, {
         "has_img_apple": true,
@@ -4439,7 +4439,7 @@
         "name": "BELLHOP BELL",
         "short_name": "bellhop_bell",
         "short_names": ["bellhop_bell"],
-        "unicode": "",
+        "unicode": "1f6ce",
         "sort_order": 95
       }, {
         "has_img_apple": true,
@@ -4451,7 +4451,7 @@
         "name": "FRAME WITH PICTURE",
         "short_name": "frame_with_picture",
         "short_names": ["frame_with_picture"],
-        "unicode": "",
+        "unicode": "1f5bc",
         "sort_order": 96
       }, {
         "has_img_apple": true,
@@ -4463,7 +4463,7 @@
         "name": "WORLD MAP",
         "short_name": "world_map",
         "short_names": ["world_map"],
-        "unicode": "",
+        "unicode": "1f5fa",
         "sort_order": 97
       }, {
         "has_img_apple": true,
@@ -4475,7 +4475,7 @@
         "name": "UMBRELLA ON GROUND",
         "short_name": "umbrella_on_ground",
         "short_names": ["umbrella_on_ground"],
-        "unicode": "",
+        "unicode": "26f1",
         "sort_order": 98
       }, {
         "has_img_apple": true,
@@ -4499,7 +4499,7 @@
         "name": "SHOPPING BAGS",
         "short_name": "shopping_bags",
         "short_names": ["shopping_bags"],
-        "unicode": "1f6cd-fe0f",
+        "unicode": "1f6cd",
         "sort_order": 100
       }, {
         "has_img_apple": true,
@@ -4631,7 +4631,7 @@
         "name": "ENVELOPE",
         "short_name": "email",
         "short_names": ["email", "envelope"],
-        "unicode": "2709-fe0f",
+        "unicode": "2709",
         "sort_order": 111
       }, {
         "has_img_apple": true,
@@ -4907,7 +4907,7 @@
         "name": "SPIRAL CALENDAR PAD",
         "short_name": "spiral_calendar_pad",
         "short_names": ["spiral_calendar_pad"],
-        "unicode": "",
+        "unicode": "1f5d3",
         "sort_order": 134
       }, {
         "has_img_apple": true,
@@ -4931,7 +4931,7 @@
         "name": "CARD FILE BOX",
         "short_name": "card_file_box",
         "short_names": ["card_file_box"],
-        "unicode": "",
+        "unicode": "1f5c3",
         "sort_order": 136
       }, {
         "has_img_apple": true,
@@ -4943,7 +4943,7 @@
         "name": "BALLOT BOX WITH BALLOT",
         "short_name": "ballot_box_with_ballot",
         "short_names": ["ballot_box_with_ballot"],
-        "unicode": "",
+        "unicode": "1f5f3",
         "sort_order": 137
       }, {
         "has_img_apple": true,
@@ -4955,7 +4955,7 @@
         "name": "FILE CABINET",
         "short_name": "file_cabinet",
         "short_names": ["file_cabinet"],
-        "unicode": "1f5c4-fe0f",
+        "unicode": "1f5c4",
         "sort_order": 138
       }, {
         "has_img_apple": true,
@@ -4979,7 +4979,7 @@
         "name": "SPIRAL NOTE PAD",
         "short_name": "spiral_note_pad",
         "short_names": ["spiral_note_pad"],
-        "unicode": "",
+        "unicode": "1f5d2",
         "sort_order": 140
       }, {
         "has_img_apple": true,
@@ -5015,7 +5015,7 @@
         "name": "CARD INDEX DIVIDERS",
         "short_name": "card_index_dividers",
         "short_names": ["card_index_dividers"],
-        "unicode": "",
+        "unicode": "1f5c2",
         "sort_order": 143
       }, {
         "has_img_apple": true,
@@ -5027,7 +5027,7 @@
         "name": "ROLLED-UP NEWSPAPER",
         "short_name": "rolled_up_newspaper",
         "short_names": ["rolled_up_newspaper"],
-        "unicode": "",
+        "unicode": "1f5de",
         "sort_order": 144
       }, {
         "has_img_apple": true,
@@ -5183,7 +5183,7 @@
         "name": "LINKED PAPERCLIPS",
         "short_name": "linked_paperclips",
         "short_names": ["linked_paperclips"],
-        "unicode": "",
+        "unicode": "1f587",
         "sort_order": 157
       }, {
         "has_img_apple": true,
@@ -5195,7 +5195,7 @@
         "name": "BLACK SCISSORS",
         "short_name": "scissors",
         "short_names": ["scissors"],
-        "unicode": "2702-fe0f",
+        "unicode": "2702",
         "sort_order": 158
       }, {
         "has_img_apple": true,
@@ -5267,7 +5267,7 @@
         "name": "WAVING WHITE FLAG",
         "short_name": "waving_white_flag",
         "short_names": ["waving_white_flag"],
-        "unicode": "",
+        "unicode": "1f3f3",
         "sort_order": 164
       }, {
         "has_img_apple": true,
@@ -5279,7 +5279,7 @@
         "name": "WAVING BLACK FLAG",
         "short_name": "waving_black_flag",
         "short_names": ["waving_black_flag"],
-        "unicode": "",
+        "unicode": "1f3f4",
         "sort_order": 165
       }, {
         "has_img_apple": true,
@@ -5339,7 +5339,7 @@
         "name": "LOWER LEFT BALLPOINT PEN",
         "short_name": "lower_left_ballpoint_pen",
         "short_names": ["lower_left_ballpoint_pen"],
-        "unicode": "",
+        "unicode": "1f58a",
         "sort_order": 170
       }, {
         "has_img_apple": true,
@@ -5351,7 +5351,7 @@
         "name": "LOWER LEFT FOUNTAIN PEN",
         "short_name": "lower_left_fountain_pen",
         "short_names": ["lower_left_fountain_pen"],
-        "unicode": "",
+        "unicode": "1f58b",
         "sort_order": 171
       }, {
         "has_img_apple": true,
@@ -5363,7 +5363,7 @@
         "name": "BLACK NIB",
         "short_name": "black_nib",
         "short_names": ["black_nib"],
-        "unicode": "2712-fe0f",
+        "unicode": "2712",
         "sort_order": 172
       }, {
         "has_img_apple": true,
@@ -5387,7 +5387,7 @@
         "name": "PENCIL",
         "short_name": "pencil2",
         "short_names": ["pencil2"],
-        "unicode": "270f-fe0f",
+        "unicode": "270f",
         "sort_order": 174
       }, {
         "has_img_apple": true,
@@ -5399,7 +5399,7 @@
         "name": "LOWER LEFT CRAYON",
         "short_name": "lower_left_crayon",
         "short_names": ["lower_left_crayon"],
-        "unicode": "",
+        "unicode": "1f58d",
         "sort_order": 175
       }, {
         "has_img_apple": true,
@@ -5411,7 +5411,7 @@
         "name": "LOWER LEFT PAINTBRUSH",
         "short_name": "lower_left_paintbrush",
         "short_names": ["lower_left_paintbrush"],
-        "unicode": "",
+        "unicode": "1f58c",
         "sort_order": 176
       }, {
         "has_img_apple": true,
@@ -6960,7 +6960,7 @@
         "name": "WHITE SUN BEHIND CLOUD WITH RAIN",
         "short_name": "partly_sunny_rain",
         "short_names": ["partly_sunny_rain", "sun_behind_rain_cloud"],
-        "unicode": "",
+        "unicode": "1f326",
         "sort_order": 127
       }, {
         "has_img_apple": true,
@@ -6972,7 +6972,7 @@
         "name": "CLOUD",
         "short_name": "cloud",
         "short_names": ["cloud"],
-        "unicode": "1f326",
+        "unicode": "2601",
         "sort_order": 128
       }, {
         "has_img_apple": true,
