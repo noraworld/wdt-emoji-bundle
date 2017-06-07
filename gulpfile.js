@@ -5,6 +5,8 @@ var gulp     = require('gulp'),
     download = require('gulp-download-stream'),
     shell    = require('gulp-shell');
 
+// Somehow not works
+// Error: Problem parsing JSON file
 gulp.task('bump', function () {
   return gulp.src(['wdt-emoji-bundle.js', 'package.json'])
       .pipe(bump({type: 'patch'}))
@@ -29,3 +31,4 @@ gulp.task('uglify', function () {
 });
 
 gulp.task('build', ['bump', 'uglify']);
+gulp.task('default', ['uglify']);
