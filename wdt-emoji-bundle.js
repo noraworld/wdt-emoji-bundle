@@ -7213,7 +7213,7 @@
         "name": "GREEN APPLE",
         "short_name": "green_apple",
         "short_names": ["green_apple"],
-        "unicode": "",
+        "unicode": "1f34f",
         "sort_order": 1
       }, {
         "has_img_apple": true,
@@ -7225,7 +7225,7 @@
         "name": "RED APPLE",
         "short_name": "apple",
         "short_names": ["apple"],
-        "unicode": "",
+        "unicode": "1f34e",
         "sort_order": 2
       }, {
         "has_img_apple": true,
@@ -7237,7 +7237,7 @@
         "name": "PEAR",
         "short_name": "pear",
         "short_names": ["pear"],
-        "unicode": "",
+        "unicode": "1f350",
         "sort_order": 3
       }, {
         "has_img_apple": true,
@@ -7249,7 +7249,7 @@
         "name": "TANGERINE",
         "short_name": "tangerine",
         "short_names": ["tangerine"],
-        "unicode": "",
+        "unicode": "1f34a",
         "sort_order": 4
       }, {
         "has_img_apple": true,
@@ -7261,7 +7261,7 @@
         "name": "LEMON",
         "short_name": "lemon",
         "short_names": ["lemon"],
-        "unicode": "",
+        "unicode": "1f34b",
         "sort_order": 5
       }, {
         "has_img_apple": true,
@@ -7273,7 +7273,7 @@
         "name": "BANANA",
         "short_name": "banana",
         "short_names": ["banana"],
-        "unicode": "",
+        "unicode": "1f34c",
         "sort_order": 6
       }, {
         "has_img_apple": true,
@@ -7285,7 +7285,7 @@
         "name": "WATERMELON",
         "short_name": "watermelon",
         "short_names": ["watermelon"],
-        "unicode": "",
+        "unicode": "1f349",
         "sort_order": 7
       }, {
         "has_img_apple": true,
@@ -7297,7 +7297,7 @@
         "name": "GRAPES",
         "short_name": "grapes",
         "short_names": ["grapes"],
-        "unicode": "",
+        "unicode": "1f347",
         "sort_order": 8
       }, {
         "has_img_apple": true,
@@ -7309,7 +7309,7 @@
         "name": "STRAWBERRY",
         "short_name": "strawberry",
         "short_names": ["strawberry"],
-        "unicode": "",
+        "unicode": "1f353",
         "sort_order": 9
       }, {
         "has_img_apple": true,
@@ -7321,7 +7321,7 @@
         "name": "MELON",
         "short_name": "melon",
         "short_names": ["melon"],
-        "unicode": "",
+        "unicode": "1f348",
         "sort_order": 10
       }, {
         "has_img_apple": true,
@@ -7333,7 +7333,7 @@
         "name": "CHERRIES",
         "short_name": "cherries",
         "short_names": ["cherries"],
-        "unicode": "",
+        "unicode": "1f352",
         "sort_order": 11
       }, {
         "has_img_apple": true,
@@ -7345,7 +7345,7 @@
         "name": "PEACH",
         "short_name": "peach",
         "short_names": ["peach"],
-        "unicode": "",
+        "unicode": "1f351",
         "sort_order": 12
       }, {
         "has_img_apple": true,
@@ -7357,7 +7357,7 @@
         "name": "PINEAPPLE",
         "short_name": "pineapple",
         "short_names": ["pineapple"],
-        "unicode": "",
+        "unicode": "1f34d",
         "sort_order": 13
       }, {
         "has_img_apple": true,
@@ -7369,7 +7369,7 @@
         "name": "TOMATO",
         "short_name": "tomato",
         "short_names": ["tomato"],
-        "unicode": "",
+        "unicode": "1f345",
         "sort_order": 14
       }, {
         "has_img_apple": true,
@@ -7381,7 +7381,7 @@
         "name": "AUBERGINE",
         "short_name": "eggplant",
         "short_names": ["eggplant"],
-        "unicode": "",
+        "unicode": "1f346",
         "sort_order": 15
       }, {
         "has_img_apple": true,
@@ -7393,7 +7393,7 @@
         "name": "HOT PEPPER",
         "short_name": "hot_pepper",
         "short_names": ["hot_pepper"],
-        "unicode": "",
+        "unicode": "1f336",
         "sort_order": 16
       }, {
         "has_img_apple": true,
@@ -7405,7 +7405,7 @@
         "name": "EAR OF MAIZE",
         "short_name": "corn",
         "short_names": ["corn"],
-        "unicode": "",
+        "unicode": "1f33d",
         "sort_order": 17
       }, {
         "has_img_apple": true,
@@ -7417,7 +7417,7 @@
         "name": "ROASTED SWEET POTATO",
         "short_name": "sweet_potato",
         "short_names": ["sweet_potato"],
-        "unicode": "",
+        "unicode": "1f360",
         "sort_order": 18
       }, {
         "has_img_apple": true,
@@ -7429,7 +7429,7 @@
         "name": "HONEY POT",
         "short_name": "honey_pot",
         "short_names": ["honey_pot"],
-        "unicode": "",
+        "unicode": "1f36f",
         "sort_order": 19
       }, {
         "has_img_apple": true,
@@ -7441,7 +7441,7 @@
         "name": "BREAD",
         "short_name": "bread",
         "short_names": ["bread"],
-        "unicode": "",
+        "unicode": "1f35e",
         "sort_order": 20
       }, {
         "has_img_apple": true,
@@ -7453,7 +7453,7 @@
         "name": "CHEESE WEDGE",
         "short_name": "cheese_wedge",
         "short_names": ["cheese_wedge"],
-        "unicode": "",
+        "unicode": "1f9c0",
         "sort_order": 21
       }, {
         "has_img_apple": true,
@@ -7465,7 +7465,7 @@
         "name": "POULTRY LEG",
         "short_name": "poultry_leg",
         "short_names": ["poultry_leg"],
-        "unicode": "",
+        "unicode": "1f357",
         "sort_order": 22
       }, {
         "has_img_apple": true,
@@ -7477,7 +7477,7 @@
         "name": "MEAT ON BONE",
         "short_name": "meat_on_bone",
         "short_names": ["meat_on_bone"],
-        "unicode": "",
+        "unicode": "1f356",
         "sort_order": 23
       }, {
         "has_img_apple": true,
@@ -7489,7 +7489,7 @@
         "name": "FRIED SHRIMP",
         "short_name": "fried_shrimp",
         "short_names": ["fried_shrimp"],
-        "unicode": "",
+        "unicode": "1f364",
         "sort_order": 24
       }, {
         "has_img_apple": true,
@@ -7501,7 +7501,7 @@
         "name": "COOKING",
         "short_name": "egg",
         "short_names": ["egg"],
-        "unicode": "",
+        "unicode": "1f95a",
         "sort_order": 25
       }, {
         "has_img_apple": true,
@@ -7513,7 +7513,7 @@
         "name": "HAMBURGER",
         "short_name": "hamburger",
         "short_names": ["hamburger"],
-        "unicode": "",
+        "unicode": "1f354",
         "sort_order": 26
       }, {
         "has_img_apple": true,
@@ -7525,7 +7525,7 @@
         "name": "FRENCH FRIES",
         "short_name": "fries",
         "short_names": ["fries"],
-        "unicode": "",
+        "unicode": "1f35f",
         "sort_order": 27
       }, {
         "has_img_apple": true,
@@ -7537,7 +7537,7 @@
         "name": "HOT DOG",
         "short_name": "hotdog",
         "short_names": ["hotdog"],
-        "unicode": "",
+        "unicode": "1f32d",
         "sort_order": 28
       }, {
         "has_img_apple": true,
@@ -7549,7 +7549,7 @@
         "name": "SLICE OF PIZZA",
         "short_name": "pizza",
         "short_names": ["pizza"],
-        "unicode": "",
+        "unicode": "1f355",
         "sort_order": 29
       }, {
         "has_img_apple": true,
@@ -7561,7 +7561,7 @@
         "name": "SPAGHETTI",
         "short_name": "spaghetti",
         "short_names": ["spaghetti"],
-        "unicode": "",
+        "unicode": "1f35d",
         "sort_order": 30
       }, {
         "has_img_apple": true,
@@ -7573,7 +7573,7 @@
         "name": "TACO",
         "short_name": "taco",
         "short_names": ["taco"],
-        "unicode": "",
+        "unicode": "1f32e",
         "sort_order": 31
       }, {
         "has_img_apple": true,
@@ -7585,7 +7585,7 @@
         "name": "BURRITO",
         "short_name": "burrito",
         "short_names": ["burrito"],
-        "unicode": "",
+        "unicode": "1f32f",
         "sort_order": 32
       }, {
         "has_img_apple": true,
@@ -7597,7 +7597,7 @@
         "name": "STEAMING BOWL",
         "short_name": "ramen",
         "short_names": ["ramen"],
-        "unicode": "",
+        "unicode": "1f35c",
         "sort_order": 33
       }, {
         "has_img_apple": true,
@@ -7609,7 +7609,7 @@
         "name": "POT OF FOOD",
         "short_name": "stew",
         "short_names": ["stew"],
-        "unicode": "",
+        "unicode": "1f372",
         "sort_order": 34
       }, {
         "has_img_apple": true,
@@ -7621,7 +7621,7 @@
         "name": "FISH CAKE WITH SWIRL DESIGN",
         "short_name": "fish_cake",
         "short_names": ["fish_cake"],
-        "unicode": "",
+        "unicode": "1f365",
         "sort_order": 35
       }, {
         "has_img_apple": true,
@@ -7633,7 +7633,7 @@
         "name": "SUSHI",
         "short_name": "sushi",
         "short_names": ["sushi"],
-        "unicode": "",
+        "unicode": "1f363",
         "sort_order": 36
       }, {
         "has_img_apple": true,
@@ -7645,7 +7645,7 @@
         "name": "BENTO BOX",
         "short_name": "bento",
         "short_names": ["bento"],
-        "unicode": "",
+        "unicode": "1f371",
         "sort_order": 37
       }, {
         "has_img_apple": true,
@@ -7657,7 +7657,7 @@
         "name": "CURRY AND RICE",
         "short_name": "curry",
         "short_names": ["curry"],
-        "unicode": "",
+        "unicode": "1f35b",
         "sort_order": 38
       }, {
         "has_img_apple": true,
@@ -7669,7 +7669,7 @@
         "name": "RICE BALL",
         "short_name": "rice_ball",
         "short_names": ["rice_ball"],
-        "unicode": "",
+        "unicode": "1f359",
         "sort_order": 39
       }, {
         "has_img_apple": true,
@@ -7681,7 +7681,7 @@
         "name": "COOKED RICE",
         "short_name": "rice",
         "short_names": ["rice"],
-        "unicode": "",
+        "unicode": "1f35a",
         "sort_order": 40
       }, {
         "has_img_apple": true,
@@ -7693,7 +7693,7 @@
         "name": "RICE CRACKER",
         "short_name": "rice_cracker",
         "short_names": ["rice_cracker"],
-        "unicode": "",
+        "unicode": "1f358",
         "sort_order": 41
       }, {
         "has_img_apple": true,
@@ -7705,7 +7705,7 @@
         "name": "ODEN",
         "short_name": "oden",
         "short_names": ["oden"],
-        "unicode": "",
+        "unicode": "1f362",
         "sort_order": 42
       }, {
         "has_img_apple": true,
@@ -7717,7 +7717,7 @@
         "name": "DANGO",
         "short_name": "dango",
         "short_names": ["dango"],
-        "unicode": "",
+        "unicode": "1f361",
         "sort_order": 43
       }, {
         "has_img_apple": true,
@@ -7729,7 +7729,7 @@
         "name": "SHAVED ICE",
         "short_name": "shaved_ice",
         "short_names": ["shaved_ice"],
-        "unicode": "",
+        "unicode": "1f367",
         "sort_order": 44
       }, {
         "has_img_apple": true,
@@ -7741,7 +7741,7 @@
         "name": "ICE CREAM",
         "short_name": "ice_cream",
         "short_names": ["ice_cream"],
-        "unicode": "",
+        "unicode": "1f368",
         "sort_order": 45
       }, {
         "has_img_apple": true,
@@ -7753,7 +7753,7 @@
         "name": "SOFT ICE CREAM",
         "short_name": "icecream",
         "short_names": ["icecream"],
-        "unicode": "",
+        "unicode": "1f366",
         "sort_order": 46
       }, {
         "has_img_apple": true,
@@ -7765,7 +7765,7 @@
         "name": "SHORTCAKE",
         "short_name": "cake",
         "short_names": ["cake"],
-        "unicode": "",
+        "unicode": "1f370",
         "sort_order": 47
       }, {
         "has_img_apple": true,
@@ -7777,7 +7777,7 @@
         "name": "BIRTHDAY CAKE",
         "short_name": "birthday",
         "short_names": ["birthday"],
-        "unicode": "",
+        "unicode": "1f382",
         "sort_order": 48
       }, {
         "has_img_apple": true,
@@ -7789,7 +7789,7 @@
         "name": "CUSTARD",
         "short_name": "custard",
         "short_names": ["custard"],
-        "unicode": "",
+        "unicode": "1f36e",
         "sort_order": 49
       }, {
         "has_img_apple": true,
@@ -7801,7 +7801,7 @@
         "name": "CANDY",
         "short_name": "candy",
         "short_names": ["candy"],
-        "unicode": "",
+        "unicode": "1f36c",
         "sort_order": 50
       }, {
         "has_img_apple": true,
@@ -7813,7 +7813,7 @@
         "name": "LOLLIPOP",
         "short_name": "lollipop",
         "short_names": ["lollipop"],
-        "unicode": "",
+        "unicode": "1f36d",
         "sort_order": 51
       }, {
         "has_img_apple": true,
@@ -7825,7 +7825,7 @@
         "name": "CHOCOLATE BAR",
         "short_name": "chocolate_bar",
         "short_names": ["chocolate_bar"],
-        "unicode": "",
+        "unicode": "1f36b",
         "sort_order": 52
       }, {
         "has_img_apple": true,
@@ -7837,7 +7837,7 @@
         "name": "POPCORN",
         "short_name": "popcorn",
         "short_names": ["popcorn"],
-        "unicode": "",
+        "unicode": "1f37f",
         "sort_order": 53
       }, {
         "has_img_apple": true,
@@ -7849,7 +7849,7 @@
         "name": "DOUGHNUT",
         "short_name": "doughnut",
         "short_names": ["doughnut"],
-        "unicode": "",
+        "unicode": "1f369",
         "sort_order": 54
       }, {
         "has_img_apple": true,
@@ -7861,7 +7861,7 @@
         "name": "COOKIE",
         "short_name": "cookie",
         "short_names": ["cookie"],
-        "unicode": "",
+        "unicode": "1f36a",
         "sort_order": 55
       }, {
         "has_img_apple": true,
@@ -7873,7 +7873,7 @@
         "name": "BEER MUG",
         "short_name": "beer",
         "short_names": ["beer"],
-        "unicode": "",
+        "unicode": "1f37a",
         "sort_order": 56
       }, {
         "has_img_apple": true,
@@ -7885,7 +7885,7 @@
         "name": "CLINKING BEER MUGS",
         "short_name": "beers",
         "short_names": ["beers"],
-        "unicode": "",
+        "unicode": "1f37b",
         "sort_order": 57
       }, {
         "has_img_apple": true,
@@ -7897,7 +7897,7 @@
         "name": "WINE GLASS",
         "short_name": "wine_glass",
         "short_names": ["wine_glass"],
-        "unicode": "",
+        "unicode": "1f377",
         "sort_order": 58
       }, {
         "has_img_apple": true,
@@ -7909,7 +7909,7 @@
         "name": "COCKTAIL GLASS",
         "short_name": "cocktail",
         "short_names": ["cocktail"],
-        "unicode": "",
+        "unicode": "1f378",
         "sort_order": 59
       }, {
         "has_img_apple": true,
@@ -7921,7 +7921,7 @@
         "name": "TROPICAL DRINK",
         "short_name": "tropical_drink",
         "short_names": ["tropical_drink"],
-        "unicode": "",
+        "unicode": "1f379",
         "sort_order": 60
       }, {
         "has_img_apple": true,
@@ -7933,7 +7933,7 @@
         "name": "BOTTLE WITH POPPING CORK",
         "short_name": "champagne",
         "short_names": ["champagne"],
-        "unicode": "",
+        "unicode": "1f37e",
         "sort_order": 61
       }, {
         "has_img_apple": true,
@@ -7945,7 +7945,7 @@
         "name": "SAKE BOTTLE AND CUP",
         "short_name": "sake",
         "short_names": ["sake"],
-        "unicode": "",
+        "unicode": "1f376",
         "sort_order": 62
       }, {
         "has_img_apple": true,
@@ -7957,7 +7957,7 @@
         "name": "TEACUP WITHOUT HANDLE",
         "short_name": "tea",
         "short_names": ["tea"],
-        "unicode": "",
+        "unicode": "1f375",
         "sort_order": 63
       }, {
         "has_img_apple": true,
@@ -7969,7 +7969,7 @@
         "name": "HOT BEVERAGE",
         "short_name": "coffee",
         "short_names": ["coffee"],
-        "unicode": "",
+        "unicode": "2615",
         "sort_order": 64
       }, {
         "has_img_apple": true,
@@ -7981,7 +7981,7 @@
         "name": "BABY BOTTLE",
         "short_name": "baby_bottle",
         "short_names": ["baby_bottle"],
-        "unicode": "",
+        "unicode": "1f37c",
         "sort_order": 65
       }, {
         "has_img_apple": true,
@@ -7993,7 +7993,7 @@
         "name": "FORK AND KNIFE",
         "short_name": "fork_and_knife",
         "short_names": ["fork_and_knife"],
-        "unicode": "",
+        "unicode": "1f374",
         "sort_order": 66
       }, {
         "has_img_apple": true,
@@ -8005,7 +8005,7 @@
         "name": "FORK AND KNIFE WITH PLATE",
         "short_name": "knife_fork_plate",
         "short_names": ["knife_fork_plate"],
-        "unicode": "",
+        "unicode": "1f37d",
         "sort_order": 67
       }],
       "People": [{
