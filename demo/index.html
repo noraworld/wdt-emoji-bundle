@@ -31,6 +31,7 @@
             text-align: center;
         }
 
+        #confirm-output,
         #fullname-output,
         #comment-output,
         #contenteditable-output,
@@ -106,6 +107,15 @@
             </div>
 
             <form>
+                <div class="form-group">
+                    <label>quick confirm field</label>
+                    <input id="confirm" type="text" class="form-control wdt-emoji-bundle-enabled wdt-emoji-open-on-colon" autocomplete="off">
+                </div>
+                <div class="form-group">
+                    <label class="label-block">&downarrow;</label>
+                    <div id="confirm-output"></div>
+                </div>
+                <hr>
                 <div class="form-group">
                     <label>input::text</label>
                     <input id="fullname" type="text" value=";) Hey! check :heart_eyes:  this.  :dog:  :cat:  :hamster: " class="form-control wdt-emoji-bundle-enabled wdt-emoji-open-on-colon">
@@ -232,6 +242,13 @@
         }
         var ev = document.createEvent('Event');
         ev.initEvent('input', true, true);
+
+        // ------------------------------------------------------
+        document.getElementById('confirm').addEventListener('input', function () {
+            document.getElementById('confirm-output').innerHTML = wdtEmojiBundle.render(this.value);
+        });
+        document.getElementById('confirm').dispatchEvent(ev);
+        // ------------------------------------------------------
 
         // ------------------------------------------------------
         document.getElementById('fullname').addEventListener('input', function () {
