@@ -173,6 +173,12 @@
   */
 
   wdtEmojiBundle.onKeyup = function (ev) {
+    console.log(ev.key);
+    if (ev.key === 'Meta' || ev.key === 'Control' || ev.key === 'Shift') {
+      ev.preventDefault();
+      return false;
+    }
+
     var element = ev.target,
         parent = findParent(element, 'wdt-emoji-picker-parent'),
         emojiPicker = findChild(parent, 'wdt-emoji-picker'),
