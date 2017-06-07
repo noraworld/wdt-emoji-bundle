@@ -3311,7 +3311,7 @@
         "name": "WATCH",
         "short_name": "watch",
         "short_names": ["watch"],
-        "unicode": "",
+        "unicode": "231a",
         "sort_order": 1
       }, {
         "has_img_apple": true,
@@ -3323,7 +3323,7 @@
         "name": "MOBILE PHONE",
         "short_name": "iphone",
         "short_names": ["iphone"],
-        "unicode": "",
+        "unicode": "1f4f1",
         "sort_order": 2
       }, {
         "has_img_apple": true,
@@ -3335,7 +3335,7 @@
         "name": "MOBILE PHONE WITH RIGHTWARDS ARROW AT LEFT",
         "short_name": "calling",
         "short_names": ["calling"],
-        "unicode": "",
+        "unicode": "1f4f2",
         "sort_order": 3
       }, {
         "has_img_apple": true,
@@ -3347,7 +3347,7 @@
         "name": "PERSONAL COMPUTER",
         "short_name": "computer",
         "short_names": ["computer"],
-        "unicode": "",
+        "unicode": "1f4bb",
         "sort_order": 4
       }, {
         "has_img_apple": true,
@@ -3359,7 +3359,7 @@
         "name": "KEYBOARD",
         "short_name": "keyboard",
         "short_names": ["keyboard"],
-        "unicode": "",
+        "unicode": "2328-fe0f",
         "sort_order": 5
       }, {
         "has_img_apple": true,
@@ -3383,7 +3383,7 @@
         "name": "PRINTER",
         "short_name": "printer",
         "short_names": ["printer"],
-        "unicode": "",
+        "unicode": "1f5a8-fe0f",
         "sort_order": 7
       }, {
         "has_img_apple": true,
@@ -3407,7 +3407,7 @@
         "name": "TRACKBALL",
         "short_name": "trackball",
         "short_names": ["trackball"],
-        "unicode": "",
+        "unicode": "1f5b2-fe0f",
         "sort_order": 9
       }, {
         "has_img_apple": true,
@@ -3419,7 +3419,7 @@
         "name": "JOYSTICK",
         "short_name": "joystick",
         "short_names": ["joystick"],
-        "unicode": "",
+        "unicode": "1f579-fe0f",
         "sort_order": 10
       }, {
         "has_img_apple": true,
@@ -3431,7 +3431,7 @@
         "name": "COMPRESSION",
         "short_name": "compression",
         "short_names": ["compression"],
-        "unicode": "",
+        "unicode": "1f5dc-fe0f",
         "sort_order": 11
       }, {
         "has_img_apple": true,
@@ -3443,7 +3443,7 @@
         "name": "MINIDISC",
         "short_name": "minidisc",
         "short_names": ["minidisc"],
-        "unicode": "",
+        "unicode": "1f4bd",
         "sort_order": 12
       }, {
         "has_img_apple": true,
@@ -3455,7 +3455,7 @@
         "name": "FLOPPY DISK",
         "short_name": "floppy_disk",
         "short_names": ["floppy_disk"],
-        "unicode": "",
+        "unicode": "1f4be",
         "sort_order": 13
       }, {
         "has_img_apple": true,
@@ -3467,7 +3467,7 @@
         "name": "OPTICAL DISC",
         "short_name": "cd",
         "short_names": ["cd"],
-        "unicode": "",
+        "unicode": "1f4bf",
         "sort_order": 14
       }, {
         "has_img_apple": true,
@@ -3479,7 +3479,7 @@
         "name": "DVD",
         "short_name": "dvd",
         "short_names": ["dvd"],
-        "unicode": "",
+        "unicode": "1f4c0",
         "sort_order": 15
       }, {
         "has_img_apple": true,
@@ -3491,7 +3491,7 @@
         "name": "VIDEOCASSETTE",
         "short_name": "vhs",
         "short_names": ["vhs"],
-        "unicode": "",
+        "unicode": "1f4fc",
         "sort_order": 16
       }, {
         "has_img_apple": true,
@@ -3503,7 +3503,7 @@
         "name": "CAMERA",
         "short_name": "camera",
         "short_names": ["camera"],
-        "unicode": "",
+        "unicode": "1f4f7",
         "sort_order": 17
       }, {
         "has_img_apple": true,
@@ -3515,7 +3515,7 @@
         "name": "CAMERA WITH FLASH",
         "short_name": "camera_with_flash",
         "short_names": ["camera_with_flash"],
-        "unicode": "",
+        "unicode": "1f4f8",
         "sort_order": 18
       }, {
         "has_img_apple": true,
@@ -3527,7 +3527,7 @@
         "name": "VIDEO CAMERA",
         "short_name": "video_camera",
         "short_names": ["video_camera"],
-        "unicode": "",
+        "unicode": "1f4f9",
         "sort_order": 19
       }, {
         "has_img_apple": true,
@@ -3539,7 +3539,7 @@
         "name": "MOVIE CAMERA",
         "short_name": "movie_camera",
         "short_names": ["movie_camera"],
-        "unicode": "",
+        "unicode": "1f3a5",
         "sort_order": 20
       }, {
         "has_img_apple": true,
@@ -3563,7 +3563,7 @@
         "name": "FILM FRAMES",
         "short_name": "film_frames",
         "short_names": ["film_frames"],
-        "unicode": "",
+        "unicode": "1f39e-fe0f",
         "sort_order": 22
       }, {
         "has_img_apple": true,
@@ -3575,7 +3575,7 @@
         "name": "TELEPHONE RECEIVER",
         "short_name": "telephone_receiver",
         "short_names": ["telephone_receiver"],
-        "unicode": "",
+        "unicode": "1f4de",
         "sort_order": 23
       }, {
         "has_img_apple": true,
@@ -3587,7 +3587,7 @@
         "name": "BLACK TELEPHONE",
         "short_name": "phone",
         "short_names": ["phone", "telephone"],
-        "unicode": "",
+        "unicode": "260e-fe0f",
         "sort_order": 24
       }, {
         "has_img_apple": true,
@@ -3599,7 +3599,7 @@
         "name": "PAGER",
         "short_name": "pager",
         "short_names": ["pager"],
-        "unicode": "",
+        "unicode": "1f4df",
         "sort_order": 25
       }, {
         "has_img_apple": true,
@@ -3611,7 +3611,7 @@
         "name": "FAX MACHINE",
         "short_name": "fax",
         "short_names": ["fax"],
-        "unicode": "",
+        "unicode": "1f4e0",
         "sort_order": 26
       }, {
         "has_img_apple": true,
@@ -3623,7 +3623,7 @@
         "name": "TELEVISION",
         "short_name": "tv",
         "short_names": ["tv"],
-        "unicode": "",
+        "unicode": "1f4fa",
         "sort_order": 27
       }, {
         "has_img_apple": true,
@@ -3635,7 +3635,7 @@
         "name": "RADIO",
         "short_name": "radio",
         "short_names": ["radio"],
-        "unicode": "",
+        "unicode": "1f4fb",
         "sort_order": 28
       }, {
         "has_img_apple": true,
@@ -3659,7 +3659,7 @@
         "name": "LEVEL SLIDER",
         "short_name": "level_slider",
         "short_names": ["level_slider"],
-        "unicode": "",
+        "unicode": "1f39a-fe0f",
         "sort_order": 30
       }, {
         "has_img_apple": true,
@@ -3671,7 +3671,7 @@
         "name": "CONTROL KNOBS",
         "short_name": "control_knobs",
         "short_names": ["control_knobs"],
-        "unicode": "",
+        "unicode": "1f39b-fe0f",
         "sort_order": 31
       }, {
         "has_img_apple": true,
@@ -3683,7 +3683,7 @@
         "name": "STOPWATCH",
         "short_name": "stopwatch",
         "short_names": ["stopwatch"],
-        "unicode": "",
+        "unicode": "23f1-fe0f",
         "sort_order": 32
       }, {
         "has_img_apple": true,
@@ -3707,7 +3707,7 @@
         "name": "ALARM CLOCK",
         "short_name": "alarm_clock",
         "short_names": ["alarm_clock"],
-        "unicode": "",
+        "unicode": "23f0",
         "sort_order": 34
       }, {
         "has_img_apple": true,
@@ -3731,7 +3731,7 @@
         "name": "HOURGLASS WITH FLOWING SAND",
         "short_name": "hourglass_flowing_sand",
         "short_names": ["hourglass_flowing_sand"],
-        "unicode": "",
+        "unicode": "23f3",
         "sort_order": 36
       }, {
         "has_img_apple": true,
@@ -3743,7 +3743,7 @@
         "name": "HOURGLASS",
         "short_name": "hourglass",
         "short_names": ["hourglass"],
-        "unicode": "",
+        "unicode": "231b",
         "sort_order": 37
       }, {
         "has_img_apple": true,
@@ -3767,7 +3767,7 @@
         "name": "BATTERY",
         "short_name": "battery",
         "short_names": ["battery"],
-        "unicode": "",
+        "unicode": "1f50b",
         "sort_order": 39
       }, {
         "has_img_apple": true,
@@ -3779,7 +3779,7 @@
         "name": "ELECTRIC PLUG",
         "short_name": "electric_plug",
         "short_names": ["electric_plug"],
-        "unicode": "",
+        "unicode": "1f50c",
         "sort_order": 40
       }, {
         "has_img_apple": true,
@@ -3791,7 +3791,7 @@
         "name": "ELECTRIC LIGHT BULB",
         "short_name": "bulb",
         "short_names": ["bulb"],
-        "unicode": "",
+        "unicode": "1f4a1",
         "sort_order": 41
       }, {
         "has_img_apple": true,
@@ -3803,7 +3803,7 @@
         "name": "ELECTRIC TORCH",
         "short_name": "flashlight",
         "short_names": ["flashlight"],
-        "unicode": "",
+        "unicode": "1f526",
         "sort_order": 42
       }, {
         "has_img_apple": true,
@@ -3815,7 +3815,7 @@
         "name": "CANDLE",
         "short_name": "candle",
         "short_names": ["candle"],
-        "unicode": "",
+        "unicode": "1f56f-fe0f",
         "sort_order": 43
       }, {
         "has_img_apple": true,
@@ -3827,7 +3827,7 @@
         "name": "WASTEBASKET",
         "short_name": "wastebasket",
         "short_names": ["wastebasket"],
-        "unicode": "",
+        "unicode": "1f5d1-fe0f",
         "sort_order": 44
       }, {
         "has_img_apple": true,
@@ -3851,7 +3851,7 @@
         "name": "MONEY WITH WINGS",
         "short_name": "money_with_wings",
         "short_names": ["money_with_wings"],
-        "unicode": "",
+        "unicode": "1f4b8",
         "sort_order": 46
       }, {
         "has_img_apple": true,
@@ -3863,7 +3863,7 @@
         "name": "BANKNOTE WITH DOLLAR SIGN",
         "short_name": "dollar",
         "short_names": ["dollar"],
-        "unicode": "",
+        "unicode": "1f4b5",
         "sort_order": 47
       }, {
         "has_img_apple": true,
@@ -3875,7 +3875,7 @@
         "name": "BANKNOTE WITH YEN SIGN",
         "short_name": "yen",
         "short_names": ["yen"],
-        "unicode": "",
+        "unicode": "1f4b4",
         "sort_order": 48
       }, {
         "has_img_apple": true,
@@ -3887,7 +3887,7 @@
         "name": "BANKNOTE WITH EURO SIGN",
         "short_name": "euro",
         "short_names": ["euro"],
-        "unicode": "",
+        "unicode": "1f4b6",
         "sort_order": 49
       }, {
         "has_img_apple": true,
@@ -3899,7 +3899,7 @@
         "name": "BANKNOTE WITH POUND SIGN",
         "short_name": "pound",
         "short_names": ["pound"],
-        "unicode": "",
+        "unicode": "1f4b7",
         "sort_order": 50
       }, {
         "has_img_apple": true,
@@ -3911,7 +3911,7 @@
         "name": "MONEY BAG",
         "short_name": "moneybag",
         "short_names": ["moneybag"],
-        "unicode": "",
+        "unicode": "1f4b0",
         "sort_order": 51
       }, {
         "has_img_apple": true,
@@ -3923,7 +3923,7 @@
         "name": "CREDIT CARD",
         "short_name": "credit_card",
         "short_names": ["credit_card"],
-        "unicode": "",
+        "unicode": "1f4b3",
         "sort_order": 52
       }, {
         "has_img_apple": true,
@@ -3935,7 +3935,7 @@
         "name": "GEM STONE",
         "short_name": "gem",
         "short_names": ["gem"],
-        "unicode": "",
+        "unicode": "1f48e",
         "sort_order": 53
       }, {
         "has_img_apple": true,
@@ -3947,7 +3947,7 @@
         "name": "SCALES",
         "short_name": "scales",
         "short_names": ["scales"],
-        "unicode": "",
+        "unicode": "2696-fe0f",
         "sort_order": 54
       }, {
         "has_img_apple": true,
@@ -3959,7 +3959,7 @@
         "name": "WRENCH",
         "short_name": "wrench",
         "short_names": ["wrench"],
-        "unicode": "",
+        "unicode": "1f527",
         "sort_order": 55
       }, {
         "has_img_apple": true,
@@ -3971,7 +3971,7 @@
         "name": "HAMMER",
         "short_name": "hammer",
         "short_names": ["hammer"],
-        "unicode": "",
+        "unicode": "1f528",
         "sort_order": 56
       }, {
         "has_img_apple": true,
@@ -4007,7 +4007,7 @@
         "name": "PICK",
         "short_name": "pick",
         "short_names": ["pick"],
-        "unicode": "",
+        "unicode": "26cf-fe0f",
         "sort_order": 59
       }, {
         "has_img_apple": true,
@@ -4019,7 +4019,7 @@
         "name": "NUT AND BOLT",
         "short_name": "nut_and_bolt",
         "short_names": ["nut_and_bolt"],
-        "unicode": "",
+        "unicode": "1f529",
         "sort_order": 60
       }, {
         "has_img_apple": true,
@@ -4031,7 +4031,7 @@
         "name": "GEAR",
         "short_name": "gear",
         "short_names": ["gear"],
-        "unicode": "",
+        "unicode": "2699-fe0f",
         "sort_order": 61
       }, {
         "has_img_apple": true,
@@ -4043,7 +4043,7 @@
         "name": "CHAINS",
         "short_name": "chains",
         "short_names": ["chains"],
-        "unicode": "",
+        "unicode": "26d3-fe0f",
         "sort_order": 62
       }, {
         "has_img_apple": true,
@@ -4055,7 +4055,7 @@
         "name": "PISTOL",
         "short_name": "gun",
         "short_names": ["gun"],
-        "unicode": "",
+        "unicode": "1f52b",
         "sort_order": 63
       }, {
         "has_img_apple": true,
@@ -4067,7 +4067,7 @@
         "name": "BOMB",
         "short_name": "bomb",
         "short_names": ["bomb"],
-        "unicode": "",
+        "unicode": "1f4a3",
         "sort_order": 64
       }, {
         "has_img_apple": true,
@@ -4079,7 +4079,7 @@
         "name": "HOCHO",
         "short_name": "hocho",
         "short_names": ["hocho", "knife"],
-        "unicode": "",
+        "unicode": "1f52a",
         "sort_order": 65
       }, {
         "has_img_apple": true,
@@ -4103,7 +4103,7 @@
         "name": "CROSSED SWORDS",
         "short_name": "crossed_swords",
         "short_names": ["crossed_swords"],
-        "unicode": "",
+        "unicode": "2694-fe0f",
         "sort_order": 67
       }, {
         "has_img_apple": true,
@@ -4115,7 +4115,7 @@
         "name": "SHIELD",
         "short_name": "shield",
         "short_names": ["shield"],
-        "unicode": "",
+        "unicode": "1f6e1-fe0f",
         "sort_order": 68
       }, {
         "has_img_apple": true,
@@ -4127,7 +4127,7 @@
         "name": "SMOKING SYMBOL",
         "short_name": "smoking",
         "short_names": ["smoking"],
-        "unicode": "",
+        "unicode": "1f6ac",
         "sort_order": 69
       }, {
         "has_img_apple": true,
@@ -4151,7 +4151,7 @@
         "name": "COFFIN",
         "short_name": "coffin",
         "short_names": ["coffin"],
-        "unicode": "",
+        "unicode": "26b0-fe0f",
         "sort_order": 71
       }, {
         "has_img_apple": true,
@@ -4175,7 +4175,7 @@
         "name": "AMPHORA",
         "short_name": "amphora",
         "short_names": ["amphora"],
-        "unicode": "",
+        "unicode": "1f3fa",
         "sort_order": 73
       }, {
         "has_img_apple": true,
@@ -4187,7 +4187,7 @@
         "name": "CRYSTAL BALL",
         "short_name": "crystal_ball",
         "short_names": ["crystal_ball"],
-        "unicode": "",
+        "unicode": "1f52e",
         "sort_order": 74
       }, {
         "has_img_apple": true,
@@ -4199,7 +4199,7 @@
         "name": "PRAYER BEADS",
         "short_name": "prayer_beads",
         "short_names": ["prayer_beads"],
-        "unicode": "",
+        "unicode": "1f4ff",
         "sort_order": 75
       }, {
         "has_img_apple": true,
@@ -4211,7 +4211,7 @@
         "name": "BARBER POLE",
         "short_name": "barber",
         "short_names": ["barber"],
-        "unicode": "",
+        "unicode": "1f488",
         "sort_order": 76
       }, {
         "has_img_apple": true,
@@ -4223,7 +4223,7 @@
         "name": "ALEMBIC",
         "short_name": "alembic",
         "short_names": ["alembic"],
-        "unicode": "",
+        "unicode": "2697-fe0f",
         "sort_order": 77
       }, {
         "has_img_apple": true,
@@ -4235,7 +4235,7 @@
         "name": "TELESCOPE",
         "short_name": "telescope",
         "short_names": ["telescope"],
-        "unicode": "",
+        "unicode": "1f52d",
         "sort_order": 78
       }, {
         "has_img_apple": true,
@@ -4247,7 +4247,7 @@
         "name": "MICROSCOPE",
         "short_name": "microscope",
         "short_names": ["microscope"],
-        "unicode": "",
+        "unicode": "1f52c",
         "sort_order": 79
       }, {
         "has_img_apple": true,
@@ -4259,7 +4259,7 @@
         "name": "HOLE",
         "short_name": "hole",
         "short_names": ["hole"],
-        "unicode": "",
+        "unicode": "1f573-fe0f",
         "sort_order": 80
       }, {
         "has_img_apple": true,
@@ -4271,7 +4271,7 @@
         "name": "PILL",
         "short_name": "pill",
         "short_names": ["pill"],
-        "unicode": "",
+        "unicode": "1f48a",
         "sort_order": 81
       }, {
         "has_img_apple": true,
@@ -4283,7 +4283,7 @@
         "name": "SYRINGE",
         "short_name": "syringe",
         "short_names": ["syringe"],
-        "unicode": "",
+        "unicode": "1f489",
         "sort_order": 82
       }, {
         "has_img_apple": true,
@@ -4295,7 +4295,7 @@
         "name": "THERMOMETER",
         "short_name": "thermometer",
         "short_names": ["thermometer"],
-        "unicode": "",
+        "unicode": "1f321-fe0f",
         "sort_order": 83
       }, {
         "has_img_apple": true,
@@ -4307,7 +4307,7 @@
         "name": "LABEL",
         "short_name": "label",
         "short_names": ["label"],
-        "unicode": "",
+        "unicode": "1f3f7-fe0f",
         "sort_order": 84
       }, {
         "has_img_apple": true,
@@ -4319,7 +4319,7 @@
         "name": "BOOKMARK",
         "short_name": "bookmark",
         "short_names": ["bookmark"],
-        "unicode": "",
+        "unicode": "1f516",
         "sort_order": 85
       }, {
         "has_img_apple": true,
@@ -4331,7 +4331,7 @@
         "name": "TOILET",
         "short_name": "toilet",
         "short_names": ["toilet"],
-        "unicode": "",
+        "unicode": "1f6bd",
         "sort_order": 86
       }, {
         "has_img_apple": true,
@@ -4343,7 +4343,7 @@
         "name": "SHOWER",
         "short_name": "shower",
         "short_names": ["shower"],
-        "unicode": "",
+        "unicode": "1f6bf",
         "sort_order": 87
       }, {
         "has_img_apple": true,
@@ -4355,7 +4355,7 @@
         "name": "BATHTUB",
         "short_name": "bathtub",
         "short_names": ["bathtub"],
-        "unicode": "",
+        "unicode": "1f6c1",
         "sort_order": 88
       }, {
         "has_img_apple": true,
@@ -4367,7 +4367,7 @@
         "name": "KEY",
         "short_name": "key",
         "short_names": ["key"],
-        "unicode": "",
+        "unicode": "1f511",
         "sort_order": 89
       }, {
         "has_img_apple": true,
@@ -4403,7 +4403,7 @@
         "name": "SLEEPING ACCOMMODATION",
         "short_name": "sleeping_accommodation",
         "short_names": ["sleeping_accommodation"],
-        "unicode": "",
+        "unicode": "1f6cc",
         "sort_order": 92
       }, {
         "has_img_apple": true,
@@ -4415,7 +4415,7 @@
         "name": "BED",
         "short_name": "bed",
         "short_names": ["bed"],
-        "unicode": "",
+        "unicode": "1f6cf-fe0f",
         "sort_order": 93
       }, {
         "has_img_apple": true,
@@ -4427,7 +4427,7 @@
         "name": "DOOR",
         "short_name": "door",
         "short_names": ["door"],
-        "unicode": "",
+        "unicode": "1f6aa",
         "sort_order": 94
       }, {
         "has_img_apple": true,
@@ -4487,7 +4487,7 @@
         "name": "MOYAI",
         "short_name": "moyai",
         "short_names": ["moyai"],
-        "unicode": "",
+        "unicode": "1f5ff",
         "sort_order": 99
       }, {
         "has_img_apple": true,
@@ -4499,7 +4499,7 @@
         "name": "SHOPPING BAGS",
         "short_name": "shopping_bags",
         "short_names": ["shopping_bags"],
-        "unicode": "",
+        "unicode": "1f6cd-fe0f",
         "sort_order": 100
       }, {
         "has_img_apple": true,
@@ -4511,7 +4511,7 @@
         "name": "BALLOON",
         "short_name": "balloon",
         "short_names": ["balloon"],
-        "unicode": "",
+        "unicode": "1f388",
         "sort_order": 101
       }, {
         "has_img_apple": true,
@@ -4523,7 +4523,7 @@
         "name": "CARP STREAMER",
         "short_name": "flags",
         "short_names": ["flags"],
-        "unicode": "",
+        "unicode": "1f38f",
         "sort_order": 102
       }, {
         "has_img_apple": true,
@@ -4535,7 +4535,7 @@
         "name": "RIBBON",
         "short_name": "ribbon",
         "short_names": ["ribbon"],
-        "unicode": "",
+        "unicode": "1f380",
         "sort_order": 103
       }, {
         "has_img_apple": true,
@@ -4547,7 +4547,7 @@
         "name": "WRAPPED PRESENT",
         "short_name": "gift",
         "short_names": ["gift"],
-        "unicode": "",
+        "unicode": "1f381",
         "sort_order": 104
       }, {
         "has_img_apple": true,
@@ -4559,7 +4559,7 @@
         "name": "CONFETTI BALL",
         "short_name": "confetti_ball",
         "short_names": ["confetti_ball"],
-        "unicode": "",
+        "unicode": "1f38a",
         "sort_order": 105
       }, {
         "has_img_apple": true,
@@ -4571,7 +4571,7 @@
         "name": "PARTY POPPER",
         "short_name": "tada",
         "short_names": ["tada"],
-        "unicode": "",
+        "unicode": "1f389",
         "sort_order": 106
       }, {
         "has_img_apple": true,
@@ -4583,7 +4583,7 @@
         "name": "JAPANESE DOLLS",
         "short_name": "dolls",
         "short_names": ["dolls"],
-        "unicode": "",
+        "unicode": "1f38e",
         "sort_order": 107
       }, {
         "has_img_apple": true,
@@ -4595,7 +4595,7 @@
         "name": "WIND CHIME",
         "short_name": "wind_chime",
         "short_names": ["wind_chime"],
-        "unicode": "",
+        "unicode": "1f390",
         "sort_order": 108
       }, {
         "has_img_apple": true,
@@ -4607,7 +4607,7 @@
         "name": "CROSSED FLAGS",
         "short_name": "crossed_flags",
         "short_names": ["crossed_flags"],
-        "unicode": "",
+        "unicode": "1f38c",
         "sort_order": 109
       }, {
         "has_img_apple": true,
@@ -4619,7 +4619,7 @@
         "name": "IZAKAYA LANTERN",
         "short_name": "izakaya_lantern",
         "short_names": ["izakaya_lantern", "lantern"],
-        "unicode": "",
+        "unicode": "1f3ee",
         "sort_order": 110
       }, {
         "has_img_apple": true,
@@ -4631,7 +4631,7 @@
         "name": "ENVELOPE",
         "short_name": "email",
         "short_names": ["email", "envelope"],
-        "unicode": "",
+        "unicode": "2709-fe0f",
         "sort_order": 111
       }, {
         "has_img_apple": true,
@@ -4643,7 +4643,7 @@
         "name": "ENVELOPE WITH DOWNWARDS ARROW ABOVE",
         "short_name": "envelope_with_arrow",
         "short_names": ["envelope_with_arrow"],
-        "unicode": "",
+        "unicode": "1f4e9",
         "sort_order": 112
       }, {
         "has_img_apple": true,
@@ -4655,7 +4655,7 @@
         "name": "INCOMING ENVELOPE",
         "short_name": "incoming_envelope",
         "short_names": ["incoming_envelope"],
-        "unicode": "",
+        "unicode": "1f4e8",
         "sort_order": 113
       }, {
         "has_img_apple": true,
@@ -4667,7 +4667,7 @@
         "name": "E-MAIL SYMBOL",
         "short_name": "e-mail",
         "short_names": ["e-mail"],
-        "unicode": "",
+        "unicode": "1f4e7",
         "sort_order": 114
       }, {
         "has_img_apple": true,
@@ -4679,7 +4679,7 @@
         "name": "LOVE LETTER",
         "short_name": "love_letter",
         "short_names": ["love_letter"],
-        "unicode": "",
+        "unicode": "1f48c",
         "sort_order": 115
       }, {
         "has_img_apple": true,
@@ -4691,7 +4691,7 @@
         "name": "POSTBOX",
         "short_name": "postbox",
         "short_names": ["postbox"],
-        "unicode": "",
+        "unicode": "1f4ee",
         "sort_order": 116
       }, {
         "has_img_apple": true,
@@ -4703,7 +4703,7 @@
         "name": "CLOSED MAILBOX WITH LOWERED FLAG",
         "short_name": "mailbox_closed",
         "short_names": ["mailbox_closed"],
-        "unicode": "",
+        "unicode": "1f4ea",
         "sort_order": 117
       }, {
         "has_img_apple": true,
@@ -4715,7 +4715,7 @@
         "name": "CLOSED MAILBOX WITH RAISED FLAG",
         "short_name": "mailbox",
         "short_names": ["mailbox"],
-        "unicode": "",
+        "unicode": "1f4eb",
         "sort_order": 118
       }, {
         "has_img_apple": true,
@@ -4727,7 +4727,7 @@
         "name": "OPEN MAILBOX WITH RAISED FLAG",
         "short_name": "mailbox_with_mail",
         "short_names": ["mailbox_with_mail"],
-        "unicode": "",
+        "unicode": "1f4ec",
         "sort_order": 119
       }, {
         "has_img_apple": true,
@@ -4739,7 +4739,7 @@
         "name": "OPEN MAILBOX WITH LOWERED FLAG",
         "short_name": "mailbox_with_no_mail",
         "short_names": ["mailbox_with_no_mail"],
-        "unicode": "",
+        "unicode": "1f4ed",
         "sort_order": 120
       }, {
         "has_img_apple": true,
@@ -4751,7 +4751,7 @@
         "name": "PACKAGE",
         "short_name": "package",
         "short_names": ["package"],
-        "unicode": "",
+        "unicode": "1f4e6",
         "sort_order": 121
       }, {
         "has_img_apple": true,
@@ -4763,7 +4763,7 @@
         "name": "POSTAL HORN",
         "short_name": "postal_horn",
         "short_names": ["postal_horn"],
-        "unicode": "",
+        "unicode": "1f4ef",
         "sort_order": 122
       }, {
         "has_img_apple": true,
@@ -4775,7 +4775,7 @@
         "name": "INBOX TRAY",
         "short_name": "inbox_tray",
         "short_names": ["inbox_tray"],
-        "unicode": "",
+        "unicode": "1f4e5",
         "sort_order": 123
       }, {
         "has_img_apple": true,
@@ -4787,7 +4787,7 @@
         "name": "OUTBOX TRAY",
         "short_name": "outbox_tray",
         "short_names": ["outbox_tray"],
-        "unicode": "",
+        "unicode": "1f4e4",
         "sort_order": 124
       }, {
         "has_img_apple": true,
@@ -4799,7 +4799,7 @@
         "name": "SCROLL",
         "short_name": "scroll",
         "short_names": ["scroll"],
-        "unicode": "",
+        "unicode": "1f4dc",
         "sort_order": 125
       }, {
         "has_img_apple": true,
@@ -4811,7 +4811,7 @@
         "name": "PAGE WITH CURL",
         "short_name": "page_with_curl",
         "short_names": ["page_with_curl"],
-        "unicode": "",
+        "unicode": "1f4c3",
         "sort_order": 126
       }, {
         "has_img_apple": true,
@@ -4823,7 +4823,7 @@
         "name": "BOOKMARK TABS",
         "short_name": "bookmark_tabs",
         "short_names": ["bookmark_tabs"],
-        "unicode": "",
+        "unicode": "1f4d1",
         "sort_order": 127
       }, {
         "has_img_apple": true,
@@ -4835,7 +4835,7 @@
         "name": "BAR CHART",
         "short_name": "bar_chart",
         "short_names": ["bar_chart"],
-        "unicode": "",
+        "unicode": "1f4ca",
         "sort_order": 128
       }, {
         "has_img_apple": true,
@@ -4847,7 +4847,7 @@
         "name": "CHART WITH UPWARDS TREND",
         "short_name": "chart_with_upwards_trend",
         "short_names": ["chart_with_upwards_trend"],
-        "unicode": "",
+        "unicode": "1f4c8",
         "sort_order": 129
       }, {
         "has_img_apple": true,
@@ -4859,7 +4859,7 @@
         "name": "CHART WITH DOWNWARDS TREND",
         "short_name": "chart_with_downwards_trend",
         "short_names": ["chart_with_downwards_trend"],
-        "unicode": "",
+        "unicode": "1f4c9",
         "sort_order": 130
       }, {
         "has_img_apple": true,
@@ -4871,7 +4871,7 @@
         "name": "PAGE FACING UP",
         "short_name": "page_facing_up",
         "short_names": ["page_facing_up"],
-        "unicode": "",
+        "unicode": "1f4c4",
         "sort_order": 131
       }, {
         "has_img_apple": true,
@@ -4883,7 +4883,7 @@
         "name": "CALENDAR",
         "short_name": "date",
         "short_names": ["date"],
-        "unicode": "",
+        "unicode": "1f4c5",
         "sort_order": 132
       }, {
         "has_img_apple": true,
@@ -4895,7 +4895,7 @@
         "name": "TEAR-OFF CALENDAR",
         "short_name": "calendar",
         "short_names": ["calendar"],
-        "unicode": "",
+        "unicode": "1f4c6",
         "sort_order": 133
       }, {
         "has_img_apple": true,
@@ -4919,7 +4919,7 @@
         "name": "CARD INDEX",
         "short_name": "card_index",
         "short_names": ["card_index"],
-        "unicode": "",
+        "unicode": "1f4c7",
         "sort_order": 135
       }, {
         "has_img_apple": true,
@@ -4955,7 +4955,7 @@
         "name": "FILE CABINET",
         "short_name": "file_cabinet",
         "short_names": ["file_cabinet"],
-        "unicode": "",
+        "unicode": "1f5c4-fe0f",
         "sort_order": 138
       }, {
         "has_img_apple": true,
@@ -4967,7 +4967,7 @@
         "name": "CLIPBOARD",
         "short_name": "clipboard",
         "short_names": ["clipboard"],
-        "unicode": "",
+        "unicode": "1f4cb",
         "sort_order": 139
       }, {
         "has_img_apple": true,
@@ -4991,7 +4991,7 @@
         "name": "FILE FOLDER",
         "short_name": "file_folder",
         "short_names": ["file_folder"],
-        "unicode": "",
+        "unicode": "1f4c1",
         "sort_order": 141
       }, {
         "has_img_apple": true,
@@ -5003,7 +5003,7 @@
         "name": "OPEN FILE FOLDER",
         "short_name": "open_file_folder",
         "short_names": ["open_file_folder"],
-        "unicode": "",
+        "unicode": "1f4c2",
         "sort_order": 142
       }, {
         "has_img_apple": true,
@@ -5039,7 +5039,7 @@
         "name": "NEWSPAPER",
         "short_name": "newspaper",
         "short_names": ["newspaper"],
-        "unicode": "",
+        "unicode": "1f4f0",
         "sort_order": 145
       }, {
         "has_img_apple": true,
@@ -5051,7 +5051,7 @@
         "name": "NOTEBOOK",
         "short_name": "notebook",
         "short_names": ["notebook"],
-        "unicode": "",
+        "unicode": "1f4d3",
         "sort_order": 146
       }, {
         "has_img_apple": true,
@@ -5063,7 +5063,7 @@
         "name": "CLOSED BOOK",
         "short_name": "closed_book",
         "short_names": ["closed_book"],
-        "unicode": "",
+        "unicode": "1f4d5",
         "sort_order": 147
       }, {
         "has_img_apple": true,
@@ -5075,7 +5075,7 @@
         "name": "GREEN BOOK",
         "short_name": "green_book",
         "short_names": ["green_book"],
-        "unicode": "",
+        "unicode": "1f4d7",
         "sort_order": 148
       }, {
         "has_img_apple": true,
@@ -5087,7 +5087,7 @@
         "name": "BLUE BOOK",
         "short_name": "blue_book",
         "short_names": ["blue_book"],
-        "unicode": "",
+        "unicode": "1f4d8",
         "sort_order": 149
       }, {
         "has_img_apple": true,
@@ -5099,7 +5099,7 @@
         "name": "ORANGE BOOK",
         "short_name": "orange_book",
         "short_names": ["orange_book"],
-        "unicode": "",
+        "unicode": "1f4d9",
         "sort_order": 150
       }, {
         "has_img_apple": true,
@@ -5111,7 +5111,7 @@
         "name": "NOTEBOOK WITH DECORATIVE COVER",
         "short_name": "notebook_with_decorative_cover",
         "short_names": ["notebook_with_decorative_cover"],
-        "unicode": "",
+        "unicode": "1f4d4",
         "sort_order": 151
       }, {
         "has_img_apple": true,
@@ -5123,7 +5123,7 @@
         "name": "LEDGER",
         "short_name": "ledger",
         "short_names": ["ledger"],
-        "unicode": "",
+        "unicode": "1f4d2",
         "sort_order": 152
       }, {
         "has_img_apple": true,
@@ -5135,7 +5135,7 @@
         "name": "BOOKS",
         "short_name": "books",
         "short_names": ["books"],
-        "unicode": "",
+        "unicode": "1f4da",
         "sort_order": 153
       }, {
         "has_img_apple": true,
@@ -5147,7 +5147,7 @@
         "name": "OPEN BOOK",
         "short_name": "book",
         "short_names": ["book", "open_book"],
-        "unicode": "",
+        "unicode": "1f4d6",
         "sort_order": 154
       }, {
         "has_img_apple": true,
@@ -5159,7 +5159,7 @@
         "name": "LINK SYMBOL",
         "short_name": "link",
         "short_names": ["link"],
-        "unicode": "",
+        "unicode": "1f517",
         "sort_order": 155
       }, {
         "has_img_apple": true,
@@ -5171,7 +5171,7 @@
         "name": "PAPERCLIP",
         "short_name": "paperclip",
         "short_names": ["paperclip"],
-        "unicode": "",
+        "unicode": "1f4ce",
         "sort_order": 156
       }, {
         "has_img_apple": true,
@@ -5195,7 +5195,7 @@
         "name": "BLACK SCISSORS",
         "short_name": "scissors",
         "short_names": ["scissors"],
-        "unicode": "",
+        "unicode": "2702-fe0f",
         "sort_order": 158
       }, {
         "has_img_apple": true,
@@ -5207,7 +5207,7 @@
         "name": "TRIANGULAR RULER",
         "short_name": "triangular_ruler",
         "short_names": ["triangular_ruler"],
-        "unicode": "",
+        "unicode": "1f4d0",
         "sort_order": 159
       }, {
         "has_img_apple": true,
@@ -5219,7 +5219,7 @@
         "name": "STRAIGHT RULER",
         "short_name": "straight_ruler",
         "short_names": ["straight_ruler"],
-        "unicode": "",
+        "unicode": "1f4cf",
         "sort_order": 160
       }, {
         "has_img_apple": true,
@@ -5231,7 +5231,7 @@
         "name": "PUSHPIN",
         "short_name": "pushpin",
         "short_names": ["pushpin"],
-        "unicode": "",
+        "unicode": "1f4cc",
         "sort_order": 161
       }, {
         "has_img_apple": true,
@@ -5243,7 +5243,7 @@
         "name": "ROUND PUSHPIN",
         "short_name": "round_pushpin",
         "short_names": ["round_pushpin"],
-        "unicode": "",
+        "unicode": "1f4cd",
         "sort_order": 162
       }, {
         "has_img_apple": true,
@@ -5255,7 +5255,7 @@
         "name": "TRIANGULAR FLAG ON POST",
         "short_name": "triangular_flag_on_post",
         "short_names": ["triangular_flag_on_post"],
-        "unicode": "",
+        "unicode": "1f6a9",
         "sort_order": 163
       }, {
         "has_img_apple": true,
@@ -5291,7 +5291,7 @@
         "name": "CLOSED LOCK WITH KEY",
         "short_name": "closed_lock_with_key",
         "short_names": ["closed_lock_with_key"],
-        "unicode": "",
+        "unicode": "1f510",
         "sort_order": 166
       }, {
         "has_img_apple": true,
@@ -5303,7 +5303,7 @@
         "name": "LOCK",
         "short_name": "lock",
         "short_names": ["lock"],
-        "unicode": "",
+        "unicode": "1f512",
         "sort_order": 167
       }, {
         "has_img_apple": true,
@@ -5315,7 +5315,7 @@
         "name": "OPEN LOCK",
         "short_name": "unlock",
         "short_names": ["unlock"],
-        "unicode": "",
+        "unicode": "1f513",
         "sort_order": 168
       }, {
         "has_img_apple": true,
@@ -5327,7 +5327,7 @@
         "name": "LOCK WITH INK PEN",
         "short_name": "lock_with_ink_pen",
         "short_names": ["lock_with_ink_pen"],
-        "unicode": "",
+        "unicode": "1f50f",
         "sort_order": 169
       }, {
         "has_img_apple": true,
@@ -5363,7 +5363,7 @@
         "name": "BLACK NIB",
         "short_name": "black_nib",
         "short_names": ["black_nib"],
-        "unicode": "",
+        "unicode": "2712-fe0f",
         "sort_order": 172
       }, {
         "has_img_apple": true,
@@ -5375,7 +5375,7 @@
         "name": "MEMO",
         "short_name": "memo",
         "short_names": ["memo", "pencil"],
-        "unicode": "",
+        "unicode": "1f4dd",
         "sort_order": 173
       }, {
         "has_img_apple": true,
@@ -5387,7 +5387,7 @@
         "name": "PENCIL",
         "short_name": "pencil2",
         "short_names": ["pencil2"],
-        "unicode": "",
+        "unicode": "270f-fe0f",
         "sort_order": 174
       }, {
         "has_img_apple": true,
@@ -5423,7 +5423,7 @@
         "name": "LEFT-POINTING MAGNIFYING GLASS",
         "short_name": "mag",
         "short_names": ["mag"],
-        "unicode": "",
+        "unicode": "1f50d",
         "sort_order": 177
       }, {
         "has_img_apple": true,
@@ -5435,7 +5435,7 @@
         "name": "RIGHT-POINTING MAGNIFYING GLASS",
         "short_name": "mag_right",
         "short_names": ["mag_right"],
-        "unicode": "",
+        "unicode": "1f50e",
         "sort_order": 178
       }],
       "Nature": [{
