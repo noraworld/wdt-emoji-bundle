@@ -10467,7 +10467,7 @@
         "name": "AUTOMOBILE",
         "short_name": "car",
         "short_names": ["car", "red_car"],
-        "unicode": "",
+        "unicode": "1f697",
         "sort_order": 1
       }, {
         "has_img_apple": true,
@@ -10479,7 +10479,7 @@
         "name": "TAXI",
         "short_name": "taxi",
         "short_names": ["taxi"],
-        "unicode": "",
+        "unicode": "1f695",
         "sort_order": 2
       }, {
         "has_img_apple": true,
@@ -10491,7 +10491,7 @@
         "name": "RECREATIONAL VEHICLE",
         "short_name": "blue_car",
         "short_names": ["blue_car"],
-        "unicode": "",
+        "unicode": "1f699",
         "sort_order": 3
       }, {
         "has_img_apple": true,
@@ -10503,7 +10503,7 @@
         "name": "BUS",
         "short_name": "bus",
         "short_names": ["bus"],
-        "unicode": "",
+        "unicode": "1f68c",
         "sort_order": 4
       }, {
         "has_img_apple": true,
@@ -10515,7 +10515,7 @@
         "name": "TROLLEYBUS",
         "short_name": "trolleybus",
         "short_names": ["trolleybus"],
-        "unicode": "",
+        "unicode": "1f68e",
         "sort_order": 5
       }, {
         "has_img_apple": true,
@@ -10527,7 +10527,7 @@
         "name": "RACING CAR",
         "short_name": "racing_car",
         "short_names": ["racing_car"],
-        "unicode": "",
+        "unicode": "1f3ce",
         "sort_order": 6
       }, {
         "has_img_apple": true,
@@ -10539,7 +10539,7 @@
         "name": "POLICE CAR",
         "short_name": "police_car",
         "short_names": ["police_car"],
-        "unicode": "",
+        "unicode": "1f693",
         "sort_order": 7
       }, {
         "has_img_apple": true,
@@ -10551,7 +10551,7 @@
         "name": "AMBULANCE",
         "short_name": "ambulance",
         "short_names": ["ambulance"],
-        "unicode": "",
+        "unicode": "1f691",
         "sort_order": 8
       }, {
         "has_img_apple": true,
@@ -10563,7 +10563,7 @@
         "name": "FIRE ENGINE",
         "short_name": "fire_engine",
         "short_names": ["fire_engine"],
-        "unicode": "",
+        "unicode": "1f692",
         "sort_order": 9
       }, {
         "has_img_apple": true,
@@ -10575,7 +10575,7 @@
         "name": "MINIBUS",
         "short_name": "minibus",
         "short_names": ["minibus"],
-        "unicode": "",
+        "unicode": "1f690",
         "sort_order": 10
       }, {
         "has_img_apple": true,
@@ -10587,7 +10587,7 @@
         "name": "DELIVERY TRUCK",
         "short_name": "truck",
         "short_names": ["truck"],
-        "unicode": "",
+        "unicode": "1f69a",
         "sort_order": 11
       }, {
         "has_img_apple": true,
@@ -10599,7 +10599,7 @@
         "name": "ARTICULATED LORRY",
         "short_name": "articulated_lorry",
         "short_names": ["articulated_lorry"],
-        "unicode": "",
+        "unicode": "1f69b",
         "sort_order": 12
       }, {
         "has_img_apple": true,
@@ -10611,7 +10611,7 @@
         "name": "TRACTOR",
         "short_name": "tractor",
         "short_names": ["tractor"],
-        "unicode": "",
+        "unicode": "1f69c",
         "sort_order": 13
       }, {
         "has_img_apple": true,
@@ -10623,7 +10623,7 @@
         "name": "RACING MOTORCYCLE",
         "short_name": "racing_motorcycle",
         "short_names": ["racing_motorcycle"],
-        "unicode": "",
+        "unicode": "1f3cd",
         "sort_order": 14
       }, {
         "has_img_apple": true,
@@ -10635,7 +10635,7 @@
         "name": "BICYCLE",
         "short_name": "bike",
         "short_names": ["bike"],
-        "unicode": "",
+        "unicode": "1f6b2",
         "sort_order": 15
       }, {
         "has_img_apple": true,
@@ -10647,7 +10647,7 @@
         "name": "POLICE CARS REVOLVING LIGHT",
         "short_name": "rotating_light",
         "short_names": ["rotating_light"],
-        "unicode": "",
+        "unicode": "1f6a8",
         "sort_order": 16
       }, {
         "has_img_apple": true,
@@ -10659,7 +10659,7 @@
         "name": "ONCOMING POLICE CAR",
         "short_name": "oncoming_police_car",
         "short_names": ["oncoming_police_car"],
-        "unicode": "",
+        "unicode": "1f694",
         "sort_order": 17
       }, {
         "has_img_apple": true,
@@ -10671,7 +10671,7 @@
         "name": "ONCOMING BUS",
         "short_name": "oncoming_bus",
         "short_names": ["oncoming_bus"],
-        "unicode": "",
+        "unicode": "1f68d",
         "sort_order": 18
       }, {
         "has_img_apple": true,
@@ -10683,7 +10683,7 @@
         "name": "ONCOMING AUTOMOBILE",
         "short_name": "oncoming_automobile",
         "short_names": ["oncoming_automobile"],
-        "unicode": "",
+        "unicode": "1f698",
         "sort_order": 19
       }, {
         "has_img_apple": true,
@@ -10695,7 +10695,7 @@
         "name": "ONCOMING TAXI",
         "short_name": "oncoming_taxi",
         "short_names": ["oncoming_taxi"],
-        "unicode": "",
+        "unicode": "1f696",
         "sort_order": 20
       }, {
         "has_img_apple": true,
@@ -10707,7 +10707,7 @@
         "name": "AERIAL TRAMWAY",
         "short_name": "aerial_tramway",
         "short_names": ["aerial_tramway"],
-        "unicode": "",
+        "unicode": "1f6a1",
         "sort_order": 21
       }, {
         "has_img_apple": true,
@@ -10719,7 +10719,7 @@
         "name": "MOUNTAIN CABLEWAY",
         "short_name": "mountain_cableway",
         "short_names": ["mountain_cableway"],
-        "unicode": "",
+        "unicode": "1f6a0",
         "sort_order": 22
       }, {
         "has_img_apple": true,
@@ -10731,7 +10731,7 @@
         "name": "SUSPENSION RAILWAY",
         "short_name": "suspension_railway",
         "short_names": ["suspension_railway"],
-        "unicode": "",
+        "unicode": "1f69f",
         "sort_order": 23
       }, {
         "has_img_apple": true,
@@ -10743,7 +10743,7 @@
         "name": "RAILWAY CAR",
         "short_name": "railway_car",
         "short_names": ["railway_car"],
-        "unicode": "",
+        "unicode": "1f683",
         "sort_order": 24
       }, {
         "has_img_apple": true,
@@ -10755,7 +10755,7 @@
         "name": "TRAM CAR",
         "short_name": "train",
         "short_names": ["train"],
-        "unicode": "",
+        "unicode": "1f68b",
         "sort_order": 25
       }, {
         "has_img_apple": true,
@@ -10767,7 +10767,7 @@
         "name": "MONORAIL",
         "short_name": "monorail",
         "short_names": ["monorail"],
-        "unicode": "",
+        "unicode": "1f69d",
         "sort_order": 26
       }, {
         "has_img_apple": true,
@@ -10779,7 +10779,7 @@
         "name": "HIGH-SPEED TRAIN",
         "short_name": "bullettrain_side",
         "short_names": ["bullettrain_side"],
-        "unicode": "",
+        "unicode": "1f684",
         "sort_order": 27
       }, {
         "has_img_apple": true,
@@ -10791,7 +10791,7 @@
         "name": "HIGH-SPEED TRAIN WITH BULLET NOSE",
         "short_name": "bullettrain_front",
         "short_names": ["bullettrain_front"],
-        "unicode": "",
+        "unicode": "1f685",
         "sort_order": 28
       }, {
         "has_img_apple": true,
@@ -10803,7 +10803,7 @@
         "name": "LIGHT RAIL",
         "short_name": "light_rail",
         "short_names": ["light_rail"],
-        "unicode": "",
+        "unicode": "1f688",
         "sort_order": 29
       }, {
         "has_img_apple": true,
@@ -10815,7 +10815,7 @@
         "name": "MOUNTAIN RAILWAY",
         "short_name": "mountain_railway",
         "short_names": ["mountain_railway"],
-        "unicode": "",
+        "unicode": "1f69e",
         "sort_order": 30
       }, {
         "has_img_apple": true,
@@ -10827,7 +10827,7 @@
         "name": "STEAM LOCOMOTIVE",
         "short_name": "steam_locomotive",
         "short_names": ["steam_locomotive"],
-        "unicode": "",
+        "unicode": "1f682",
         "sort_order": 31
       }, {
         "has_img_apple": true,
@@ -10839,7 +10839,7 @@
         "name": "TRAIN",
         "short_name": "train2",
         "short_names": ["train2"],
-        "unicode": "",
+        "unicode": "1f686",
         "sort_order": 32
       }, {
         "has_img_apple": true,
@@ -10851,7 +10851,7 @@
         "name": "METRO",
         "short_name": "metro",
         "short_names": ["metro"],
-        "unicode": "",
+        "unicode": "1f687",
         "sort_order": 33
       }, {
         "has_img_apple": true,
@@ -10863,7 +10863,7 @@
         "name": "TRAM",
         "short_name": "tram",
         "short_names": ["tram"],
-        "unicode": "",
+        "unicode": "1f68a",
         "sort_order": 34
       }, {
         "has_img_apple": true,
@@ -10875,7 +10875,7 @@
         "name": "STATION",
         "short_name": "station",
         "short_names": ["station"],
-        "unicode": "",
+        "unicode": "1f689",
         "sort_order": 35
       }, {
         "has_img_apple": true,
@@ -10887,7 +10887,7 @@
         "name": "HELICOPTER",
         "short_name": "helicopter",
         "short_names": ["helicopter"],
-        "unicode": "",
+        "unicode": "1f681",
         "sort_order": 36
       }, {
         "has_img_apple": true,
@@ -10899,7 +10899,7 @@
         "name": "SMALL AIRPLANE",
         "short_name": "small_airplane",
         "short_names": ["small_airplane"],
-        "unicode": "",
+        "unicode": "1f6e9",
         "sort_order": 37
       }, {
         "has_img_apple": true,
@@ -10911,7 +10911,7 @@
         "name": "AIRPLANE",
         "short_name": "airplane",
         "short_names": ["airplane"],
-        "unicode": "",
+        "unicode": "2708",
         "sort_order": 38
       }, {
         "has_img_apple": true,
@@ -10923,7 +10923,7 @@
         "name": "AIRPLANE DEPARTURE",
         "short_name": "airplane_departure",
         "short_names": ["airplane_departure"],
-        "unicode": "",
+        "unicode": "1f6eb",
         "sort_order": 39
       }, {
         "has_img_apple": true,
@@ -10935,7 +10935,7 @@
         "name": "AIRPLANE ARRIVING",
         "short_name": "airplane_arriving",
         "short_names": ["airplane_arriving"],
-        "unicode": "",
+        "unicode": "1f6ec",
         "sort_order": 40
       }, {
         "has_img_apple": true,
@@ -10947,7 +10947,7 @@
         "name": "SAILBOAT",
         "short_name": "boat",
         "short_names": ["boat", "sailboat"],
-        "unicode": "",
+        "unicode": "26f5",
         "sort_order": 41
       }, {
         "has_img_apple": true,
@@ -10959,7 +10959,7 @@
         "name": "MOTOR BOAT",
         "short_name": "motor_boat",
         "short_names": ["motor_boat"],
-        "unicode": "",
+        "unicode": "1f6e5",
         "sort_order": 42
       }, {
         "has_img_apple": true,
@@ -10971,7 +10971,7 @@
         "name": "SPEEDBOAT",
         "short_name": "speedboat",
         "short_names": ["speedboat"],
-        "unicode": "",
+        "unicode": "1f6a4",
         "sort_order": 43
       }, {
         "has_img_apple": true,
@@ -10983,7 +10983,7 @@
         "name": "FERRY",
         "short_name": "ferry",
         "short_names": ["ferry"],
-        "unicode": "",
+        "unicode": "26f4",
         "sort_order": 44
       }, {
         "has_img_apple": true,
@@ -10995,7 +10995,7 @@
         "name": "PASSENGER SHIP",
         "short_name": "passenger_ship",
         "short_names": ["passenger_ship"],
-        "unicode": "",
+        "unicode": "1f6f3",
         "sort_order": 45
       }, {
         "has_img_apple": true,
@@ -11007,7 +11007,7 @@
         "name": "ROCKET",
         "short_name": "rocket",
         "short_names": ["rocket"],
-        "unicode": "",
+        "unicode": "1f680",
         "sort_order": 46
       }, {
         "has_img_apple": true,
@@ -11019,7 +11019,7 @@
         "name": "SATELLITE",
         "short_name": "satellite",
         "short_names": ["satellite"],
-        "unicode": "",
+        "unicode": "1f6f0",
         "sort_order": 47
       }, {
         "has_img_apple": true,
@@ -11031,7 +11031,7 @@
         "name": "SEAT",
         "short_name": "seat",
         "short_names": ["seat"],
-        "unicode": "",
+        "unicode": "1f4ba",
         "sort_order": 48
       }, {
         "has_img_apple": true,
@@ -11043,7 +11043,7 @@
         "name": "ANCHOR",
         "short_name": "anchor",
         "short_names": ["anchor"],
-        "unicode": "",
+        "unicode": "2693",
         "sort_order": 49
       }, {
         "has_img_apple": true,
@@ -11055,7 +11055,7 @@
         "name": "CONSTRUCTION SIGN",
         "short_name": "construction",
         "short_names": ["construction"],
-        "unicode": "",
+        "unicode": "1f6a7",
         "sort_order": 50
       }, {
         "has_img_apple": true,
@@ -11067,7 +11067,7 @@
         "name": "FUEL PUMP",
         "short_name": "fuelpump",
         "short_names": ["fuelpump"],
-        "unicode": "",
+        "unicode": "26fd",
         "sort_order": 51
       }, {
         "has_img_apple": true,
@@ -11079,7 +11079,7 @@
         "name": "BUS STOP",
         "short_name": "busstop",
         "short_names": ["busstop"],
-        "unicode": "",
+        "unicode": "1f68f",
         "sort_order": 52
       }, {
         "has_img_apple": true,
@@ -11091,7 +11091,7 @@
         "name": "VERTICAL TRAFFIC LIGHT",
         "short_name": "vertical_traffic_light",
         "short_names": ["vertical_traffic_light"],
-        "unicode": "",
+        "unicode": "1f6a6",
         "sort_order": 53
       }, {
         "has_img_apple": true,
@@ -11103,7 +11103,7 @@
         "name": "HORIZONTAL TRAFFIC LIGHT",
         "short_name": "traffic_light",
         "short_names": ["traffic_light"],
-        "unicode": "",
+        "unicode": "1f6a5",
         "sort_order": 54
       }, {
         "has_img_apple": true,
@@ -11115,7 +11115,7 @@
         "name": "CHEQUERED FLAG",
         "short_name": "checkered_flag",
         "short_names": ["checkered_flag"],
-        "unicode": "",
+        "unicode": "1f3c1",
         "sort_order": 55
       }, {
         "has_img_apple": true,
@@ -11127,7 +11127,7 @@
         "name": "SHIP",
         "short_name": "ship",
         "short_names": ["ship"],
-        "unicode": "",
+        "unicode": "1f6a2",
         "sort_order": 56
       }, {
         "has_img_apple": true,
@@ -11139,7 +11139,7 @@
         "name": "FERRIS WHEEL",
         "short_name": "ferris_wheel",
         "short_names": ["ferris_wheel"],
-        "unicode": "",
+        "unicode": "1f3a1",
         "sort_order": 57
       }, {
         "has_img_apple": true,
@@ -11151,7 +11151,7 @@
         "name": "ROLLER COASTER",
         "short_name": "roller_coaster",
         "short_names": ["roller_coaster"],
-        "unicode": "",
+        "unicode": "1f3a2",
         "sort_order": 58
       }, {
         "has_img_apple": true,
@@ -11163,7 +11163,7 @@
         "name": "CAROUSEL HORSE",
         "short_name": "carousel_horse",
         "short_names": ["carousel_horse"],
-        "unicode": "",
+        "unicode": "1f3a0",
         "sort_order": 59
       }, {
         "has_img_apple": true,
@@ -11175,7 +11175,7 @@
         "name": "BUILDING CONSTRUCTION",
         "short_name": "building_construction",
         "short_names": ["building_construction"],
-        "unicode": "",
+        "unicode": "1f3d7",
         "sort_order": 60
       }, {
         "has_img_apple": true,
@@ -11187,7 +11187,7 @@
         "name": "FOGGY",
         "short_name": "foggy",
         "short_names": ["foggy"],
-        "unicode": "",
+        "unicode": "1f301",
         "sort_order": 61
       }, {
         "has_img_apple": true,
@@ -11199,7 +11199,7 @@
         "name": "TOKYO TOWER",
         "short_name": "tokyo_tower",
         "short_names": ["tokyo_tower"],
-        "unicode": "",
+        "unicode": "1f5fc",
         "sort_order": 62
       }, {
         "has_img_apple": true,
@@ -11211,7 +11211,7 @@
         "name": "FACTORY",
         "short_name": "factory",
         "short_names": ["factory"],
-        "unicode": "",
+        "unicode": "1f3ed",
         "sort_order": 63
       }, {
         "has_img_apple": true,
@@ -11223,7 +11223,7 @@
         "name": "FOUNTAIN",
         "short_name": "fountain",
         "short_names": ["fountain"],
-        "unicode": "",
+        "unicode": "26f2",
         "sort_order": 64
       }, {
         "has_img_apple": true,
@@ -11235,7 +11235,7 @@
         "name": "MOON VIEWING CEREMONY",
         "short_name": "rice_scene",
         "short_names": ["rice_scene"],
-        "unicode": "",
+        "unicode": "1f391",
         "sort_order": 65
       }, {
         "has_img_apple": true,
@@ -11247,7 +11247,7 @@
         "name": "MOUNTAIN",
         "short_name": "mountain",
         "short_names": ["mountain"],
-        "unicode": "",
+        "unicode": "26f0",
         "sort_order": 66
       }, {
         "has_img_apple": true,
@@ -11259,7 +11259,7 @@
         "name": "SNOW CAPPED MOUNTAIN",
         "short_name": "snow_capped_mountain",
         "short_names": ["snow_capped_mountain"],
-        "unicode": "",
+        "unicode": "1f3d4",
         "sort_order": 67
       }, {
         "has_img_apple": true,
@@ -11271,7 +11271,7 @@
         "name": "MOUNT FUJI",
         "short_name": "mount_fuji",
         "short_names": ["mount_fuji"],
-        "unicode": "",
+        "unicode": "1f5fb",
         "sort_order": 68
       }, {
         "has_img_apple": true,
@@ -11283,7 +11283,7 @@
         "name": "VOLCANO",
         "short_name": "volcano",
         "short_names": ["volcano"],
-        "unicode": "",
+        "unicode": "1f30b",
         "sort_order": 69
       }, {
         "has_img_apple": true,
@@ -11295,7 +11295,7 @@
         "name": "SILHOUETTE OF JAPAN",
         "short_name": "japan",
         "short_names": ["japan"],
-        "unicode": "",
+        "unicode": "1f5fe",
         "sort_order": 70
       }, {
         "has_img_apple": true,
@@ -11307,7 +11307,7 @@
         "name": "CAMPING",
         "short_name": "camping",
         "short_names": ["camping"],
-        "unicode": "",
+        "unicode": "1f3d5",
         "sort_order": 71
       }, {
         "has_img_apple": true,
@@ -11319,7 +11319,7 @@
         "name": "TENT",
         "short_name": "tent",
         "short_names": ["tent"],
-        "unicode": "",
+        "unicode": "26fa",
         "sort_order": 72
       }, {
         "has_img_apple": true,
@@ -11331,7 +11331,7 @@
         "name": "NATIONAL PARK",
         "short_name": "national_park",
         "short_names": ["national_park"],
-        "unicode": "",
+        "unicode": "1f3de",
         "sort_order": 73
       }, {
         "has_img_apple": true,
@@ -11343,7 +11343,7 @@
         "name": "MOTORWAY",
         "short_name": "motorway",
         "short_names": ["motorway"],
-        "unicode": "",
+        "unicode": "1f6e3",
         "sort_order": 74
       }, {
         "has_img_apple": true,
@@ -11355,7 +11355,7 @@
         "name": "RAILWAY TRACK",
         "short_name": "railway_track",
         "short_names": ["railway_track"],
-        "unicode": "",
+        "unicode": "1f6e4",
         "sort_order": 75
       }, {
         "has_img_apple": true,
@@ -11367,7 +11367,7 @@
         "name": "SUNRISE",
         "short_name": "sunrise",
         "short_names": ["sunrise"],
-        "unicode": "",
+        "unicode": "1f305",
         "sort_order": 76
       }, {
         "has_img_apple": true,
@@ -11379,7 +11379,7 @@
         "name": "SUNRISE OVER MOUNTAINS",
         "short_name": "sunrise_over_mountains",
         "short_names": ["sunrise_over_mountains"],
-        "unicode": "",
+        "unicode": "1f304",
         "sort_order": 77
       }, {
         "has_img_apple": true,
@@ -11391,7 +11391,7 @@
         "name": "DESERT",
         "short_name": "desert",
         "short_names": ["desert"],
-        "unicode": "",
+        "unicode": "1f3dc",
         "sort_order": 78
       }, {
         "has_img_apple": true,
@@ -11403,7 +11403,7 @@
         "name": "BEACH WITH UMBRELLA",
         "short_name": "beach_with_umbrella",
         "short_names": ["beach_with_umbrella"],
-        "unicode": "",
+        "unicode": "1f3d6",
         "sort_order": 79
       }, {
         "has_img_apple": true,
@@ -11415,7 +11415,7 @@
         "name": "DESERT ISLAND",
         "short_name": "desert_island",
         "short_names": ["desert_island"],
-        "unicode": "",
+        "unicode": "1f3dd",
         "sort_order": 80
       }, {
         "has_img_apple": true,
@@ -11427,7 +11427,7 @@
         "name": "SUNSET OVER BUILDINGS",
         "short_name": "city_sunrise",
         "short_names": ["city_sunrise"],
-        "unicode": "",
+        "unicode": "1f307",
         "sort_order": 81
       }, {
         "has_img_apple": true,
@@ -11439,7 +11439,7 @@
         "name": "CITYSCAPE AT DUSK",
         "short_name": "city_sunset",
         "short_names": ["city_sunset"],
-        "unicode": "",
+        "unicode": "1f306",
         "sort_order": 82
       }, {
         "has_img_apple": true,
@@ -11451,7 +11451,7 @@
         "name": "CITYSCAPE",
         "short_name": "cityscape",
         "short_names": ["cityscape"],
-        "unicode": "",
+        "unicode": "1f3d9",
         "sort_order": 83
       }, {
         "has_img_apple": true,
@@ -11463,7 +11463,7 @@
         "name": "NIGHT WITH STARS",
         "short_name": "night_with_stars",
         "short_names": ["night_with_stars"],
-        "unicode": "",
+        "unicode": "1f303",
         "sort_order": 84
       }, {
         "has_img_apple": true,
@@ -11475,7 +11475,7 @@
         "name": "BRIDGE AT NIGHT",
         "short_name": "bridge_at_night",
         "short_names": ["bridge_at_night"],
-        "unicode": "",
+        "unicode": "1f309",
         "sort_order": 85
       }, {
         "has_img_apple": true,
@@ -11487,7 +11487,7 @@
         "name": "MILKY WAY",
         "short_name": "milky_way",
         "short_names": ["milky_way"],
-        "unicode": "",
+        "unicode": "1f30c",
         "sort_order": 86
       }, {
         "has_img_apple": true,
@@ -11499,7 +11499,7 @@
         "name": "SHOOTING STAR",
         "short_name": "stars",
         "short_names": ["stars"],
-        "unicode": "",
+        "unicode": "1f320",
         "sort_order": 87
       }, {
         "has_img_apple": true,
@@ -11511,7 +11511,7 @@
         "name": "FIREWORK SPARKLER",
         "short_name": "sparkler",
         "short_names": ["sparkler"],
-        "unicode": "",
+        "unicode": "1f387",
         "sort_order": 88
       }, {
         "has_img_apple": true,
@@ -11523,7 +11523,7 @@
         "name": "FIREWORKS",
         "short_name": "fireworks",
         "short_names": ["fireworks"],
-        "unicode": "",
+        "unicode": "1f386",
         "sort_order": 89
       }, {
         "has_img_apple": true,
@@ -11535,7 +11535,7 @@
         "name": "RAINBOW",
         "short_name": "rainbow",
         "short_names": ["rainbow"],
-        "unicode": "",
+        "unicode": "1f308",
         "sort_order": 90
       }, {
         "has_img_apple": true,
@@ -11547,7 +11547,7 @@
         "name": "HOUSE BUILDINGS",
         "short_name": "house_buildings",
         "short_names": ["house_buildings"],
-        "unicode": "",
+        "unicode": "1f3d8",
         "sort_order": 91
       }, {
         "has_img_apple": true,
@@ -11559,7 +11559,7 @@
         "name": "EUROPEAN CASTLE",
         "short_name": "european_castle",
         "short_names": ["european_castle"],
-        "unicode": "",
+        "unicode": "1f3f0",
         "sort_order": 92
       }, {
         "has_img_apple": true,
@@ -11571,7 +11571,7 @@
         "name": "JAPANESE CASTLE",
         "short_name": "japanese_castle",
         "short_names": ["japanese_castle"],
-        "unicode": "",
+        "unicode": "1f3ef",
         "sort_order": 93
       }, {
         "has_img_apple": true,
@@ -11583,7 +11583,7 @@
         "name": "STADIUM",
         "short_name": "stadium",
         "short_names": ["stadium"],
-        "unicode": "",
+        "unicode": "1f3df",
         "sort_order": 94
       }, {
         "has_img_apple": true,
@@ -11595,7 +11595,7 @@
         "name": "STATUE OF LIBERTY",
         "short_name": "statue_of_liberty",
         "short_names": ["statue_of_liberty"],
-        "unicode": "",
+        "unicode": "1f5fd",
         "sort_order": 95
       }, {
         "has_img_apple": true,
@@ -11607,7 +11607,7 @@
         "name": "HOUSE BUILDING",
         "short_name": "house",
         "short_names": ["house"],
-        "unicode": "",
+        "unicode": "1f3e0",
         "sort_order": 96
       }, {
         "has_img_apple": true,
@@ -11619,7 +11619,7 @@
         "name": "HOUSE WITH GARDEN",
         "short_name": "house_with_garden",
         "short_names": ["house_with_garden"],
-        "unicode": "",
+        "unicode": "1f3e1",
         "sort_order": 97
       }, {
         "has_img_apple": true,
@@ -11631,7 +11631,7 @@
         "name": "DERELICT HOUSE BUILDING",
         "short_name": "derelict_house_building",
         "short_names": ["derelict_house_building"],
-        "unicode": "",
+        "unicode": "1f3da",
         "sort_order": 98
       }, {
         "has_img_apple": true,
@@ -11643,7 +11643,7 @@
         "name": "OFFICE BUILDING",
         "short_name": "office",
         "short_names": ["office"],
-        "unicode": "",
+        "unicode": "1f3e2",
         "sort_order": 99
       }, {
         "has_img_apple": true,
@@ -11655,7 +11655,7 @@
         "name": "DEPARTMENT STORE",
         "short_name": "department_store",
         "short_names": ["department_store"],
-        "unicode": "",
+        "unicode": "1f3ec",
         "sort_order": 100
       }, {
         "has_img_apple": true,
@@ -11667,7 +11667,7 @@
         "name": "JAPANESE POST OFFICE",
         "short_name": "post_office",
         "short_names": ["post_office"],
-        "unicode": "",
+        "unicode": "1f3e3",
         "sort_order": 101
       }, {
         "has_img_apple": true,
@@ -11679,7 +11679,7 @@
         "name": "EUROPEAN POST OFFICE",
         "short_name": "european_post_office",
         "short_names": ["european_post_office"],
-        "unicode": "",
+        "unicode": "1f3e4",
         "sort_order": 102
       }, {
         "has_img_apple": true,
@@ -11691,7 +11691,7 @@
         "name": "HOSPITAL",
         "short_name": "hospital",
         "short_names": ["hospital"],
-        "unicode": "",
+        "unicode": "1f3e5",
         "sort_order": 103
       }, {
         "has_img_apple": true,
@@ -11703,7 +11703,7 @@
         "name": "BANK",
         "short_name": "bank",
         "short_names": ["bank"],
-        "unicode": "",
+        "unicode": "1f3e6",
         "sort_order": 104
       }, {
         "has_img_apple": true,
@@ -11715,7 +11715,7 @@
         "name": "HOTEL",
         "short_name": "hotel",
         "short_names": ["hotel"],
-        "unicode": "",
+        "unicode": "1f3e8",
         "sort_order": 105
       }, {
         "has_img_apple": true,
@@ -11727,7 +11727,7 @@
         "name": "CONVENIENCE STORE",
         "short_name": "convenience_store",
         "short_names": ["convenience_store"],
-        "unicode": "",
+        "unicode": "1f3ea",
         "sort_order": 106
       }, {
         "has_img_apple": true,
@@ -11739,7 +11739,7 @@
         "name": "SCHOOL",
         "short_name": "school",
         "short_names": ["school"],
-        "unicode": "",
+        "unicode": "1f3eb",
         "sort_order": 107
       }, {
         "has_img_apple": true,
@@ -11751,7 +11751,7 @@
         "name": "LOVE HOTEL",
         "short_name": "love_hotel",
         "short_names": ["love_hotel"],
-        "unicode": "",
+        "unicode": "1f3e9",
         "sort_order": 108
       }, {
         "has_img_apple": true,
@@ -11763,7 +11763,7 @@
         "name": "WEDDING",
         "short_name": "wedding",
         "short_names": ["wedding"],
-        "unicode": "",
+        "unicode": "1f492",
         "sort_order": 109
       }, {
         "has_img_apple": true,
@@ -11775,7 +11775,7 @@
         "name": "CLASSICAL BUILDING",
         "short_name": "classical_building",
         "short_names": ["classical_building"],
-        "unicode": "",
+        "unicode": "1f3db",
         "sort_order": 110
       }, {
         "has_img_apple": true,
@@ -11787,7 +11787,7 @@
         "name": "CHURCH",
         "short_name": "church",
         "short_names": ["church"],
-        "unicode": "",
+        "unicode": "26ea",
         "sort_order": 111
       }, {
         "has_img_apple": true,
@@ -11799,7 +11799,7 @@
         "name": "MOSQUE",
         "short_name": "mosque",
         "short_names": ["mosque"],
-        "unicode": "",
+        "unicode": "1f54c",
         "sort_order": 112
       }, {
         "has_img_apple": true,
@@ -11811,7 +11811,7 @@
         "name": "SYNAGOGUE",
         "short_name": "synagogue",
         "short_names": ["synagogue"],
-        "unicode": "",
+        "unicode": "1f54d",
         "sort_order": 113
       }, {
         "has_img_apple": true,
@@ -11823,7 +11823,7 @@
         "name": "KAABA",
         "short_name": "kaaba",
         "short_names": ["kaaba"],
-        "unicode": "",
+        "unicode": "1f54b",
         "sort_order": 114
       }, {
         "has_img_apple": true,
@@ -11835,7 +11835,7 @@
         "name": "SHINTO SHRINE",
         "short_name": "shinto_shrine",
         "short_names": ["shinto_shrine"],
-        "unicode": "",
+        "unicode": "26e9",
         "sort_order": 115
       }],
       "Activity": [{
