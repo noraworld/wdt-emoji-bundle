@@ -12594,7 +12594,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS AF",
         "short_name": "flag-af",
         "short_names": ["flag-af"],
-        "unicode": "",
+        "unicode": "1f1e6-1f1eb",
         "sort_order": 1
       }, {
         "has_img_apple": true,
@@ -12606,7 +12606,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS AX",
         "short_name": "flag-ax",
         "short_names": ["flag-ax"],
-        "unicode": "",
+        "unicode": "1f1e6-1f1fd",
         "sort_order": 2
       }, {
         "has_img_apple": true,
@@ -12618,7 +12618,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS AL",
         "short_name": "flag-al",
         "short_names": ["flag-al"],
-        "unicode": "",
+        "unicode": "1f1e6-1f1f1",
         "sort_order": 3
       }, {
         "has_img_apple": true,
@@ -12630,7 +12630,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS DZ",
         "short_name": "flag-dz",
         "short_names": ["flag-dz"],
-        "unicode": "",
+        "unicode": "1f1e9-1f1ff",
         "sort_order": 4
       }, {
         "has_img_apple": true,
@@ -12642,7 +12642,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS AS",
         "short_name": "flag-as",
         "short_names": ["flag-as"],
-        "unicode": "",
+        "unicode": "1f1e6-1f1f8",
         "sort_order": 5
       }, {
         "has_img_apple": true,
@@ -12654,7 +12654,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS AD",
         "short_name": "flag-ad",
         "short_names": ["flag-ad"],
-        "unicode": "",
+        "unicode": "1f1e6-1f1e9",
         "sort_order": 6
       }, {
         "has_img_apple": true,
@@ -12666,7 +12666,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS AO",
         "short_name": "flag-ao",
         "short_names": ["flag-ao"],
-        "unicode": "",
+        "unicode": "1f1e6-1f1f4",
         "sort_order": 7
       }, {
         "has_img_apple": true,
@@ -12678,7 +12678,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS AI",
         "short_name": "flag-ai",
         "short_names": ["flag-ai"],
-        "unicode": "",
+        "unicode": "1f1e6-1f1ee",
         "sort_order": 8
       }, {
         "has_img_apple": true,
@@ -12690,7 +12690,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS AQ",
         "short_name": "flag-aq",
         "short_names": ["flag-aq"],
-        "unicode": "",
+        "unicode": "1f1e6-1f1f6",
         "sort_order": 9
       }, {
         "has_img_apple": true,
@@ -12702,7 +12702,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS AG",
         "short_name": "flag-ag",
         "short_names": ["flag-ag"],
-        "unicode": "",
+        "unicode": "1f1e6-1f1ec",
         "sort_order": 10
       }, {
         "has_img_apple": true,
@@ -12714,7 +12714,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS AR",
         "short_name": "flag-ar",
         "short_names": ["flag-ar"],
-        "unicode": "",
+        "unicode": "1f1e6-1f1f7",
         "sort_order": 11
       }, {
         "has_img_apple": true,
@@ -12726,7 +12726,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS AM",
         "short_name": "flag-am",
         "short_names": ["flag-am"],
-        "unicode": "",
+        "unicode": "1f1e6-1f1f2",
         "sort_order": 12
       }, {
         "has_img_apple": true,
@@ -12738,7 +12738,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS AW",
         "short_name": "flag-aw",
         "short_names": ["flag-aw"],
-        "unicode": "",
+        "unicode": "1f1e6-1f1fc",
         "sort_order": 13
       }, {
         "has_img_apple": true,
@@ -12750,7 +12750,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS AU",
         "short_name": "flag-au",
         "short_names": ["flag-au"],
-        "unicode": "",
+        "unicode": "1f1e6-1f1fa",
         "sort_order": 14
       }, {
         "has_img_apple": true,
@@ -12762,7 +12762,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS AT",
         "short_name": "flag-at",
         "short_names": ["flag-at"],
-        "unicode": "",
+        "unicode": "1f1e6-1f1f9",
         "sort_order": 15
       }, {
         "has_img_apple": true,
@@ -12774,7 +12774,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS AZ",
         "short_name": "flag-az",
         "short_names": ["flag-az"],
-        "unicode": "",
+        "unicode": "1f1e6-1f1ff",
         "sort_order": 16
       }, {
         "has_img_apple": true,
@@ -12786,7 +12786,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS BS",
         "short_name": "flag-bs",
         "short_names": ["flag-bs"],
-        "unicode": "",
+        "unicode": "1f1e7-1f1f8",
         "sort_order": 17
       }, {
         "has_img_apple": true,
@@ -12798,7 +12798,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS BH",
         "short_name": "flag-bh",
         "short_names": ["flag-bh"],
-        "unicode": "",
+        "unicode": "1f1e7-1f1ed",
         "sort_order": 18
       }, {
         "has_img_apple": true,
@@ -12810,7 +12810,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS BD",
         "short_name": "flag-bd",
         "short_names": ["flag-bd"],
-        "unicode": "",
+        "unicode": "1f1e7-1f1e9",
         "sort_order": 19
       }, {
         "has_img_apple": true,
@@ -12822,7 +12822,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS BB",
         "short_name": "flag-bb",
         "short_names": ["flag-bb"],
-        "unicode": "",
+        "unicode": "1f1e7-1f1e7",
         "sort_order": 20
       }, {
         "has_img_apple": true,
@@ -12834,7 +12834,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS BY",
         "short_name": "flag-by",
         "short_names": ["flag-by"],
-        "unicode": "",
+        "unicode": "1f1e7-1f1fe",
         "sort_order": 21
       }, {
         "has_img_apple": true,
@@ -12846,7 +12846,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS BE",
         "short_name": "flag-be",
         "short_names": ["flag-be"],
-        "unicode": "",
+        "unicode": "1f1e7-1f1ea",
         "sort_order": 22
       }, {
         "has_img_apple": true,
@@ -12858,7 +12858,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS BZ",
         "short_name": "flag-bz",
         "short_names": ["flag-bz"],
-        "unicode": "",
+        "unicode": "1f1e7-1f1ff",
         "sort_order": 23
       }, {
         "has_img_apple": true,
@@ -12870,7 +12870,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS BJ",
         "short_name": "flag-bj",
         "short_names": ["flag-bj"],
-        "unicode": "",
+        "unicode": "1f1e7-1f1ef",
         "sort_order": 24
       }, {
         "has_img_apple": true,
@@ -12882,7 +12882,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS BM",
         "short_name": "flag-bm",
         "short_names": ["flag-bm"],
-        "unicode": "",
+        "unicode": "1f1e7-1f1f2",
         "sort_order": 25
       }, {
         "has_img_apple": true,
@@ -12894,7 +12894,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS BT",
         "short_name": "flag-bt",
         "short_names": ["flag-bt"],
-        "unicode": "",
+        "unicode": "1f1e7-1f1f9",
         "sort_order": 26
       }, {
         "has_img_apple": true,
@@ -12906,7 +12906,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS BO",
         "short_name": "flag-bo",
         "short_names": ["flag-bo"],
-        "unicode": "",
+        "unicode": "1f1e7-1f1f4",
         "sort_order": 27
       }, {
         "has_img_apple": true,
@@ -12918,7 +12918,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS BQ",
         "short_name": "flag-bq",
         "short_names": ["flag-bq"],
-        "unicode": "",
+        "unicode": "1f1e7-1f1f6",
         "sort_order": 28
       }, {
         "has_img_apple": true,
@@ -12930,7 +12930,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS BA",
         "short_name": "flag-ba",
         "short_names": ["flag-ba"],
-        "unicode": "",
+        "unicode": "1f1e7-1f1e6",
         "sort_order": 29
       }, {
         "has_img_apple": true,
@@ -12942,7 +12942,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS BW",
         "short_name": "flag-bw",
         "short_names": ["flag-bw"],
-        "unicode": "",
+        "unicode": "1f1e7-1f1fc",
         "sort_order": 30
       }, {
         "has_img_apple": true,
@@ -12954,7 +12954,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS BR",
         "short_name": "flag-br",
         "short_names": ["flag-br"],
-        "unicode": "",
+        "unicode": "1f1e7-1f1f7",
         "sort_order": 31
       }, {
         "has_img_apple": true,
@@ -12966,7 +12966,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS IO",
         "short_name": "flag-io",
         "short_names": ["flag-io"],
-        "unicode": "",
+        "unicode": "1f1ee-1f1f4",
         "sort_order": 32
       }, {
         "has_img_apple": true,
@@ -12978,7 +12978,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS VG",
         "short_name": "flag-vg",
         "short_names": ["flag-vg"],
-        "unicode": "",
+        "unicode": "1f1fb-1f1ec",
         "sort_order": 33
       }, {
         "has_img_apple": true,
@@ -12990,7 +12990,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS BN",
         "short_name": "flag-bn",
         "short_names": ["flag-bn"],
-        "unicode": "",
+        "unicode": "1f1e7-1f1f3",
         "sort_order": 34
       }, {
         "has_img_apple": true,
@@ -13002,7 +13002,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS BG",
         "short_name": "flag-bg",
         "short_names": ["flag-bg"],
-        "unicode": "",
+        "unicode": "1f1e7-1f1ec",
         "sort_order": 35
       }, {
         "has_img_apple": true,
@@ -13014,7 +13014,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS BF",
         "short_name": "flag-bf",
         "short_names": ["flag-bf"],
-        "unicode": "",
+        "unicode": "1f1e7-1f1eb",
         "sort_order": 36
       }, {
         "has_img_apple": true,
@@ -13026,7 +13026,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS BI",
         "short_name": "flag-bi",
         "short_names": ["flag-bi"],
-        "unicode": "",
+        "unicode": "1f1e7-1f1ee",
         "sort_order": 37
       }, {
         "has_img_apple": true,
@@ -13038,7 +13038,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS CV",
         "short_name": "flag-cv",
         "short_names": ["flag-cv"],
-        "unicode": "",
+        "unicode": "1f1e8-1f1fb",
         "sort_order": 38
       }, {
         "has_img_apple": true,
@@ -13050,7 +13050,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS KH",
         "short_name": "flag-kh",
         "short_names": ["flag-kh"],
-        "unicode": "",
+        "unicode": "1f1f0-1f1ed",
         "sort_order": 39
       }, {
         "has_img_apple": true,
@@ -13062,7 +13062,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS CM",
         "short_name": "flag-cm",
         "short_names": ["flag-cm"],
-        "unicode": "",
+        "unicode": "1f1e8-1f1f2",
         "sort_order": 40
       }, {
         "has_img_apple": true,
@@ -13074,7 +13074,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS CA",
         "short_name": "flag-ca",
         "short_names": ["flag-ca"],
-        "unicode": "",
+        "unicode": "1f1e8-1f1e6",
         "sort_order": 41
       }, {
         "has_img_apple": true,
@@ -13086,7 +13086,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS IC",
         "short_name": "flag-ic",
         "short_names": ["flag-ic"],
-        "unicode": "",
+        "unicode": "1f1ee-1f1e8",
         "sort_order": 42
       }, {
         "has_img_apple": true,
@@ -13098,7 +13098,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS KY",
         "short_name": "flag-ky",
         "short_names": ["flag-ky"],
-        "unicode": "",
+        "unicode": "1f1f0-1f1fe",
         "sort_order": 43
       }, {
         "has_img_apple": true,
@@ -13110,7 +13110,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS CF",
         "short_name": "flag-cf",
         "short_names": ["flag-cf"],
-        "unicode": "",
+        "unicode": "1f1e8-1f1eb",
         "sort_order": 44
       }, {
         "has_img_apple": true,
@@ -13122,7 +13122,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS TD",
         "short_name": "flag-td",
         "short_names": ["flag-td"],
-        "unicode": "",
+        "unicode": "1f1f9-1f1e9",
         "sort_order": 45
       }, {
         "has_img_apple": true,
@@ -13134,7 +13134,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS CL",
         "short_name": "flag-cl",
         "short_names": ["flag-cl"],
-        "unicode": "",
+        "unicode": "1f1e8-1f1f1",
         "sort_order": 46
       }, {
         "has_img_apple": true,
@@ -13146,7 +13146,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS CN",
         "short_name": "flag-cn",
         "short_names": ["flag-cn", "cn"],
-        "unicode": "",
+        "unicode": "1f1e8-1f1f3",
         "sort_order": 47
       }, {
         "has_img_apple": true,
@@ -13158,7 +13158,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS CX",
         "short_name": "flag-cx",
         "short_names": ["flag-cx"],
-        "unicode": "",
+        "unicode": "1f1e8-1f1fd",
         "sort_order": 48
       }, {
         "has_img_apple": true,
@@ -13170,7 +13170,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS CC",
         "short_name": "flag-cc",
         "short_names": ["flag-cc"],
-        "unicode": "",
+        "unicode": "1f1e8-1f1e8",
         "sort_order": 49
       }, {
         "has_img_apple": true,
@@ -13182,7 +13182,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS CO",
         "short_name": "flag-co",
         "short_names": ["flag-co"],
-        "unicode": "",
+        "unicode": "1f1e8-1f1f4",
         "sort_order": 50
       }, {
         "has_img_apple": true,
@@ -13194,7 +13194,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS KM",
         "short_name": "flag-km",
         "short_names": ["flag-km"],
-        "unicode": "",
+        "unicode": "1f1f0-1f1f2",
         "sort_order": 51
       }, {
         "has_img_apple": true,
@@ -13206,7 +13206,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS CG",
         "short_name": "flag-cg",
         "short_names": ["flag-cg"],
-        "unicode": "",
+        "unicode": "1f1e8-1f1ec",
         "sort_order": 52
       }, {
         "has_img_apple": true,
@@ -13218,7 +13218,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS CD",
         "short_name": "flag-cd",
         "short_names": ["flag-cd"],
-        "unicode": "",
+        "unicode": "1f1e8-1f1e9",
         "sort_order": 53
       }, {
         "has_img_apple": true,
@@ -13230,7 +13230,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS CK",
         "short_name": "flag-ck",
         "short_names": ["flag-ck"],
-        "unicode": "",
+        "unicode": "1f1e8-1f1f0",
         "sort_order": 54
       }, {
         "has_img_apple": true,
@@ -13242,7 +13242,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS CR",
         "short_name": "flag-cr",
         "short_names": ["flag-cr"],
-        "unicode": "",
+        "unicode": "1f1e8-1f1f7",
         "sort_order": 55
       }, {
         "has_img_apple": true,
@@ -13254,7 +13254,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS HR",
         "short_name": "flag-hr",
         "short_names": ["flag-hr"],
-        "unicode": "",
+        "unicode": "1f1ed-1f1f7",
         "sort_order": 56
       }, {
         "has_img_apple": true,
@@ -13266,7 +13266,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS CU",
         "short_name": "flag-cu",
         "short_names": ["flag-cu"],
-        "unicode": "",
+        "unicode": "1f1e8-1f1fa",
         "sort_order": 57
       }, {
         "has_img_apple": true,
@@ -13278,7 +13278,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS CW",
         "short_name": "flag-cw",
         "short_names": ["flag-cw"],
-        "unicode": "",
+        "unicode": "1f1e8-1f1fc",
         "sort_order": 58
       }, {
         "has_img_apple": true,
@@ -13290,7 +13290,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS CY",
         "short_name": "flag-cy",
         "short_names": ["flag-cy"],
-        "unicode": "",
+        "unicode": "1f1e8-1f1fe",
         "sort_order": 59
       }, {
         "has_img_apple": true,
@@ -13302,7 +13302,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS CZ",
         "short_name": "flag-cz",
         "short_names": ["flag-cz"],
-        "unicode": "",
+        "unicode": "1f1e8-1f1ff",
         "sort_order": 60
       }, {
         "has_img_apple": true,
@@ -13314,7 +13314,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS DK",
         "short_name": "flag-dk",
         "short_names": ["flag-dk"],
-        "unicode": "",
+        "unicode": "1f1e9-1f1f0",
         "sort_order": 61
       }, {
         "has_img_apple": true,
@@ -13326,7 +13326,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS DJ",
         "short_name": "flag-dj",
         "short_names": ["flag-dj"],
-        "unicode": "",
+        "unicode": "1f1e9-1f1ef",
         "sort_order": 62
       }, {
         "has_img_apple": true,
@@ -13338,7 +13338,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS DM",
         "short_name": "flag-dm",
         "short_names": ["flag-dm"],
-        "unicode": "",
+        "unicode": "1f1e9-1f1f2",
         "sort_order": 63
       }, {
         "has_img_apple": true,
@@ -13350,7 +13350,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS DO",
         "short_name": "flag-do",
         "short_names": ["flag-do"],
-        "unicode": "",
+        "unicode": "1f1e9-1f1f4",
         "sort_order": 64
       }, {
         "has_img_apple": true,
@@ -13362,7 +13362,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS EC",
         "short_name": "flag-ec",
         "short_names": ["flag-ec"],
-        "unicode": "",
+        "unicode": "1f1ea-1f1e8",
         "sort_order": 65
       }, {
         "has_img_apple": true,
@@ -13374,7 +13374,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS EG",
         "short_name": "flag-eg",
         "short_names": ["flag-eg"],
-        "unicode": "",
+        "unicode": "1f1ea-1f1ec",
         "sort_order": 66
       }, {
         "has_img_apple": true,
@@ -13386,7 +13386,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS SV",
         "short_name": "flag-sv",
         "short_names": ["flag-sv"],
-        "unicode": "",
+        "unicode": "1f1f8-1f1fb",
         "sort_order": 67
       }, {
         "has_img_apple": true,
@@ -13398,7 +13398,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS GQ",
         "short_name": "flag-gq",
         "short_names": ["flag-gq"],
-        "unicode": "",
+        "unicode": "1f1ec-1f1f6",
         "sort_order": 68
       }, {
         "has_img_apple": true,
@@ -13410,7 +13410,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS ER",
         "short_name": "flag-er",
         "short_names": ["flag-er"],
-        "unicode": "",
+        "unicode": "1f1ea-1f1f7",
         "sort_order": 69
       }, {
         "has_img_apple": true,
@@ -13422,7 +13422,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS EE",
         "short_name": "flag-ee",
         "short_names": ["flag-ee"],
-        "unicode": "",
+        "unicode": "1f1ea-1f1ea",
         "sort_order": 70
       }, {
         "has_img_apple": true,
@@ -13434,7 +13434,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS ET",
         "short_name": "flag-et",
         "short_names": ["flag-et"],
-        "unicode": "",
+        "unicode": "1f1ea-1f1f9",
         "sort_order": 71
       }, {
         "has_img_apple": true,
@@ -13446,7 +13446,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS EU",
         "short_name": "flag-eu",
         "short_names": ["flag-eu"],
-        "unicode": "",
+        "unicode": "1f1ea-1f1fa",
         "sort_order": 72
       }, {
         "has_img_apple": true,
@@ -13458,7 +13458,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS FK",
         "short_name": "flag-fk",
         "short_names": ["flag-fk"],
-        "unicode": "",
+        "unicode": "1f1eb-1f1f0",
         "sort_order": 73
       }, {
         "has_img_apple": true,
@@ -13470,7 +13470,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS FO",
         "short_name": "flag-fo",
         "short_names": ["flag-fo"],
-        "unicode": "",
+        "unicode": "1f1eb-1f1f4",
         "sort_order": 74
       }, {
         "has_img_apple": true,
@@ -13482,7 +13482,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS FJ",
         "short_name": "flag-fj",
         "short_names": ["flag-fj"],
-        "unicode": "",
+        "unicode": "1f1eb-1f1ef",
         "sort_order": 75
       }, {
         "has_img_apple": true,
@@ -13494,7 +13494,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS FI",
         "short_name": "flag-fi",
         "short_names": ["flag-fi"],
-        "unicode": "",
+        "unicode": "1f1eb-1f1ee",
         "sort_order": 76
       }, {
         "has_img_apple": true,
@@ -13506,7 +13506,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS FR",
         "short_name": "flag-fr",
         "short_names": ["flag-fr", "fr"],
-        "unicode": "",
+        "unicode": "1f1eb-1f1f7",
         "sort_order": 77
       }, {
         "has_img_apple": true,
@@ -13518,7 +13518,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS GF",
         "short_name": "flag-gf",
         "short_names": ["flag-gf"],
-        "unicode": "",
+        "unicode": "1f1ec-1f1eb",
         "sort_order": 78
       }, {
         "has_img_apple": true,
@@ -13530,7 +13530,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS PF",
         "short_name": "flag-pf",
         "short_names": ["flag-pf"],
-        "unicode": "",
+        "unicode": "1f1f5-1f1eb",
         "sort_order": 79
       }, {
         "has_img_apple": true,
@@ -13542,7 +13542,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS TF",
         "short_name": "flag-tf",
         "short_names": ["flag-tf"],
-        "unicode": "",
+        "unicode": "1f1f9-1f1eb",
         "sort_order": 80
       }, {
         "has_img_apple": true,
@@ -13554,7 +13554,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS GA",
         "short_name": "flag-ga",
         "short_names": ["flag-ga"],
-        "unicode": "",
+        "unicode": "1f1ec-1f1e6",
         "sort_order": 81
       }, {
         "has_img_apple": true,
@@ -13566,7 +13566,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS GM",
         "short_name": "flag-gm",
         "short_names": ["flag-gm"],
-        "unicode": "",
+        "unicode": "1f1ec-1f1f2",
         "sort_order": 82
       }, {
         "has_img_apple": true,
@@ -13578,7 +13578,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS GE",
         "short_name": "flag-ge",
         "short_names": ["flag-ge"],
-        "unicode": "",
+        "unicode": "1f1ec-1f1ea",
         "sort_order": 83
       }, {
         "has_img_apple": true,
@@ -13590,7 +13590,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS DE",
         "short_name": "flag-de",
         "short_names": ["flag-de", "de"],
-        "unicode": "",
+        "unicode": "1f1e9-1f1ea",
         "sort_order": 84
       }, {
         "has_img_apple": true,
@@ -13602,7 +13602,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS GH",
         "short_name": "flag-gh",
         "short_names": ["flag-gh"],
-        "unicode": "",
+        "unicode": "1f1ec-1f1ed",
         "sort_order": 85
       }, {
         "has_img_apple": true,
@@ -13614,7 +13614,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS GI",
         "short_name": "flag-gi",
         "short_names": ["flag-gi"],
-        "unicode": "",
+        "unicode": "1f1ec-1f1ee",
         "sort_order": 86
       }, {
         "has_img_apple": true,
@@ -13626,7 +13626,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS GR",
         "short_name": "flag-gr",
         "short_names": ["flag-gr"],
-        "unicode": "",
+        "unicode": "1f1ec-1f1f7",
         "sort_order": 87
       }, {
         "has_img_apple": true,
@@ -13638,7 +13638,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS GL",
         "short_name": "flag-gl",
         "short_names": ["flag-gl"],
-        "unicode": "",
+        "unicode": "1f1ec-1f1f1",
         "sort_order": 88
       }, {
         "has_img_apple": true,
@@ -13650,7 +13650,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS GD",
         "short_name": "flag-gd",
         "short_names": ["flag-gd"],
-        "unicode": "",
+        "unicode": "1f1ec-1f1e9",
         "sort_order": 89
       }, {
         "has_img_apple": true,
@@ -13662,7 +13662,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS GP",
         "short_name": "flag-gp",
         "short_names": ["flag-gp"],
-        "unicode": "",
+        "unicode": "1f1ec-1f1f5",
         "sort_order": 90
       }, {
         "has_img_apple": true,
@@ -13674,7 +13674,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS GU",
         "short_name": "flag-gu",
         "short_names": ["flag-gu"],
-        "unicode": "",
+        "unicode": "1f1ec-1f1fa",
         "sort_order": 91
       }, {
         "has_img_apple": true,
@@ -13686,7 +13686,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS GT",
         "short_name": "flag-gt",
         "short_names": ["flag-gt"],
-        "unicode": "",
+        "unicode": "1f1ec-1f1f9",
         "sort_order": 92
       }, {
         "has_img_apple": true,
@@ -13698,7 +13698,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS GG",
         "short_name": "flag-gg",
         "short_names": ["flag-gg"],
-        "unicode": "",
+        "unicode": "1f1ec-1f1ec",
         "sort_order": 93
       }, {
         "has_img_apple": true,
@@ -13710,7 +13710,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS GN",
         "short_name": "flag-gn",
         "short_names": ["flag-gn"],
-        "unicode": "",
+        "unicode": "1f1ec-1f1f3",
         "sort_order": 94
       }, {
         "has_img_apple": true,
@@ -13722,7 +13722,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS GW",
         "short_name": "flag-gw",
         "short_names": ["flag-gw"],
-        "unicode": "",
+        "unicode": "1f1ec-1f1fc",
         "sort_order": 95
       }, {
         "has_img_apple": true,
@@ -13734,7 +13734,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS GY",
         "short_name": "flag-gy",
         "short_names": ["flag-gy"],
-        "unicode": "",
+        "unicode": "1f1ec-1f1fe",
         "sort_order": 96
       }, {
         "has_img_apple": true,
@@ -13746,7 +13746,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS HT",
         "short_name": "flag-ht",
         "short_names": ["flag-ht"],
-        "unicode": "",
+        "unicode": "1f1ed-1f1f9",
         "sort_order": 97
       }, {
         "has_img_apple": true,
@@ -13758,7 +13758,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS HN",
         "short_name": "flag-hn",
         "short_names": ["flag-hn"],
-        "unicode": "",
+        "unicode": "1f1ed-1f1f3",
         "sort_order": 98
       }, {
         "has_img_apple": true,
@@ -13770,7 +13770,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS HK",
         "short_name": "flag-hk",
         "short_names": ["flag-hk"],
-        "unicode": "",
+        "unicode": "1f1ed-1f1f0",
         "sort_order": 99
       }, {
         "has_img_apple": true,
@@ -13782,7 +13782,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS HU",
         "short_name": "flag-hu",
         "short_names": ["flag-hu"],
-        "unicode": "",
+        "unicode": "1f1ed-1f1fa",
         "sort_order": 100
       }, {
         "has_img_apple": true,
@@ -13794,7 +13794,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS IS",
         "short_name": "flag-is",
         "short_names": ["flag-is"],
-        "unicode": "",
+        "unicode": "1f1ee-1f1f8",
         "sort_order": 101
       }, {
         "has_img_apple": true,
@@ -13806,7 +13806,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS IN",
         "short_name": "flag-in",
         "short_names": ["flag-in"],
-        "unicode": "",
+        "unicode": "1f1ee-1f1f3",
         "sort_order": 102
       }, {
         "has_img_apple": true,
@@ -13818,7 +13818,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS ID",
         "short_name": "flag-id",
         "short_names": ["flag-id"],
-        "unicode": "",
+        "unicode": "1f1ee-1f1e9",
         "sort_order": 103
       }, {
         "has_img_apple": true,
@@ -13830,7 +13830,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS IR",
         "short_name": "flag-ir",
         "short_names": ["flag-ir"],
-        "unicode": "",
+        "unicode": "1f1ee-1f1f7",
         "sort_order": 104
       }, {
         "has_img_apple": true,
@@ -13842,7 +13842,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS IQ",
         "short_name": "flag-iq",
         "short_names": ["flag-iq"],
-        "unicode": "",
+        "unicode": "1f1ee-1f1f6",
         "sort_order": 105
       }, {
         "has_img_apple": true,
@@ -13854,7 +13854,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS IE",
         "short_name": "flag-ie",
         "short_names": ["flag-ie"],
-        "unicode": "",
+        "unicode": "1f1ee-1f1ea",
         "sort_order": 106
       }, {
         "has_img_apple": true,
@@ -13866,7 +13866,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS IM",
         "short_name": "flag-im",
         "short_names": ["flag-im"],
-        "unicode": "",
+        "unicode": "1f1ee-1f1f2",
         "sort_order": 107
       }, {
         "has_img_apple": true,
@@ -13878,7 +13878,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS IL",
         "short_name": "flag-il",
         "short_names": ["flag-il"],
-        "unicode": "",
+        "unicode": "1f1ee-1f1f1",
         "sort_order": 108
       }, {
         "has_img_apple": true,
@@ -13890,7 +13890,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS IT",
         "short_name": "flag-it",
         "short_names": ["flag-it", "it"],
-        "unicode": "",
+        "unicode": "1f1ee-1f1f9",
         "sort_order": 109
       }, {
         "has_img_apple": true,
@@ -13902,7 +13902,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS CI",
         "short_name": "flag-ci",
         "short_names": ["flag-ci"],
-        "unicode": "",
+        "unicode": "1f1e8-1f1ee",
         "sort_order": 110
       }, {
         "has_img_apple": true,
@@ -13914,7 +13914,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS JM",
         "short_name": "flag-jm",
         "short_names": ["flag-jm"],
-        "unicode": "",
+        "unicode": "1f1ef-1f1f2",
         "sort_order": 111
       }, {
         "has_img_apple": true,
@@ -13926,7 +13926,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS JP",
         "short_name": "flag-jp",
         "short_names": ["flag-jp", "jp"],
-        "unicode": "",
+        "unicode": "1f1ef-1f1f5",
         "sort_order": 112
       }, {
         "has_img_apple": true,
@@ -13938,7 +13938,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS JE",
         "short_name": "flag-je",
         "short_names": ["flag-je"],
-        "unicode": "",
+        "unicode": "1f1ef-1f1ea",
         "sort_order": 113
       }, {
         "has_img_apple": true,
@@ -13950,7 +13950,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS JO",
         "short_name": "flag-jo",
         "short_names": ["flag-jo"],
-        "unicode": "",
+        "unicode": "1f1ef-1f1f4",
         "sort_order": 114
       }, {
         "has_img_apple": true,
@@ -13962,7 +13962,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS KZ",
         "short_name": "flag-kz",
         "short_names": ["flag-kz"],
-        "unicode": "",
+        "unicode": "1f1f0-1f1ff",
         "sort_order": 115
       }, {
         "has_img_apple": true,
@@ -13974,7 +13974,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS KE",
         "short_name": "flag-ke",
         "short_names": ["flag-ke"],
-        "unicode": "",
+        "unicode": "1f1f0-1f1ea",
         "sort_order": 116
       }, {
         "has_img_apple": true,
@@ -13986,7 +13986,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS KI",
         "short_name": "flag-ki",
         "short_names": ["flag-ki"],
-        "unicode": "",
+        "unicode": "1f1f0-1f1ee",
         "sort_order": 117
       }, {
         "has_img_apple": true,
@@ -13998,7 +13998,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS XK",
         "short_name": "flag-xk",
         "short_names": ["flag-xk"],
-        "unicode": "",
+        "unicode": "1f1fd-1f1f0",
         "sort_order": 118
       }, {
         "has_img_apple": true,
@@ -14010,7 +14010,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS KW",
         "short_name": "flag-kw",
         "short_names": ["flag-kw"],
-        "unicode": "",
+        "unicode": "1f1f0-1f1fc",
         "sort_order": 119
       }, {
         "has_img_apple": true,
@@ -14022,7 +14022,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS KG",
         "short_name": "flag-kg",
         "short_names": ["flag-kg"],
-        "unicode": "",
+        "unicode": "1f1f0-1f1ec",
         "sort_order": 120
       }, {
         "has_img_apple": true,
@@ -14034,7 +14034,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS LA",
         "short_name": "flag-la",
         "short_names": ["flag-la"],
-        "unicode": "",
+        "unicode": "1f1f1-1f1e6",
         "sort_order": 121
       }, {
         "has_img_apple": true,
@@ -14046,7 +14046,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS LV",
         "short_name": "flag-lv",
         "short_names": ["flag-lv"],
-        "unicode": "",
+        "unicode": "1f1f1-1f1fb",
         "sort_order": 122
       }, {
         "has_img_apple": true,
@@ -14058,7 +14058,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS LB",
         "short_name": "flag-lb",
         "short_names": ["flag-lb"],
-        "unicode": "",
+        "unicode": "1f1f1-1f1e7",
         "sort_order": 123
       }, {
         "has_img_apple": true,
@@ -14070,7 +14070,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS LS",
         "short_name": "flag-ls",
         "short_names": ["flag-ls"],
-        "unicode": "",
+        "unicode": "1f1f1-1f1f8",
         "sort_order": 124
       }, {
         "has_img_apple": true,
@@ -14082,7 +14082,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS LR",
         "short_name": "flag-lr",
         "short_names": ["flag-lr"],
-        "unicode": "",
+        "unicode": "1f1f1-1f1f7",
         "sort_order": 125
       }, {
         "has_img_apple": true,
@@ -14094,7 +14094,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS LY",
         "short_name": "flag-ly",
         "short_names": ["flag-ly"],
-        "unicode": "",
+        "unicode": "1f1f1-1f1fe",
         "sort_order": 126
       }, {
         "has_img_apple": true,
@@ -14106,7 +14106,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS LI",
         "short_name": "flag-li",
         "short_names": ["flag-li"],
-        "unicode": "",
+        "unicode": "1f1f1-1f1ee",
         "sort_order": 127
       }, {
         "has_img_apple": true,
@@ -14118,7 +14118,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS LT",
         "short_name": "flag-lt",
         "short_names": ["flag-lt"],
-        "unicode": "",
+        "unicode": "1f1f1-1f1f9",
         "sort_order": 128
       }, {
         "has_img_apple": true,
@@ -14130,7 +14130,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS LU",
         "short_name": "flag-lu",
         "short_names": ["flag-lu"],
-        "unicode": "",
+        "unicode": "1f1f1-1f1fa",
         "sort_order": 129
       }, {
         "has_img_apple": true,
@@ -14142,7 +14142,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS MO",
         "short_name": "flag-mo",
         "short_names": ["flag-mo"],
-        "unicode": "",
+        "unicode": "1f1f2-1f1f4",
         "sort_order": 130
       }, {
         "has_img_apple": true,
@@ -14154,7 +14154,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS MK",
         "short_name": "flag-mk",
         "short_names": ["flag-mk"],
-        "unicode": "",
+        "unicode": "1f1f2-1f1f0",
         "sort_order": 131
       }, {
         "has_img_apple": true,
@@ -14166,7 +14166,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS MG",
         "short_name": "flag-mg",
         "short_names": ["flag-mg"],
-        "unicode": "",
+        "unicode": "1f1f2-1f1ec",
         "sort_order": 132
       }, {
         "has_img_apple": true,
@@ -14178,7 +14178,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS MW",
         "short_name": "flag-mw",
         "short_names": ["flag-mw"],
-        "unicode": "",
+        "unicode": "1f1f2-1f1fc",
         "sort_order": 133
       }, {
         "has_img_apple": true,
@@ -14190,7 +14190,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS MY",
         "short_name": "flag-my",
         "short_names": ["flag-my"],
-        "unicode": "",
+        "unicode": "1f1f2-1f1fe",
         "sort_order": 134
       }, {
         "has_img_apple": true,
@@ -14202,7 +14202,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS MV",
         "short_name": "flag-mv",
         "short_names": ["flag-mv"],
-        "unicode": "",
+        "unicode": "1f1f2-1f1fb",
         "sort_order": 135
       }, {
         "has_img_apple": true,
@@ -14214,7 +14214,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS ML",
         "short_name": "flag-ml",
         "short_names": ["flag-ml"],
-        "unicode": "",
+        "unicode": "1f1f2-1f1f1",
         "sort_order": 136
       }, {
         "has_img_apple": true,
@@ -14226,7 +14226,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS MT",
         "short_name": "flag-mt",
         "short_names": ["flag-mt"],
-        "unicode": "",
+        "unicode": "1f1f2-1f1f9",
         "sort_order": 137
       }, {
         "has_img_apple": true,
@@ -14238,7 +14238,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS MH",
         "short_name": "flag-mh",
         "short_names": ["flag-mh"],
-        "unicode": "",
+        "unicode": "1f1f2-1f1ed",
         "sort_order": 138
       }, {
         "has_img_apple": true,
@@ -14250,7 +14250,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS MQ",
         "short_name": "flag-mq",
         "short_names": ["flag-mq"],
-        "unicode": "",
+        "unicode": "1f1f2-1f1f6",
         "sort_order": 139
       }, {
         "has_img_apple": true,
@@ -14262,7 +14262,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS MR",
         "short_name": "flag-mr",
         "short_names": ["flag-mr"],
-        "unicode": "",
+        "unicode": "1f1f2-1f1f7",
         "sort_order": 140
       }, {
         "has_img_apple": true,
@@ -14274,7 +14274,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS MU",
         "short_name": "flag-mu",
         "short_names": ["flag-mu"],
-        "unicode": "",
+        "unicode": "1f1f2-1f1fa",
         "sort_order": 141
       }, {
         "has_img_apple": true,
@@ -14286,7 +14286,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS YT",
         "short_name": "flag-yt",
         "short_names": ["flag-yt"],
-        "unicode": "",
+        "unicode": "1f1fe-1f1f9",
         "sort_order": 142
       }, {
         "has_img_apple": true,
@@ -14298,7 +14298,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS MX",
         "short_name": "flag-mx",
         "short_names": ["flag-mx"],
-        "unicode": "",
+        "unicode": "1f1f2-1f1fd",
         "sort_order": 143
       }, {
         "has_img_apple": true,
@@ -14310,7 +14310,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS FM",
         "short_name": "flag-fm",
         "short_names": ["flag-fm"],
-        "unicode": "",
+        "unicode": "1f1eb-1f1f2",
         "sort_order": 144
       }, {
         "has_img_apple": true,
@@ -14322,7 +14322,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS MD",
         "short_name": "flag-md",
         "short_names": ["flag-md"],
-        "unicode": "",
+        "unicode": "1f1f2-1f1e9",
         "sort_order": 145
       }, {
         "has_img_apple": true,
@@ -14334,7 +14334,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS MC",
         "short_name": "flag-mc",
         "short_names": ["flag-mc"],
-        "unicode": "",
+        "unicode": "1f1f2-1f1e8",
         "sort_order": 146
       }, {
         "has_img_apple": true,
@@ -14346,7 +14346,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS MN",
         "short_name": "flag-mn",
         "short_names": ["flag-mn"],
-        "unicode": "",
+        "unicode": "1f1f2-1f1f3",
         "sort_order": 147
       }, {
         "has_img_apple": true,
@@ -14358,7 +14358,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS ME",
         "short_name": "flag-me",
         "short_names": ["flag-me"],
-        "unicode": "",
+        "unicode": "1f1f2-1f1ea",
         "sort_order": 148
       }, {
         "has_img_apple": true,
@@ -14370,7 +14370,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS MS",
         "short_name": "flag-ms",
         "short_names": ["flag-ms"],
-        "unicode": "",
+        "unicode": "1f1f2-1f1f8",
         "sort_order": 149
       }, {
         "has_img_apple": true,
@@ -14382,7 +14382,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS MA",
         "short_name": "flag-ma",
         "short_names": ["flag-ma"],
-        "unicode": "",
+        "unicode": "1f1f2-1f1e6",
         "sort_order": 150
       }, {
         "has_img_apple": true,
@@ -14394,7 +14394,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS MZ",
         "short_name": "flag-mz",
         "short_names": ["flag-mz"],
-        "unicode": "",
+        "unicode": "1f1f2-1f1ff",
         "sort_order": 151
       }, {
         "has_img_apple": true,
@@ -14406,7 +14406,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS MM",
         "short_name": "flag-mm",
         "short_names": ["flag-mm"],
-        "unicode": "",
+        "unicode": "1f1f2-1f1f2",
         "sort_order": 152
       }, {
         "has_img_apple": true,
@@ -14418,7 +14418,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS NA",
         "short_name": "flag-na",
         "short_names": ["flag-na"],
-        "unicode": "",
+        "unicode": "1f1f3-1f1e6",
         "sort_order": 153
       }, {
         "has_img_apple": true,
@@ -14430,7 +14430,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS NR",
         "short_name": "flag-nr",
         "short_names": ["flag-nr"],
-        "unicode": "",
+        "unicode": "1f1f3-1f1f7",
         "sort_order": 154
       }, {
         "has_img_apple": true,
@@ -14442,7 +14442,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS NP",
         "short_name": "flag-np",
         "short_names": ["flag-np"],
-        "unicode": "",
+        "unicode": "1f1f3-1f1f5",
         "sort_order": 155
       }, {
         "has_img_apple": true,
@@ -14454,7 +14454,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS NL",
         "short_name": "flag-nl",
         "short_names": ["flag-nl"],
-        "unicode": "",
+        "unicode": "1f1f3-1f1f1",
         "sort_order": 156
       }, {
         "has_img_apple": true,
@@ -14466,7 +14466,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS NC",
         "short_name": "flag-nc",
         "short_names": ["flag-nc"],
-        "unicode": "",
+        "unicode": "1f1f3-1f1e8",
         "sort_order": 157
       }, {
         "has_img_apple": true,
@@ -14478,7 +14478,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS NZ",
         "short_name": "flag-nz",
         "short_names": ["flag-nz"],
-        "unicode": "",
+        "unicode": "1f1f3-1f1ff",
         "sort_order": 158
       }, {
         "has_img_apple": true,
@@ -14490,7 +14490,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS NI",
         "short_name": "flag-ni",
         "short_names": ["flag-ni"],
-        "unicode": "",
+        "unicode": "1f1f3-1f1ee",
         "sort_order": 159
       }, {
         "has_img_apple": true,
@@ -14502,7 +14502,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS NE",
         "short_name": "flag-ne",
         "short_names": ["flag-ne"],
-        "unicode": "",
+        "unicode": "1f1f3-1f1ea",
         "sort_order": 160
       }, {
         "has_img_apple": true,
@@ -14514,7 +14514,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS NG",
         "short_name": "flag-ng",
         "short_names": ["flag-ng"],
-        "unicode": "",
+        "unicode": "1f1f3-1f1ec",
         "sort_order": 161
       }, {
         "has_img_apple": true,
@@ -14526,7 +14526,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS NU",
         "short_name": "flag-nu",
         "short_names": ["flag-nu"],
-        "unicode": "",
+        "unicode": "1f1f3-1f1fa",
         "sort_order": 162
       }, {
         "has_img_apple": true,
@@ -14538,7 +14538,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS NF",
         "short_name": "flag-nf",
         "short_names": ["flag-nf"],
-        "unicode": "",
+        "unicode": "1f1f3-1f1eb",
         "sort_order": 163
       }, {
         "has_img_apple": true,
@@ -14550,7 +14550,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS MP",
         "short_name": "flag-mp",
         "short_names": ["flag-mp"],
-        "unicode": "",
+        "unicode": "1f1f2-1f1f5",
         "sort_order": 164
       }, {
         "has_img_apple": true,
@@ -14562,7 +14562,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS KP",
         "short_name": "flag-kp",
         "short_names": ["flag-kp"],
-        "unicode": "",
+        "unicode": "1f1f0-1f1f5",
         "sort_order": 165
       }, {
         "has_img_apple": true,
@@ -14574,7 +14574,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS NO",
         "short_name": "flag-no",
         "short_names": ["flag-no"],
-        "unicode": "",
+        "unicode": "1f1f3-1f1f4",
         "sort_order": 166
       }, {
         "has_img_apple": true,
@@ -14586,7 +14586,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS OM",
         "short_name": "flag-om",
         "short_names": ["flag-om"],
-        "unicode": "",
+        "unicode": "1f1f4-1f1f2",
         "sort_order": 167
       }, {
         "has_img_apple": true,
@@ -14598,7 +14598,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS PK",
         "short_name": "flag-pk",
         "short_names": ["flag-pk"],
-        "unicode": "",
+        "unicode": "1f1f5-1f1f0",
         "sort_order": 168
       }, {
         "has_img_apple": true,
@@ -14610,7 +14610,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS PW",
         "short_name": "flag-pw",
         "short_names": ["flag-pw"],
-        "unicode": "",
+        "unicode": "1f1f5-1f1fc",
         "sort_order": 169
       }, {
         "has_img_apple": true,
@@ -14622,7 +14622,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS PS",
         "short_name": "flag-ps",
         "short_names": ["flag-ps"],
-        "unicode": "",
+        "unicode": "1f1f5-1f1f8",
         "sort_order": 170
       }, {
         "has_img_apple": true,
@@ -14634,7 +14634,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS PA",
         "short_name": "flag-pa",
         "short_names": ["flag-pa"],
-        "unicode": "",
+        "unicode": "1f1f5-1f1e6",
         "sort_order": 171
       }, {
         "has_img_apple": true,
@@ -14646,7 +14646,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS PG",
         "short_name": "flag-pg",
         "short_names": ["flag-pg"],
-        "unicode": "",
+        "unicode": "1f1f5-1f1ec",
         "sort_order": 172
       }, {
         "has_img_apple": true,
@@ -14658,7 +14658,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS PY",
         "short_name": "flag-py",
         "short_names": ["flag-py"],
-        "unicode": "",
+        "unicode": "1f1f5-1f1fe",
         "sort_order": 173
       }, {
         "has_img_apple": true,
@@ -14670,7 +14670,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS PE",
         "short_name": "flag-pe",
         "short_names": ["flag-pe"],
-        "unicode": "",
+        "unicode": "1f1f5-1f1ea",
         "sort_order": 174
       }, {
         "has_img_apple": true,
@@ -14682,7 +14682,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS PH",
         "short_name": "flag-ph",
         "short_names": ["flag-ph"],
-        "unicode": "",
+        "unicode": "1f1f5-1f1ed",
         "sort_order": 175
       }, {
         "has_img_apple": true,
@@ -14694,7 +14694,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS PN",
         "short_name": "flag-pn",
         "short_names": ["flag-pn"],
-        "unicode": "",
+        "unicode": "1f1f5-1f1f3",
         "sort_order": 176
       }, {
         "has_img_apple": true,
@@ -14706,7 +14706,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS PL",
         "short_name": "flag-pl",
         "short_names": ["flag-pl"],
-        "unicode": "",
+        "unicode": "1f1f5-1f1f1",
         "sort_order": 177
       }, {
         "has_img_apple": true,
@@ -14718,7 +14718,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS PT",
         "short_name": "flag-pt",
         "short_names": ["flag-pt"],
-        "unicode": "",
+        "unicode": "1f1f5-1f1f9",
         "sort_order": 178
       }, {
         "has_img_apple": true,
@@ -14730,7 +14730,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS PR",
         "short_name": "flag-pr",
         "short_names": ["flag-pr"],
-        "unicode": "",
+        "unicode": "1f1f5-1f1f7",
         "sort_order": 179
       }, {
         "has_img_apple": true,
@@ -14742,7 +14742,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS QA",
         "short_name": "flag-qa",
         "short_names": ["flag-qa"],
-        "unicode": "",
+        "unicode": "1f1f6-1f1e6",
         "sort_order": 180
       }, {
         "has_img_apple": true,
@@ -14754,7 +14754,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS RE",
         "short_name": "flag-re",
         "short_names": ["flag-re"],
-        "unicode": "",
+        "unicode": "1f1f7-1f1ea",
         "sort_order": 181
       }, {
         "has_img_apple": true,
@@ -14766,7 +14766,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS RO",
         "short_name": "flag-ro",
         "short_names": ["flag-ro"],
-        "unicode": "",
+        "unicode": "1f1f7-1f1f4",
         "sort_order": 182
       }, {
         "has_img_apple": true,
@@ -14778,7 +14778,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS RU",
         "short_name": "flag-ru",
         "short_names": ["flag-ru", "ru"],
-        "unicode": "",
+        "unicode": "1f1f7-1f1fa",
         "sort_order": 183
       }, {
         "has_img_apple": true,
@@ -14790,7 +14790,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS RW",
         "short_name": "flag-rw",
         "short_names": ["flag-rw"],
-        "unicode": "",
+        "unicode": "1f1f7-1f1fc",
         "sort_order": 184
       }, {
         "has_img_apple": true,
@@ -14802,7 +14802,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS BL",
         "short_name": "flag-bl",
         "short_names": ["flag-bl"],
-        "unicode": "",
+        "unicode": "1f1e7-1f1f1",
         "sort_order": 185
       }, {
         "has_img_apple": true,
@@ -14814,7 +14814,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS SH",
         "short_name": "flag-sh",
         "short_names": ["flag-sh"],
-        "unicode": "",
+        "unicode": "1f1f8-1f1ed",
         "sort_order": 186
       }, {
         "has_img_apple": true,
@@ -14826,7 +14826,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS KN",
         "short_name": "flag-kn",
         "short_names": ["flag-kn"],
-        "unicode": "",
+        "unicode": "1f1f0-1f1f3",
         "sort_order": 187
       }, {
         "has_img_apple": true,
@@ -14838,7 +14838,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS LC",
         "short_name": "flag-lc",
         "short_names": ["flag-lc"],
-        "unicode": "",
+        "unicode": "1f1f1-1f1e8",
         "sort_order": 188
       }, {
         "has_img_apple": true,
@@ -14850,7 +14850,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS PM",
         "short_name": "flag-pm",
         "short_names": ["flag-pm"],
-        "unicode": "",
+        "unicode": "1f1f5-1f1f2",
         "sort_order": 189
       }, {
         "has_img_apple": true,
@@ -14862,7 +14862,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS VC",
         "short_name": "flag-vc",
         "short_names": ["flag-vc"],
-        "unicode": "",
+        "unicode": "1f1fb-1f1e8",
         "sort_order": 190
       }, {
         "has_img_apple": true,
@@ -14874,7 +14874,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS WS",
         "short_name": "flag-ws",
         "short_names": ["flag-ws"],
-        "unicode": "",
+        "unicode": "1f1fc-1f1f8",
         "sort_order": 191
       }, {
         "has_img_apple": true,
@@ -14886,7 +14886,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS SM",
         "short_name": "flag-sm",
         "short_names": ["flag-sm"],
-        "unicode": "",
+        "unicode": "1f1f8-1f1f2",
         "sort_order": 192
       }, {
         "has_img_apple": true,
@@ -14898,7 +14898,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS ST",
         "short_name": "flag-st",
         "short_names": ["flag-st"],
-        "unicode": "",
+        "unicode": "1f1f8-1f1f9",
         "sort_order": 193
       }, {
         "has_img_apple": true,
@@ -14910,7 +14910,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS SA",
         "short_name": "flag-sa",
         "short_names": ["flag-sa"],
-        "unicode": "",
+        "unicode": "1f1f8-1f1e6",
         "sort_order": 194
       }, {
         "has_img_apple": true,
@@ -14922,7 +14922,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS SN",
         "short_name": "flag-sn",
         "short_names": ["flag-sn"],
-        "unicode": "",
+        "unicode": "1f1f8-1f1f3",
         "sort_order": 195
       }, {
         "has_img_apple": true,
@@ -14934,7 +14934,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS RS",
         "short_name": "flag-rs",
         "short_names": ["flag-rs"],
-        "unicode": "",
+        "unicode": "1f1f7-1f1f8",
         "sort_order": 196
       }, {
         "has_img_apple": true,
@@ -14946,7 +14946,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS SC",
         "short_name": "flag-sc",
         "short_names": ["flag-sc"],
-        "unicode": "",
+        "unicode": "1f1f8-1f1e8",
         "sort_order": 197
       }, {
         "has_img_apple": true,
@@ -14958,7 +14958,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS SL",
         "short_name": "flag-sl",
         "short_names": ["flag-sl"],
-        "unicode": "",
+        "unicode": "1f1f8-1f1f1",
         "sort_order": 198
       }, {
         "has_img_apple": true,
@@ -14970,7 +14970,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS SG",
         "short_name": "flag-sg",
         "short_names": ["flag-sg"],
-        "unicode": "",
+        "unicode": "1f1f8-1f1ec",
         "sort_order": 199
       }, {
         "has_img_apple": true,
@@ -14982,7 +14982,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS SX",
         "short_name": "flag-sx",
         "short_names": ["flag-sx"],
-        "unicode": "",
+        "unicode": "1f1f8-1f1fd",
         "sort_order": 200
       }, {
         "has_img_apple": true,
@@ -14994,7 +14994,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS SK",
         "short_name": "flag-sk",
         "short_names": ["flag-sk"],
-        "unicode": "",
+        "unicode": "1f1f8-1f1f0",
         "sort_order": 201
       }, {
         "has_img_apple": true,
@@ -15006,7 +15006,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS SI",
         "short_name": "flag-si",
         "short_names": ["flag-si"],
-        "unicode": "",
+        "unicode": "1f1f8-1f1ee",
         "sort_order": 202
       }, {
         "has_img_apple": true,
@@ -15018,7 +15018,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS SB",
         "short_name": "flag-sb",
         "short_names": ["flag-sb"],
-        "unicode": "",
+        "unicode": "1f1f8-1f1e7",
         "sort_order": 203
       }, {
         "has_img_apple": true,
@@ -15030,7 +15030,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS SO",
         "short_name": "flag-so",
         "short_names": ["flag-so"],
-        "unicode": "",
+        "unicode": "1f1f8-1f1f4",
         "sort_order": 204
       }, {
         "has_img_apple": true,
@@ -15042,7 +15042,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS ZA",
         "short_name": "flag-za",
         "short_names": ["flag-za"],
-        "unicode": "",
+        "unicode": "1f1ff-1f1e6",
         "sort_order": 205
       }, {
         "has_img_apple": true,
@@ -15054,7 +15054,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS GS",
         "short_name": "flag-gs",
         "short_names": ["flag-gs"],
-        "unicode": "",
+        "unicode": "1f1ec-1f1f8",
         "sort_order": 206
       }, {
         "has_img_apple": true,
@@ -15066,7 +15066,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS KR",
         "short_name": "flag-kr",
         "short_names": ["flag-kr", "kr"],
-        "unicode": "",
+        "unicode": "1f1f0-1f1f7",
         "sort_order": 207
       }, {
         "has_img_apple": true,
@@ -15078,7 +15078,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS SS",
         "short_name": "flag-ss",
         "short_names": ["flag-ss"],
-        "unicode": "",
+        "unicode": "1f1f8-1f1f8",
         "sort_order": 208
       }, {
         "has_img_apple": true,
@@ -15090,7 +15090,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS ES",
         "short_name": "flag-es",
         "short_names": ["flag-es", "es"],
-        "unicode": "",
+        "unicode": "1f1ea-1f1f8",
         "sort_order": 209
       }, {
         "has_img_apple": true,
@@ -15102,7 +15102,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS LK",
         "short_name": "flag-lk",
         "short_names": ["flag-lk"],
-        "unicode": "",
+        "unicode": "1f1f1-1f1f0",
         "sort_order": 210
       }, {
         "has_img_apple": true,
@@ -15114,7 +15114,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS SD",
         "short_name": "flag-sd",
         "short_names": ["flag-sd"],
-        "unicode": "",
+        "unicode": "1f1f8-1f1e9",
         "sort_order": 211
       }, {
         "has_img_apple": true,
@@ -15126,7 +15126,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS SR",
         "short_name": "flag-sr",
         "short_names": ["flag-sr"],
-        "unicode": "",
+        "unicode": "1f1f8-1f1f7",
         "sort_order": 212
       }, {
         "has_img_apple": true,
@@ -15138,7 +15138,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS SZ",
         "short_name": "flag-sz",
         "short_names": ["flag-sz"],
-        "unicode": "",
+        "unicode": "1f1f8-1f1ff",
         "sort_order": 213
       }, {
         "has_img_apple": true,
@@ -15150,7 +15150,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS SE",
         "short_name": "flag-se",
         "short_names": ["flag-se"],
-        "unicode": "",
+        "unicode": "1f1f8-1f1ea",
         "sort_order": 214
       }, {
         "has_img_apple": true,
@@ -15162,7 +15162,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS CH",
         "short_name": "flag-ch",
         "short_names": ["flag-ch"],
-        "unicode": "",
+        "unicode": "1f1e8-1f1ed",
         "sort_order": 215
       }, {
         "has_img_apple": true,
@@ -15174,7 +15174,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS SY",
         "short_name": "flag-sy",
         "short_names": ["flag-sy"],
-        "unicode": "",
+        "unicode": "1f1f8-1f1fe",
         "sort_order": 216
       }, {
         "has_img_apple": true,
@@ -15186,7 +15186,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS TW",
         "short_name": "flag-tw",
         "short_names": ["flag-tw"],
-        "unicode": "",
+        "unicode": "1f1f9-1f1fc",
         "sort_order": 217
       }, {
         "has_img_apple": true,
@@ -15198,7 +15198,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS TJ",
         "short_name": "flag-tj",
         "short_names": ["flag-tj"],
-        "unicode": "",
+        "unicode": "1f1f9-1f1ef",
         "sort_order": 218
       }, {
         "has_img_apple": true,
@@ -15210,7 +15210,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS TZ",
         "short_name": "flag-tz",
         "short_names": ["flag-tz"],
-        "unicode": "",
+        "unicode": "1f1f9-1f1ff",
         "sort_order": 219
       }, {
         "has_img_apple": true,
@@ -15222,7 +15222,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS TH",
         "short_name": "flag-th",
         "short_names": ["flag-th"],
-        "unicode": "",
+        "unicode": "1f1f9-1f1ed",
         "sort_order": 220
       }, {
         "has_img_apple": true,
@@ -15234,7 +15234,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS TL",
         "short_name": "flag-tl",
         "short_names": ["flag-tl"],
-        "unicode": "",
+        "unicode": "1f1f9-1f1f1",
         "sort_order": 221
       }, {
         "has_img_apple": true,
@@ -15246,7 +15246,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS TG",
         "short_name": "flag-tg",
         "short_names": ["flag-tg"],
-        "unicode": "",
+        "unicode": "1f1f9-1f1ec",
         "sort_order": 222
       }, {
         "has_img_apple": true,
@@ -15258,7 +15258,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS TK",
         "short_name": "flag-tk",
         "short_names": ["flag-tk"],
-        "unicode": "",
+        "unicode": "1f1f9-1f1f0",
         "sort_order": 223
       }, {
         "has_img_apple": true,
@@ -15270,7 +15270,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS TO",
         "short_name": "flag-to",
         "short_names": ["flag-to"],
-        "unicode": "",
+        "unicode": "1f1f9-1f1f4",
         "sort_order": 224
       }, {
         "has_img_apple": true,
@@ -15282,7 +15282,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS TT",
         "short_name": "flag-tt",
         "short_names": ["flag-tt"],
-        "unicode": "",
+        "unicode": "1f1f9-1f1f9",
         "sort_order": 225
       }, {
         "has_img_apple": true,
@@ -15294,7 +15294,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS TN",
         "short_name": "flag-tn",
         "short_names": ["flag-tn"],
-        "unicode": "",
+        "unicode": "1f1f9-1f1f3",
         "sort_order": 226
       }, {
         "has_img_apple": true,
@@ -15306,7 +15306,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS TR",
         "short_name": "flag-tr",
         "short_names": ["flag-tr"],
-        "unicode": "",
+        "unicode": "1f1f9-1f1f7",
         "sort_order": 227
       }, {
         "has_img_apple": true,
@@ -15318,7 +15318,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS TM",
         "short_name": "flag-tm",
         "short_names": ["flag-tm"],
-        "unicode": "",
+        "unicode": "1f1f9-1f1f2",
         "sort_order": 228
       }, {
         "has_img_apple": true,
@@ -15330,7 +15330,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS TC",
         "short_name": "flag-tc",
         "short_names": ["flag-tc"],
-        "unicode": "",
+        "unicode": "1f1f9-1f1e8",
         "sort_order": 229
       }, {
         "has_img_apple": true,
@@ -15342,7 +15342,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS TV",
         "short_name": "flag-tv",
         "short_names": ["flag-tv"],
-        "unicode": "",
+        "unicode": "1f1f9-1f1fb",
         "sort_order": 230
       }, {
         "has_img_apple": true,
@@ -15354,7 +15354,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS UG",
         "short_name": "flag-ug",
         "short_names": ["flag-ug"],
-        "unicode": "",
+        "unicode": "1f1fa-1f1ec",
         "sort_order": 231
       }, {
         "has_img_apple": true,
@@ -15366,7 +15366,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS UA",
         "short_name": "flag-ua",
         "short_names": ["flag-ua"],
-        "unicode": "",
+        "unicode": "1f1fa-1f1e6",
         "sort_order": 232
       }, {
         "has_img_apple": true,
@@ -15378,7 +15378,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS AE",
         "short_name": "flag-ae",
         "short_names": ["flag-ae"],
-        "unicode": "",
+        "unicode": "1f1e6-1f1ea",
         "sort_order": 233
       }, {
         "has_img_apple": true,
@@ -15390,7 +15390,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS GB",
         "short_name": "flag-gb",
         "short_names": ["flag-gb", "gb", "uk"],
-        "unicode": "",
+        "unicode": "1f1ec-1f1e7",
         "sort_order": 234
       }, {
         "has_img_apple": true,
@@ -15402,7 +15402,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS US",
         "short_name": "flag-us",
         "short_names": ["flag-us", "us"],
-        "unicode": "",
+        "unicode": "1f1fa-1f1f8",
         "sort_order": 235
       }, {
         "has_img_apple": true,
@@ -15414,7 +15414,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS VI",
         "short_name": "flag-vi",
         "short_names": ["flag-vi"],
-        "unicode": "",
+        "unicode": "1f1fb-1f1ee",
         "sort_order": 236
       }, {
         "has_img_apple": true,
@@ -15426,7 +15426,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS UY",
         "short_name": "flag-uy",
         "short_names": ["flag-uy"],
-        "unicode": "",
+        "unicode": "1f1fa-1f1fe",
         "sort_order": 237
       }, {
         "has_img_apple": true,
@@ -15438,7 +15438,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS UZ",
         "short_name": "flag-uz",
         "short_names": ["flag-uz"],
-        "unicode": "",
+        "unicode": "1f1fa-1f1ff",
         "sort_order": 238
       }, {
         "has_img_apple": true,
@@ -15450,7 +15450,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS VU",
         "short_name": "flag-vu",
         "short_names": ["flag-vu"],
-        "unicode": "",
+        "unicode": "1f1fb-1f1fa",
         "sort_order": 239
       }, {
         "has_img_apple": true,
@@ -15462,7 +15462,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS VA",
         "short_name": "flag-va",
         "short_names": ["flag-va"],
-        "unicode": "",
+        "unicode": "1f1fb-1f1e6",
         "sort_order": 240
       }, {
         "has_img_apple": true,
@@ -15474,7 +15474,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS VE",
         "short_name": "flag-ve",
         "short_names": ["flag-ve"],
-        "unicode": "",
+        "unicode": "1f1fb-1f1ea",
         "sort_order": 241
       }, {
         "has_img_apple": true,
@@ -15486,7 +15486,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS VN",
         "short_name": "flag-vn",
         "short_names": ["flag-vn"],
-        "unicode": "",
+        "unicode": "1f1fb-1f1f3",
         "sort_order": 242
       }, {
         "has_img_apple": true,
@@ -15498,7 +15498,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS WF",
         "short_name": "flag-wf",
         "short_names": ["flag-wf"],
-        "unicode": "",
+        "unicode": "1f1fc-1f1eb",
         "sort_order": 243
       }, {
         "has_img_apple": true,
@@ -15510,7 +15510,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS EH",
         "short_name": "flag-eh",
         "short_names": ["flag-eh"],
-        "unicode": "",
+        "unicode": "1f1ea-1f1ed",
         "sort_order": 244
       }, {
         "has_img_apple": true,
@@ -15522,7 +15522,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS YE",
         "short_name": "flag-ye",
         "short_names": ["flag-ye"],
-        "unicode": "",
+        "unicode": "1f1fe-1f1ea",
         "sort_order": 245
       }, {
         "has_img_apple": true,
@@ -15534,7 +15534,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS ZM",
         "short_name": "flag-zm",
         "short_names": ["flag-zm"],
-        "unicode": "",
+        "unicode": "1f1ff-1f1f2",
         "sort_order": 246
       }, {
         "has_img_apple": true,
@@ -15546,7 +15546,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS ZW",
         "short_name": "flag-zw",
         "short_names": ["flag-zw"],
-        "unicode": "",
+        "unicode": "1f1ff-1f1fc",
         "sort_order": 247
       }, {
         "has_img_apple": true,
@@ -15558,7 +15558,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS AC",
         "short_name": "flag-ac",
         "short_names": ["flag-ac"],
-        "unicode": "",
+        "unicode": "1f1e6-1f1e8",
         "sort_order": 248
       }, {
         "has_img_apple": true,
@@ -15570,7 +15570,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS BV",
         "short_name": "flag-bv",
         "short_names": ["flag-bv"],
-        "unicode": "",
+        "unicode": "1f1e7-1f1fb",
         "sort_order": 249
       }, {
         "has_img_apple": true,
@@ -15582,7 +15582,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS CP",
         "short_name": "flag-cp",
         "short_names": ["flag-cp"],
-        "unicode": "",
+        "unicode": "1f1e8-1f1f5",
         "sort_order": 250
       }, {
         "has_img_apple": true,
@@ -15594,7 +15594,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS DG",
         "short_name": "flag-dg",
         "short_names": ["flag-dg"],
-        "unicode": "",
+        "unicode": "1f1e9-1f1ec",
         "sort_order": 251
       }, {
         "has_img_apple": true,
@@ -15606,7 +15606,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS EA",
         "short_name": "flag-ea",
         "short_names": ["flag-ea"],
-        "unicode": "",
+        "unicode": "1f1ea-1f1e6",
         "sort_order": 252
       }, {
         "has_img_apple": true,
@@ -15618,7 +15618,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS HM",
         "short_name": "flag-hm",
         "short_names": ["flag-hm"],
-        "unicode": "",
+        "unicode": "1f1ed-1f1f2",
         "sort_order": 253
       }, {
         "has_img_apple": true,
@@ -15630,7 +15630,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS MF",
         "short_name": "flag-mf",
         "short_names": ["flag-mf"],
-        "unicode": "",
+        "unicode": "1f1f2-1f1eb",
         "sort_order": 254
       }, {
         "has_img_apple": true,
@@ -15642,7 +15642,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS SJ",
         "short_name": "flag-sj",
         "short_names": ["flag-sj"],
-        "unicode": "",
+        "unicode": "1f1f8-1f1ef",
         "sort_order": 255
       }, {
         "has_img_apple": true,
@@ -15654,7 +15654,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS TA",
         "short_name": "flag-ta",
         "short_names": ["flag-ta"],
-        "unicode": "",
+        "unicode": "1f1f9-1f1e6",
         "sort_order": 256
       }, {
         "has_img_apple": true,
@@ -15666,7 +15666,7 @@
         "name": "REGIONAL INDICATOR SYMBOL LETTERS UM",
         "short_name": "flag-um",
         "short_names": ["flag-um"],
-        "unicode": "",
+        "unicode": "1f1fa-1f1f2",
         "sort_order": 257
       }]
     }
