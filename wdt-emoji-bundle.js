@@ -12533,7 +12533,7 @@
         "name": "EMOJI MODIFIER FITZPATRICK TYPE-1-2",
         "short_name": "skin-tone-2",
         "short_names": ["skin-tone-2"],
-        "unicode": "",
+        "unicode": "1f3fb",
         "sort_order": 1
       }, {
         "has_img_apple": true,
@@ -12545,7 +12545,7 @@
         "name": "EMOJI MODIFIER FITZPATRICK TYPE-3",
         "short_name": "skin-tone-3",
         "short_names": ["skin-tone-3"],
-        "unicode": "",
+        "unicode": "1f3fc",
         "sort_order": 2
       }, {
         "has_img_apple": true,
@@ -12557,7 +12557,7 @@
         "name": "EMOJI MODIFIER FITZPATRICK TYPE-4",
         "short_name": "skin-tone-4",
         "short_names": ["skin-tone-4"],
-        "unicode": "",
+        "unicode": "1f3fd",
         "sort_order": 3
       }, {
         "has_img_apple": true,
@@ -12569,7 +12569,7 @@
         "name": "EMOJI MODIFIER FITZPATRICK TYPE-5",
         "short_name": "skin-tone-5",
         "short_names": ["skin-tone-5"],
-        "unicode": "",
+        "unicode": "1f3fe",
         "sort_order": 4
       }, {
         "has_img_apple": true,
@@ -12581,7 +12581,7 @@
         "name": "EMOJI MODIFIER FITZPATRICK TYPE-6",
         "short_name": "skin-tone-6",
         "short_names": ["skin-tone-6"],
-        "unicode": "",
+        "unicode": "1f3ff",
         "sort_order": 5
       }],
       "Flags": [{
