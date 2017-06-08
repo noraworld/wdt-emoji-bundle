@@ -1006,7 +1006,7 @@
         "name": "NON-POTABLE WATER SYMBOL",
         "short_name": "non-potable_water",
         "short_names": ["non-potable_water"],
-        "unicode": "1f6b0",
+        "unicode": "1f6b1",
         "sort_order": 79
       }, {
         "has_img_apple": true,
@@ -7501,7 +7501,7 @@
         "name": "COOKING",
         "short_name": "egg",
         "short_names": ["egg"],
-        "unicode": "1f95a",
+        "unicode": "1f373",
         "sort_order": 25
       }, {
         "has_img_apple": true,
