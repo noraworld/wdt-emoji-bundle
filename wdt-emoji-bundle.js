@@ -8018,7 +8018,7 @@
         "name": "GRINNING FACE",
         "short_name": "grinning",
         "short_names": ["grinning"],
-        "unicode": "",
+        "unicode": "1f600",
         "sort_order": 1
       }, {
         "has_img_apple": true,
@@ -8030,7 +8030,7 @@
         "name": "GRIMACING FACE",
         "short_name": "grimacing",
         "short_names": ["grimacing"],
-        "unicode": "",
+        "unicode": "1f62c",
         "sort_order": 2
       }, {
         "has_img_apple": true,
@@ -8042,7 +8042,7 @@
         "name": "GRINNING FACE WITH SMILING EYES",
         "short_name": "grin",
         "short_names": ["grin"],
-        "unicode": "",
+        "unicode": "1f601",
         "sort_order": 3
       }, {
         "has_img_apple": true,
@@ -8054,7 +8054,7 @@
         "name": "FACE WITH TEARS OF JOY",
         "short_name": "joy",
         "short_names": ["joy"],
-        "unicode": "",
+        "unicode": "1f602",
         "sort_order": 4
       }, {
         "has_img_apple": true,
@@ -8066,7 +8066,7 @@
         "name": "SMILING FACE WITH OPEN MOUTH",
         "short_name": "smiley",
         "short_names": ["smiley"],
-        "unicode": "",
+        "unicode": "1f603",
         "sort_order": 5
       }, {
         "has_img_apple": true,
@@ -8078,7 +8078,7 @@
         "name": "SMILING FACE WITH OPEN MOUTH AND SMILING EYES",
         "short_name": "smile",
         "short_names": ["smile"],
-        "unicode": "",
+        "unicode": "1f604",
         "sort_order": 6
       }, {
         "has_img_apple": true,
@@ -8090,7 +8090,7 @@
         "name": "SMILING FACE WITH OPEN MOUTH AND COLD SWEAT",
         "short_name": "sweat_smile",
         "short_names": ["sweat_smile"],
-        "unicode": "",
+        "unicode": "1f605",
         "sort_order": 7
       }, {
         "has_img_apple": true,
@@ -8102,7 +8102,7 @@
         "name": "SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES",
         "short_name": "laughing",
         "short_names": ["laughing", "satisfied"],
-        "unicode": "",
+        "unicode": "1f606",
         "sort_order": 8
       }, {
         "has_img_apple": true,
@@ -8114,7 +8114,7 @@
         "name": "SMILING FACE WITH HALO",
         "short_name": "innocent",
         "short_names": ["innocent"],
-        "unicode": "",
+        "unicode": "1f607",
         "sort_order": 9
       }, {
         "has_img_apple": true,
@@ -8126,7 +8126,7 @@
         "name": "WINKING FACE",
         "short_name": "wink",
         "short_names": ["wink"],
-        "unicode": "",
+        "unicode": "1f609",
         "sort_order": 10
       }, {
         "has_img_apple": true,
@@ -8138,7 +8138,7 @@
         "name": "SMILING FACE WITH SMILING EYES",
         "short_name": "blush",
         "short_names": ["blush"],
-        "unicode": "",
+        "unicode": "1f60a",
         "sort_order": 11
       }, {
         "has_img_apple": true,
@@ -8150,7 +8150,7 @@
         "name": "SLIGHTLY SMILING FACE",
         "short_name": "slightly_smiling_face",
         "short_names": ["slightly_smiling_face"],
-        "unicode": "",
+        "unicode": "1f642",
         "sort_order": 12
       }, {
         "has_img_apple": true,
@@ -8162,7 +8162,7 @@
         "name": "UPSIDE-DOWN FACE",
         "short_name": "upside_down_face",
         "short_names": ["upside_down_face"],
-        "unicode": "",
+        "unicode": "1f643",
         "sort_order": 13
       }, {
         "has_img_apple": true,
@@ -8174,7 +8174,7 @@
         "name": "WHITE SMILING FACE",
         "short_name": "relaxed",
         "short_names": ["relaxed"],
-        "unicode": "",
+        "unicode": "263a",
         "sort_order": 14
       }, {
         "has_img_apple": true,
@@ -8186,7 +8186,7 @@
         "name": "FACE SAVOURING DELICIOUS FOOD",
         "short_name": "yum",
         "short_names": ["yum"],
-        "unicode": "",
+        "unicode": "1f60b",
         "sort_order": 15
       }, {
         "has_img_apple": true,
@@ -8198,7 +8198,7 @@
         "name": "RELIEVED FACE",
         "short_name": "relieved",
         "short_names": ["relieved"],
-        "unicode": "",
+        "unicode": "1f60c",
         "sort_order": 16
       }, {
         "has_img_apple": true,
@@ -8210,7 +8210,7 @@
         "name": "SMILING FACE WITH HEART-SHAPED EYES",
         "short_name": "heart_eyes",
         "short_names": ["heart_eyes"],
-        "unicode": "",
+        "unicode": "1f60d",
         "sort_order": 17
       }, {
         "has_img_apple": true,
@@ -8222,7 +8222,7 @@
         "name": "FACE THROWING A KISS",
         "short_name": "kissing_heart",
         "short_names": ["kissing_heart"],
-        "unicode": "",
+        "unicode": "1f618",
         "sort_order": 18
       }, {
         "has_img_apple": true,
@@ -8234,7 +8234,7 @@
         "name": "KISSING FACE",
         "short_name": "kissing",
         "short_names": ["kissing"],
-        "unicode": "",
+        "unicode": "1f617",
         "sort_order": 19
       }, {
         "has_img_apple": true,
@@ -8246,7 +8246,7 @@
         "name": "KISSING FACE WITH SMILING EYES",
         "short_name": "kissing_smiling_eyes",
         "short_names": ["kissing_smiling_eyes"],
-        "unicode": "",
+        "unicode": "1f619",
         "sort_order": 20
       }, {
         "has_img_apple": true,
@@ -8258,7 +8258,7 @@
         "name": "KISSING FACE WITH CLOSED EYES",
         "short_name": "kissing_closed_eyes",
         "short_names": ["kissing_closed_eyes"],
-        "unicode": "",
+        "unicode": "1f61a",
         "sort_order": 21
       }, {
         "has_img_apple": true,
@@ -8270,7 +8270,7 @@
         "name": "FACE WITH STUCK-OUT TONGUE AND WINKING EYE",
         "short_name": "stuck_out_tongue_winking_eye",
         "short_names": ["stuck_out_tongue_winking_eye"],
-        "unicode": "",
+        "unicode": "1f61c",
         "sort_order": 22
       }, {
         "has_img_apple": true,
@@ -8282,7 +8282,7 @@
         "name": "FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES",
         "short_name": "stuck_out_tongue_closed_eyes",
         "short_names": ["stuck_out_tongue_closed_eyes"],
-        "unicode": "",
+        "unicode": "1f61d",
         "sort_order": 23
       }, {
         "has_img_apple": true,
@@ -8294,7 +8294,7 @@
         "name": "FACE WITH STUCK-OUT TONGUE",
         "short_name": "stuck_out_tongue",
         "short_names": ["stuck_out_tongue"],
-        "unicode": "",
+        "unicode": "1f61b",
         "sort_order": 24
       }, {
         "has_img_apple": true,
@@ -8306,7 +8306,7 @@
         "name": "MONEY-MOUTH FACE",
         "short_name": "money_mouth_face",
         "short_names": ["money_mouth_face"],
-        "unicode": "",
+        "unicode": "1f911",
         "sort_order": 25
       }, {
         "has_img_apple": true,
@@ -8318,7 +8318,7 @@
         "name": "NERD FACE",
         "short_name": "nerd_face",
         "short_names": ["nerd_face"],
-        "unicode": "",
+        "unicode": "1f913",
         "sort_order": 26
       }, {
         "has_img_apple": true,
@@ -8330,7 +8330,7 @@
         "name": "SMILING FACE WITH SUNGLASSES",
         "short_name": "sunglasses",
         "short_names": ["sunglasses"],
-        "unicode": "",
+        "unicode": "1f60e",
         "sort_order": 27
       }, {
         "has_img_apple": true,
@@ -8342,7 +8342,7 @@
         "name": "HUGGING FACE",
         "short_name": "hugging_face",
         "short_names": ["hugging_face"],
-        "unicode": "",
+        "unicode": "1f917",
         "sort_order": 28
       }, {
         "has_img_apple": true,
@@ -8354,7 +8354,7 @@
         "name": "SMIRKING FACE",
         "short_name": "smirk",
         "short_names": ["smirk"],
-        "unicode": "",
+        "unicode": "1f60f",
         "sort_order": 29
       }, {
         "has_img_apple": true,
@@ -8366,7 +8366,7 @@
         "name": "FACE WITHOUT MOUTH",
         "short_name": "no_mouth",
         "short_names": ["no_mouth"],
-        "unicode": "",
+        "unicode": "1f636",
         "sort_order": 30
       }, {
         "has_img_apple": true,
@@ -8378,7 +8378,7 @@
         "name": "NEUTRAL FACE",
         "short_name": "neutral_face",
         "short_names": ["neutral_face"],
-        "unicode": "",
+        "unicode": "1f610",
         "sort_order": 31
       }, {
         "has_img_apple": true,
@@ -8390,7 +8390,7 @@
         "name": "EXPRESSIONLESS FACE",
         "short_name": "expressionless",
         "short_names": ["expressionless"],
-        "unicode": "",
+        "unicode": "1f611",
         "sort_order": 32
       }, {
         "has_img_apple": true,
@@ -8402,7 +8402,7 @@
         "name": "UNAMUSED FACE",
         "short_name": "unamused",
         "short_names": ["unamused"],
-        "unicode": "",
+        "unicode": "1f612",
         "sort_order": 33
       }, {
         "has_img_apple": true,
@@ -8414,7 +8414,7 @@
         "name": "FACE WITH ROLLING EYES",
         "short_name": "face_with_rolling_eyes",
         "short_names": ["face_with_rolling_eyes"],
-        "unicode": "",
+        "unicode": "1f644",
         "sort_order": 34
       }, {
         "has_img_apple": true,
@@ -8426,7 +8426,7 @@
         "name": "THINKING FACE",
         "short_name": "thinking_face",
         "short_names": ["thinking_face"],
-        "unicode": "",
+        "unicode": "1f914",
         "sort_order": 35
       }, {
         "has_img_apple": true,
@@ -8438,7 +8438,7 @@
         "name": "FLUSHED FACE",
         "short_name": "flushed",
         "short_names": ["flushed"],
-        "unicode": "",
+        "unicode": "1f633",
         "sort_order": 36
       }, {
         "has_img_apple": true,
@@ -8450,7 +8450,7 @@
         "name": "DISAPPOINTED FACE",
         "short_name": "disappointed",
         "short_names": ["disappointed"],
-        "unicode": "",
+        "unicode": "1f61e",
         "sort_order": 37
       }, {
         "has_img_apple": true,
@@ -8462,7 +8462,7 @@
         "name": "WORRIED FACE",
         "short_name": "worried",
         "short_names": ["worried"],
-        "unicode": "",
+        "unicode": "1f61f",
         "sort_order": 38
       }, {
         "has_img_apple": true,
@@ -8474,7 +8474,7 @@
         "name": "ANGRY FACE",
         "short_name": "angry",
         "short_names": ["angry"],
-        "unicode": "",
+        "unicode": "1f620",
         "sort_order": 39
       }, {
         "has_img_apple": true,
@@ -8486,7 +8486,7 @@
         "name": "POUTING FACE",
         "short_name": "rage",
         "short_names": ["rage"],
-        "unicode": "",
+        "unicode": "1f621",
         "sort_order": 40
       }, {
         "has_img_apple": true,
@@ -8498,7 +8498,7 @@
         "name": "PENSIVE FACE",
         "short_name": "pensive",
         "short_names": ["pensive"],
-        "unicode": "",
+        "unicode": "1f614",
         "sort_order": 41
       }, {
         "has_img_apple": true,
@@ -8510,7 +8510,7 @@
         "name": "CONFUSED FACE",
         "short_name": "confused",
         "short_names": ["confused"],
-        "unicode": "",
+        "unicode": "1f615",
         "sort_order": 42
       }, {
         "has_img_apple": true,
@@ -8522,7 +8522,7 @@
         "name": "SLIGHTLY FROWNING FACE",
         "short_name": "slightly_frowning_face",
         "short_names": ["slightly_frowning_face"],
-        "unicode": "",
+        "unicode": "1f641",
         "sort_order": 43
       }, {
         "has_img_apple": true,
@@ -8534,7 +8534,7 @@
         "name": "WHITE FROWNING FACE",
         "short_name": "white_frowning_face",
         "short_names": ["white_frowning_face"],
-        "unicode": "",
+        "unicode": "2639",
         "sort_order": 44
       }, {
         "has_img_apple": true,
@@ -8546,7 +8546,7 @@
         "name": "PERSEVERING FACE",
         "short_name": "persevere",
         "short_names": ["persevere"],
-        "unicode": "",
+        "unicode": "1f623",
         "sort_order": 45
       }, {
         "has_img_apple": true,
@@ -8558,7 +8558,7 @@
         "name": "CONFOUNDED FACE",
         "short_name": "confounded",
         "short_names": ["confounded"],
-        "unicode": "",
+        "unicode": "1f616",
         "sort_order": 46
       }, {
         "has_img_apple": true,
@@ -8570,7 +8570,7 @@
         "name": "TIRED FACE",
         "short_name": "tired_face",
         "short_names": ["tired_face"],
-        "unicode": "",
+        "unicode": "1f62b",
         "sort_order": 47
       }, {
         "has_img_apple": true,
@@ -8582,7 +8582,7 @@
         "name": "WEARY FACE",
         "short_name": "weary",
         "short_names": ["weary"],
-        "unicode": "",
+        "unicode": "1f629",
         "sort_order": 48
       }, {
         "has_img_apple": true,
@@ -8594,7 +8594,7 @@
         "name": "FACE WITH LOOK OF TRIUMPH",
         "short_name": "triumph",
         "short_names": ["triumph"],
-        "unicode": "",
+        "unicode": "1f624",
         "sort_order": 49
       }, {
         "has_img_apple": true,
@@ -8606,7 +8606,7 @@
         "name": "FACE WITH OPEN MOUTH",
         "short_name": "open_mouth",
         "short_names": ["open_mouth"],
-        "unicode": "",
+        "unicode": "1f62e",
         "sort_order": 50
       }, {
         "has_img_apple": true,
@@ -8618,7 +8618,7 @@
         "name": "FACE SCREAMING IN FEAR",
         "short_name": "scream",
         "short_names": ["scream"],
-        "unicode": "",
+        "unicode": "1f631",
         "sort_order": 51
       }, {
         "has_img_apple": true,
@@ -8630,7 +8630,7 @@
         "name": "FEARFUL FACE",
         "short_name": "fearful",
         "short_names": ["fearful"],
-        "unicode": "",
+        "unicode": "1f628",
         "sort_order": 52
       }, {
         "has_img_apple": true,
@@ -8642,7 +8642,7 @@
         "name": "FACE WITH OPEN MOUTH AND COLD SWEAT",
         "short_name": "cold_sweat",
         "short_names": ["cold_sweat"],
-        "unicode": "",
+        "unicode": "1f630",
         "sort_order": 53
       }, {
         "has_img_apple": true,
@@ -8654,7 +8654,7 @@
         "name": "HUSHED FACE",
         "short_name": "hushed",
         "short_names": ["hushed"],
-        "unicode": "",
+        "unicode": "1f62f",
         "sort_order": 54
       }, {
         "has_img_apple": true,
@@ -8666,7 +8666,7 @@
         "name": "FROWNING FACE WITH OPEN MOUTH",
         "short_name": "frowning",
         "short_names": ["frowning"],
-        "unicode": "",
+        "unicode": "1f626",
         "sort_order": 55
       }, {
         "has_img_apple": true,
@@ -8678,7 +8678,7 @@
         "name": "ANGUISHED FACE",
         "short_name": "anguished",
         "short_names": ["anguished"],
-        "unicode": "",
+        "unicode": "1f627",
         "sort_order": 56
       }, {
         "has_img_apple": true,
@@ -8690,7 +8690,7 @@
         "name": "CRYING FACE",
         "short_name": "cry",
         "short_names": ["cry"],
-        "unicode": "",
+        "unicode": "1f622",
         "sort_order": 57
       }, {
         "has_img_apple": true,
@@ -8702,7 +8702,7 @@
         "name": "DISAPPOINTED BUT RELIEVED FACE",
         "short_name": "disappointed_relieved",
         "short_names": ["disappointed_relieved"],
-        "unicode": "",
+        "unicode": "1f625",
         "sort_order": 58
       }, {
         "has_img_apple": true,
@@ -8714,7 +8714,7 @@
         "name": "SLEEPY FACE",
         "short_name": "sleepy",
         "short_names": ["sleepy"],
-        "unicode": "",
+        "unicode": "1f62a",
         "sort_order": 59
       }, {
         "has_img_apple": true,
@@ -8726,7 +8726,7 @@
         "name": "FACE WITH COLD SWEAT",
         "short_name": "sweat",
         "short_names": ["sweat"],
-        "unicode": "",
+        "unicode": "1f613",
         "sort_order": 60
       }, {
         "has_img_apple": true,
@@ -8738,7 +8738,7 @@
         "name": "LOUDLY CRYING FACE",
         "short_name": "sob",
         "short_names": ["sob"],
-        "unicode": "",
+        "unicode": "1f62d",
         "sort_order": 61
       }, {
         "has_img_apple": true,
@@ -8750,7 +8750,7 @@
         "name": "DIZZY FACE",
         "short_name": "dizzy_face",
         "short_names": ["dizzy_face"],
-        "unicode": "",
+        "unicode": "1f635",
         "sort_order": 62
       }, {
         "has_img_apple": true,
@@ -8762,7 +8762,7 @@
         "name": "ASTONISHED FACE",
         "short_name": "astonished",
         "short_names": ["astonished"],
-        "unicode": "",
+        "unicode": "1f632",
         "sort_order": 63
       }, {
         "has_img_apple": true,
@@ -8774,7 +8774,7 @@
         "name": "ZIPPER-MOUTH FACE",
         "short_name": "zipper_mouth_face",
         "short_names": ["zipper_mouth_face"],
-        "unicode": "",
+        "unicode": "1f910",
         "sort_order": 64
       }, {
         "has_img_apple": true,
@@ -8786,7 +8786,7 @@
         "name": "FACE WITH MEDICAL MASK",
         "short_name": "mask",
         "short_names": ["mask"],
-        "unicode": "",
+        "unicode": "1f637",
         "sort_order": 65
       }, {
         "has_img_apple": true,
@@ -8798,7 +8798,7 @@
         "name": "FACE WITH THERMOMETER",
         "short_name": "face_with_thermometer",
         "short_names": ["face_with_thermometer"],
-        "unicode": "",
+        "unicode": "1f912",
         "sort_order": 66
       }, {
         "has_img_apple": true,
@@ -8810,7 +8810,7 @@
         "name": "FACE WITH HEAD-BANDAGE",
         "short_name": "face_with_head_bandage",
         "short_names": ["face_with_head_bandage"],
-        "unicode": "",
+        "unicode": "1f915",
         "sort_order": 67
       }, {
         "has_img_apple": true,
@@ -8822,7 +8822,7 @@
         "name": "SLEEPING FACE",
         "short_name": "sleeping",
         "short_names": ["sleeping"],
-        "unicode": "",
+        "unicode": "1f634",
         "sort_order": 68
       }, {
         "has_img_apple": true,
@@ -8834,7 +8834,7 @@
         "name": "SLEEPING SYMBOL",
         "short_name": "zzz",
         "short_names": ["zzz"],
-        "unicode": "",
+        "unicode": "1f4a4",
         "sort_order": 69
       }, {
         "has_img_apple": true,
@@ -8846,7 +8846,7 @@
         "name": "PILE OF POO",
         "short_name": "hankey",
         "short_names": ["hankey", "poop", "shit"],
-        "unicode": "",
+        "unicode": "1f4a9",
         "sort_order": 70
       }, {
         "has_img_apple": true,
@@ -8858,7 +8858,7 @@
         "name": "SMILING FACE WITH HORNS",
         "short_name": "smiling_imp",
         "short_names": ["smiling_imp"],
-        "unicode": "",
+        "unicode": "1f608",
         "sort_order": 71
       }, {
         "has_img_apple": true,
@@ -8870,7 +8870,7 @@
         "name": "IMP",
         "short_name": "imp",
         "short_names": ["imp"],
-        "unicode": "",
+        "unicode": "1f47f",
         "sort_order": 72
       }, {
         "has_img_apple": true,
@@ -8882,7 +8882,7 @@
         "name": "JAPANESE OGRE",
         "short_name": "japanese_ogre",
         "short_names": ["japanese_ogre"],
-        "unicode": "",
+        "unicode": "1f479",
         "sort_order": 73
       }, {
         "has_img_apple": true,
@@ -8894,7 +8894,7 @@
         "name": "JAPANESE GOBLIN",
         "short_name": "japanese_goblin",
         "short_names": ["japanese_goblin"],
-        "unicode": "",
+        "unicode": "1f47a",
         "sort_order": 74
       }, {
         "has_img_apple": true,
@@ -8906,7 +8906,7 @@
         "name": "SKULL",
         "short_name": "skull",
         "short_names": ["skull"],
-        "unicode": "",
+        "unicode": "1f480",
         "sort_order": 75
       }, {
         "has_img_apple": true,
@@ -8918,7 +8918,7 @@
         "name": "GHOST",
         "short_name": "ghost",
         "short_names": ["ghost"],
-        "unicode": "",
+        "unicode": "1f47b",
         "sort_order": 76
       }, {
         "has_img_apple": true,
@@ -8930,7 +8930,7 @@
         "name": "EXTRATERRESTRIAL ALIEN",
         "short_name": "alien",
         "short_names": ["alien"],
-        "unicode": "",
+        "unicode": "1f47d",
         "sort_order": 77
       }, {
         "has_img_apple": true,
@@ -8942,7 +8942,7 @@
         "name": "ROBOT FACE",
         "short_name": "robot_face",
         "short_names": ["robot_face"],
-        "unicode": "",
+        "unicode": "1f916",
         "sort_order": 78
       }, {
         "has_img_apple": true,
@@ -8954,7 +8954,7 @@
         "name": "SMILING CAT FACE WITH OPEN MOUTH",
         "short_name": "smiley_cat",
         "short_names": ["smiley_cat"],
-        "unicode": "",
+        "unicode": "1f63a",
         "sort_order": 79
       }, {
         "has_img_apple": true,
@@ -8966,7 +8966,7 @@
         "name": "GRINNING CAT FACE WITH SMILING EYES",
         "short_name": "smile_cat",
         "short_names": ["smile_cat"],
-        "unicode": "",
+        "unicode": "1f638",
         "sort_order": 80
       }, {
         "has_img_apple": true,
@@ -8978,7 +8978,7 @@
         "name": "CAT FACE WITH TEARS OF JOY",
         "short_name": "joy_cat",
         "short_names": ["joy_cat"],
-        "unicode": "",
+        "unicode": "1f639",
         "sort_order": 81
       }, {
         "has_img_apple": true,
@@ -8990,7 +8990,7 @@
         "name": "SMILING CAT FACE WITH HEART-SHAPED EYES",
         "short_name": "heart_eyes_cat",
         "short_names": ["heart_eyes_cat"],
-        "unicode": "",
+        "unicode": "1f63b",
         "sort_order": 82
       }, {
         "has_img_apple": true,
@@ -9002,7 +9002,7 @@
         "name": "CAT FACE WITH WRY SMILE",
         "short_name": "smirk_cat",
         "short_names": ["smirk_cat"],
-        "unicode": "",
+        "unicode": "1f63c",
         "sort_order": 83
       }, {
         "has_img_apple": true,
@@ -9014,7 +9014,7 @@
         "name": "KISSING CAT FACE WITH CLOSED EYES",
         "short_name": "kissing_cat",
         "short_names": ["kissing_cat"],
-        "unicode": "",
+        "unicode": "1f63d",
         "sort_order": 84
       }, {
         "has_img_apple": true,
@@ -9026,7 +9026,7 @@
         "name": "WEARY CAT FACE",
         "short_name": "scream_cat",
         "short_names": ["scream_cat"],
-        "unicode": "",
+        "unicode": "1f640",
         "sort_order": 85
       }, {
         "has_img_apple": true,
@@ -9038,7 +9038,7 @@
         "name": "CRYING CAT FACE",
         "short_name": "crying_cat_face",
         "short_names": ["crying_cat_face"],
-        "unicode": "",
+        "unicode": "1f63f",
         "sort_order": 86
       }, {
         "has_img_apple": true,
@@ -9050,7 +9050,7 @@
         "name": "POUTING CAT FACE",
         "short_name": "pouting_cat",
         "short_names": ["pouting_cat"],
-        "unicode": "",
+        "unicode": "1f63e",
         "sort_order": 87
       }, {
         "has_img_apple": true,
@@ -9062,7 +9062,7 @@
         "name": "PERSON RAISING BOTH HANDS IN CELEBRATION",
         "short_name": "raised_hands",
         "short_names": ["raised_hands"],
-        "unicode": "",
+        "unicode": "1f64c",
         "sort_order": 88
       }, {
         "has_img_apple": true,
@@ -9074,7 +9074,7 @@
         "name": "CLAPPING HANDS SIGN",
         "short_name": "clap",
         "short_names": ["clap"],
-        "unicode": "",
+        "unicode": "1f44f",
         "sort_order": 89
       }, {
         "has_img_apple": true,
@@ -9086,7 +9086,7 @@
         "name": "WAVING HAND SIGN",
         "short_name": "wave",
         "short_names": ["wave"],
-        "unicode": "",
+        "unicode": "1f44b",
         "sort_order": 90
       }, {
         "has_img_apple": true,
@@ -9098,7 +9098,7 @@
         "name": "THUMBS UP SIGN",
         "short_name": "+1",
         "short_names": ["+1", "thumbsup"],
-        "unicode": "",
+        "unicode": "1f44d",
         "sort_order": 91
       }, {
         "has_img_apple": true,
@@ -9110,7 +9110,7 @@
         "name": "THUMBS DOWN SIGN",
         "short_name": "-1",
         "short_names": ["-1", "thumbsdown"],
-        "unicode": "",
+        "unicode": "1f44e",
         "sort_order": 92
       }, {
         "has_img_apple": true,
@@ -9122,7 +9122,7 @@
         "name": "FISTED HAND SIGN",
         "short_name": "facepunch",
         "short_names": ["facepunch", "punch"],
-        "unicode": "",
+        "unicode": "1f44a",
         "sort_order": 93
       }, {
         "has_img_apple": true,
@@ -9134,7 +9134,7 @@
         "name": "RAISED FIST",
         "short_name": "fist",
         "short_names": ["fist"],
-        "unicode": "",
+        "unicode": "270a",
         "sort_order": 94
       }, {
         "has_img_apple": true,
@@ -9146,7 +9146,7 @@
         "name": "VICTORY HAND",
         "short_name": "v",
         "short_names": ["v"],
-        "unicode": "",
+        "unicode": "270c",
         "sort_order": 95
       }, {
         "has_img_apple": true,
@@ -9158,7 +9158,7 @@
         "name": "OK HAND SIGN",
         "short_name": "ok_hand",
         "short_names": ["ok_hand"],
-        "unicode": "",
+        "unicode": "1f44c",
         "sort_order": 96
       }, {
         "has_img_apple": true,
@@ -9170,7 +9170,7 @@
         "name": "RAISED HAND",
         "short_name": "hand",
         "short_names": ["hand", "raised_hand"],
-        "unicode": "",
+        "unicode": "270b",
         "sort_order": 97
       }, {
         "has_img_apple": true,
@@ -9182,7 +9182,7 @@
         "name": "OPEN HANDS SIGN",
         "short_name": "open_hands",
         "short_names": ["open_hands"],
-        "unicode": "",
+        "unicode": "1f450",
         "sort_order": 98
       }, {
         "has_img_apple": true,
@@ -9194,7 +9194,7 @@
         "name": "FLEXED BICEPS",
         "short_name": "muscle",
         "short_names": ["muscle"],
-        "unicode": "",
+        "unicode": "1f4aa",
         "sort_order": 99
       }, {
         "has_img_apple": true,
@@ -9206,7 +9206,7 @@
         "name": "PERSON WITH FOLDED HANDS",
         "short_name": "pray",
         "short_names": ["pray"],
-        "unicode": "",
+        "unicode": "1f64f",
         "sort_order": 100
       }, {
         "has_img_apple": true,
@@ -9218,7 +9218,7 @@
         "name": "WHITE UP POINTING INDEX",
         "short_name": "point_up",
         "short_names": ["point_up"],
-        "unicode": "",
+        "unicode": "261d",
         "sort_order": 101
       }, {
         "has_img_apple": true,
@@ -9230,7 +9230,7 @@
         "name": "WHITE UP POINTING BACKHAND INDEX",
         "short_name": "point_up_2",
         "short_names": ["point_up_2"],
-        "unicode": "",
+        "unicode": "1f446",
         "sort_order": 102
       }, {
         "has_img_apple": true,
@@ -9242,7 +9242,7 @@
         "name": "WHITE DOWN POINTING BACKHAND INDEX",
         "short_name": "point_down",
         "short_names": ["point_down"],
-        "unicode": "",
+        "unicode": "1f447",
         "sort_order": 103
       }, {
         "has_img_apple": true,
@@ -9254,7 +9254,7 @@
         "name": "WHITE LEFT POINTING BACKHAND INDEX",
         "short_name": "point_left",
         "short_names": ["point_left"],
-        "unicode": "",
+        "unicode": "1f448",
         "sort_order": 104
       }, {
         "has_img_apple": true,
@@ -9266,7 +9266,7 @@
         "name": "WHITE RIGHT POINTING BACKHAND INDEX",
         "short_name": "point_right",
         "short_names": ["point_right"],
-        "unicode": "",
+        "unicode": "1f449",
         "sort_order": 105
       }, {
         "has_img_apple": true,
@@ -9278,7 +9278,7 @@
         "name": "REVERSED HAND WITH MIDDLE FINGER EXTENDED",
         "short_name": "middle_finger",
         "short_names": ["middle_finger", "reversed_hand_with_middle_finger_extended"],
-        "unicode": "",
+        "unicode": "1f595",
         "sort_order": 106
       }, {
         "has_img_apple": true,
@@ -9290,7 +9290,7 @@
         "name": "RAISED HAND WITH FINGERS SPLAYED",
         "short_name": "raised_hand_with_fingers_splayed",
         "short_names": ["raised_hand_with_fingers_splayed"],
-        "unicode": "",
+        "unicode": "1f590",
         "sort_order": 107
       }, {
         "has_img_apple": true,
@@ -9302,7 +9302,7 @@
         "name": "SIGN OF THE HORNS",
         "short_name": "the_horns",
         "short_names": ["the_horns", "sign_of_the_horns"],
-        "unicode": "",
+        "unicode": "1f918",
         "sort_order": 108
       }, {
         "has_img_apple": true,
@@ -9314,7 +9314,7 @@
         "name": "RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS",
         "short_name": "spock-hand",
         "short_names": ["spock-hand"],
-        "unicode": "",
+        "unicode": "1f596",
         "sort_order": 109
       }, {
         "has_img_apple": true,
@@ -9326,7 +9326,7 @@
         "name": "WRITING HAND",
         "short_name": "writing_hand",
         "short_names": ["writing_hand"],
-        "unicode": "",
+        "unicode": "270d",
         "sort_order": 110
       }, {
         "has_img_apple": true,
@@ -9338,7 +9338,7 @@
         "name": "NAIL POLISH",
         "short_name": "nail_care",
         "short_names": ["nail_care"],
-        "unicode": "",
+        "unicode": "1f485",
         "sort_order": 111
       }, {
         "has_img_apple": true,
@@ -9350,7 +9350,7 @@
         "name": "MOUTH",
         "short_name": "lips",
         "short_names": ["lips"],
-        "unicode": "",
+        "unicode": "1f444",
         "sort_order": 112
       }, {
         "has_img_apple": true,
@@ -9362,7 +9362,7 @@
         "name": "TONGUE",
         "short_name": "tongue",
         "short_names": ["tongue"],
-        "unicode": "",
+        "unicode": "1f445",
         "sort_order": 113
       }, {
         "has_img_apple": true,
@@ -9374,7 +9374,7 @@
         "name": "EAR",
         "short_name": "ear",
         "short_names": ["ear"],
-        "unicode": "",
+        "unicode": "1f442",
         "sort_order": 114
       }, {
         "has_img_apple": true,
@@ -9386,7 +9386,7 @@
         "name": "NOSE",
         "short_name": "nose",
         "short_names": ["nose"],
-        "unicode": "",
+        "unicode": "1f443",
         "sort_order": 115
       }, {
         "has_img_apple": true,
@@ -9398,7 +9398,7 @@
         "name": "EYE",
         "short_name": "eye",
         "short_names": ["eye"],
-        "unicode": "",
+        "unicode": "1f441",
         "sort_order": 116
       }, {
         "has_img_apple": true,
@@ -9410,7 +9410,7 @@
         "name": "EYES",
         "short_name": "eyes",
         "short_names": ["eyes"],
-        "unicode": "",
+        "unicode": "1f440",
         "sort_order": 117
       }, {
         "has_img_apple": true,
@@ -9422,7 +9422,7 @@
         "name": "BUST IN SILHOUETTE",
         "short_name": "bust_in_silhouette",
         "short_names": ["bust_in_silhouette"],
-        "unicode": "",
+        "unicode": "1f464",
         "sort_order": 118
       }, {
         "has_img_apple": true,
@@ -9434,7 +9434,7 @@
         "name": "BUSTS IN SILHOUETTE",
         "short_name": "busts_in_silhouette",
         "short_names": ["busts_in_silhouette"],
-        "unicode": "",
+        "unicode": "1f465",
         "sort_order": 119
       }, {
         "has_img_apple": true,
@@ -9446,7 +9446,7 @@
         "name": "SPEAKING HEAD IN SILHOUETTE",
         "short_name": "speaking_head_in_silhouette",
         "short_names": ["speaking_head_in_silhouette"],
-        "unicode": "",
+        "unicode": "1f5e3",
         "sort_order": 120
       }, {
         "has_img_apple": true,
@@ -9458,7 +9458,7 @@
         "name": "BABY",
         "short_name": "baby",
         "short_names": ["baby"],
-        "unicode": "",
+        "unicode": "1f476",
         "sort_order": 121
       }, {
         "has_img_apple": true,
@@ -9470,7 +9470,7 @@
         "name": "BOY",
         "short_name": "boy",
         "short_names": ["boy"],
-        "unicode": "",
+        "unicode": "1f466",
         "sort_order": 122
       }, {
         "has_img_apple": true,
@@ -9482,7 +9482,7 @@
         "name": "GIRL",
         "short_name": "girl",
         "short_names": ["girl"],
-        "unicode": "",
+        "unicode": "1f467",
         "sort_order": 123
       }, {
         "has_img_apple": true,
@@ -9494,7 +9494,7 @@
         "name": "MAN",
         "short_name": "man",
         "short_names": ["man"],
-        "unicode": "",
+        "unicode": "1f468",
         "sort_order": 124
       }, {
         "has_img_apple": true,
@@ -9506,7 +9506,7 @@
         "name": "WOMAN",
         "short_name": "woman",
         "short_names": ["woman"],
-        "unicode": "",
+        "unicode": "1f469",
         "sort_order": 125
       }, {
         "has_img_apple": true,
@@ -9518,7 +9518,7 @@
         "name": "PERSON WITH BLOND HAIR",
         "short_name": "person_with_blond_hair",
         "short_names": ["person_with_blond_hair"],
-        "unicode": "",
+        "unicode": "1f471",
         "sort_order": 126
       }, {
         "has_img_apple": true,
@@ -9530,7 +9530,7 @@
         "name": "OLDER MAN",
         "short_name": "older_man",
         "short_names": ["older_man"],
-        "unicode": "",
+        "unicode": "1f474",
         "sort_order": 127
       }, {
         "has_img_apple": true,
@@ -9542,7 +9542,7 @@
         "name": "OLDER WOMAN",
         "short_name": "older_woman",
         "short_names": ["older_woman"],
-        "unicode": "",
+        "unicode": "1f475",
         "sort_order": 128
       }, {
         "has_img_apple": true,
@@ -9554,7 +9554,7 @@
         "name": "MAN WITH GUA PI MAO",
         "short_name": "man_with_gua_pi_mao",
         "short_names": ["man_with_gua_pi_mao"],
-        "unicode": "",
+        "unicode": "1f472",
         "sort_order": 129
       }, {
         "has_img_apple": true,
@@ -9566,7 +9566,7 @@
         "name": "MAN WITH TURBAN",
         "short_name": "man_with_turban",
         "short_names": ["man_with_turban"],
-        "unicode": "",
+        "unicode": "1f473",
         "sort_order": 130
       }, {
         "has_img_apple": true,
@@ -9578,7 +9578,7 @@
         "name": "POLICE OFFICER",
         "short_name": "cop",
         "short_names": ["cop"],
-        "unicode": "",
+        "unicode": "1f46e",
         "sort_order": 131
       }, {
         "has_img_apple": true,
@@ -9590,7 +9590,7 @@
         "name": "CONSTRUCTION WORKER",
         "short_name": "construction_worker",
         "short_names": ["construction_worker"],
-        "unicode": "",
+        "unicode": "1f477",
         "sort_order": 132
       }, {
         "has_img_apple": true,
@@ -9602,7 +9602,7 @@
         "name": "GUARDSMAN",
         "short_name": "guardsman",
         "short_names": ["guardsman"],
-        "unicode": "",
+        "unicode": "1f482",
         "sort_order": 133
       }, {
         "has_img_apple": true,
@@ -9614,7 +9614,7 @@
         "name": "SLEUTH OR SPY",
         "short_name": "sleuth_or_spy",
         "short_names": ["sleuth_or_spy"],
-        "unicode": "",
+        "unicode": "1f575",
         "sort_order": 134
       }, {
         "has_img_apple": true,
@@ -9626,7 +9626,7 @@
         "name": "FATHER CHRISTMAS",
         "short_name": "santa",
         "short_names": ["santa"],
-        "unicode": "",
+        "unicode": "1f385",
         "sort_order": 135
       }, {
         "has_img_apple": true,
@@ -9638,7 +9638,7 @@
         "name": "BABY ANGEL",
         "short_name": "angel",
         "short_names": ["angel"],
-        "unicode": "",
+        "unicode": "1f47c",
         "sort_order": 136
       }, {
         "has_img_apple": true,
@@ -9650,7 +9650,7 @@
         "name": "PRINCESS",
         "short_name": "princess",
         "short_names": ["princess"],
-        "unicode": "",
+        "unicode": "1f478",
         "sort_order": 137
       }, {
         "has_img_apple": true,
@@ -9662,7 +9662,7 @@
         "name": "BRIDE WITH VEIL",
         "short_name": "bride_with_veil",
         "short_names": ["bride_with_veil"],
-        "unicode": "",
+        "unicode": "1f470",
         "sort_order": 138
       }, {
         "has_img_apple": true,
@@ -9674,7 +9674,7 @@
         "name": "PEDESTRIAN",
         "short_name": "walking",
         "short_names": ["walking"],
-        "unicode": "",
+        "unicode": "1f6b6",
         "sort_order": 139
       }, {
         "has_img_apple": true,
@@ -9686,7 +9686,7 @@
         "name": "RUNNER",
         "short_name": "runner",
         "short_names": ["runner", "running"],
-        "unicode": "",
+        "unicode": "1f3c3",
         "sort_order": 140
       }, {
         "has_img_apple": true,
@@ -9698,7 +9698,7 @@
         "name": "DANCER",
         "short_name": "dancer",
         "short_names": ["dancer"],
-        "unicode": "",
+        "unicode": "1f483",
         "sort_order": 141
       }, {
         "has_img_apple": true,
@@ -9710,7 +9710,7 @@
         "name": "WOMAN WITH BUNNY EARS",
         "short_name": "dancers",
         "short_names": ["dancers"],
-        "unicode": "",
+        "unicode": "1f46f",
         "sort_order": 142
       }, {
         "has_img_apple": true,
@@ -9722,7 +9722,7 @@
         "name": "MAN AND WOMAN HOLDING HANDS",
         "short_name": "couple",
         "short_names": ["couple", "man_and_woman_holding_hands"],
-        "unicode": "",
+        "unicode": "1f46b",
         "sort_order": 143
       }, {
         "has_img_apple": true,
@@ -9734,7 +9734,7 @@
         "name": "TWO MEN HOLDING HANDS",
         "short_name": "two_men_holding_hands",
         "short_names": ["two_men_holding_hands"],
-        "unicode": "",
+        "unicode": "1f46c",
         "sort_order": 144
       }, {
         "has_img_apple": true,
@@ -9746,7 +9746,7 @@
         "name": "TWO WOMEN HOLDING HANDS",
         "short_name": "two_women_holding_hands",
         "short_names": ["two_women_holding_hands"],
-        "unicode": "",
+        "unicode": "1f46d",
         "sort_order": 145
       }, {
         "has_img_apple": true,
@@ -9758,7 +9758,7 @@
         "name": "PERSON BOWING DEEPLY",
         "short_name": "bow",
         "short_names": ["bow"],
-        "unicode": "",
+        "unicode": "1f647",
         "sort_order": 146
       }, {
         "has_img_apple": true,
@@ -9770,7 +9770,7 @@
         "name": "INFORMATION DESK PERSON",
         "short_name": "information_desk_person",
         "short_names": ["information_desk_person"],
-        "unicode": "",
+        "unicode": "1f481",
         "sort_order": 147
       }, {
         "has_img_apple": true,
@@ -9782,7 +9782,7 @@
         "name": "FACE WITH NO GOOD GESTURE",
         "short_name": "no_good",
         "short_names": ["no_good"],
-        "unicode": "",
+        "unicode": "1f645",
         "sort_order": 148
       }, {
         "has_img_apple": true,
@@ -9794,7 +9794,7 @@
         "name": "FACE WITH OK GESTURE",
         "short_name": "ok_woman",
         "short_names": ["ok_woman"],
-        "unicode": "",
+        "unicode": "1f646",
         "sort_order": 149
       }, {
         "has_img_apple": true,
@@ -9806,7 +9806,7 @@
         "name": "HAPPY PERSON RAISING ONE HAND",
         "short_name": "raising_hand",
         "short_names": ["raising_hand"],
-        "unicode": "",
+        "unicode": "1f64b",
         "sort_order": 150
       }, {
         "has_img_apple": true,
@@ -9818,7 +9818,7 @@
         "name": "PERSON WITH POUTING FACE",
         "short_name": "person_with_pouting_face",
         "short_names": ["person_with_pouting_face"],
-        "unicode": "",
+        "unicode": "1f64e",
         "sort_order": 151
       }, {
         "has_img_apple": true,
@@ -9830,7 +9830,7 @@
         "name": "PERSON FROWNING",
         "short_name": "person_frowning",
         "short_names": ["person_frowning"],
-        "unicode": "",
+        "unicode": "1f64d",
         "sort_order": 152
       }, {
         "has_img_apple": true,
@@ -9842,7 +9842,7 @@
         "name": "HAIRCUT",
         "short_name": "haircut",
         "short_names": ["haircut"],
-        "unicode": "",
+        "unicode": "1f487",
         "sort_order": 153
       }, {
         "has_img_apple": true,
@@ -9854,7 +9854,7 @@
         "name": "FACE MASSAGE",
         "short_name": "massage",
         "short_names": ["massage"],
-        "unicode": "",
+        "unicode": "1f486",
         "sort_order": 154
       }, {
         "has_img_apple": true,
@@ -9866,7 +9866,7 @@
         "name": "COUPLE WITH HEART",
         "short_name": "couple_with_heart",
         "short_names": ["couple_with_heart"],
-        "unicode": "",
+        "unicode": "1f491",
         "sort_order": 155
       }, {
         "has_img_apple": true,
@@ -9878,7 +9878,7 @@
         "name": null,
         "short_name": "woman-heart-woman",
         "short_names": ["woman-heart-woman"],
-        "unicode": "",
+        "unicode": "1f469-200d-2764-fe0f-200d-1f469",
         "sort_order": 156
       }, {
         "has_img_apple": true,
@@ -9890,7 +9890,7 @@
         "name": null,
         "short_name": "man-heart-man",
         "short_names": ["man-heart-man"],
-        "unicode": "",
+        "unicode": "1f468-200d-2764-fe0f-200d-1f468",
         "sort_order": 157
       }, {
         "has_img_apple": true,
@@ -9902,7 +9902,7 @@
         "name": "KISS",
         "short_name": "couplekiss",
         "short_names": ["couplekiss"],
-        "unicode": "",
+        "unicode": "1f48f",
         "sort_order": 158
       }, {
         "has_img_apple": true,
@@ -9914,7 +9914,7 @@
         "name": null,
         "short_name": "woman-kiss-woman",
         "short_names": ["woman-kiss-woman"],
-        "unicode": "",
+        "unicode": "1f469-200d-2764-fe0f-200d-1f48b-200d-1f469",
         "sort_order": 159
       }, {
         "has_img_apple": true,
@@ -9926,7 +9926,7 @@
         "name": null,
         "short_name": "man-kiss-man",
         "short_names": ["man-kiss-man"],
-        "unicode": "",
+        "unicode": "1f468-200d-2764-fe0f-200d-1f48b-200d-1f468",
         "sort_order": 160
       }, {
         "has_img_apple": true,
@@ -9938,7 +9938,7 @@
         "name": "FAMILY",
         "short_name": "family",
         "short_names": ["family", "man-woman-boy"],
-        "unicode": "",
+        "unicode": "1f46a",
         "sort_order": 161
       }, {
         "has_img_apple": true,
@@ -9950,7 +9950,7 @@
         "name": null,
         "short_name": "man-woman-girl",
         "short_names": ["man-woman-girl"],
-        "unicode": "",
+        "unicode": "1f468-200d-1f469-200d-1f467",
         "sort_order": 162
       }, {
         "has_img_apple": true,
@@ -9962,7 +9962,7 @@
         "name": null,
         "short_name": "man-woman-girl-boy",
         "short_names": ["man-woman-girl-boy"],
-        "unicode": "",
+        "unicode": "1f468-200d-1f469-200d-1f467-200d-1f466",
         "sort_order": 163
       }, {
         "has_img_apple": true,
@@ -9974,7 +9974,7 @@
         "name": null,
         "short_name": "man-woman-boy-boy",
         "short_names": ["man-woman-boy-boy"],
-        "unicode": "",
+        "unicode": "1f468-200d-1f469-200d-1f466-200d-1f466",
         "sort_order": 164
       }, {
         "has_img_apple": true,
@@ -9986,7 +9986,7 @@
         "name": null,
         "short_name": "man-woman-girl-girl",
         "short_names": ["man-woman-girl-girl"],
-        "unicode": "",
+        "unicode": "1f468-200d-1f469-200d-1f467-200d-1f467",
         "sort_order": 165
       }, {
         "has_img_apple": true,
@@ -9998,7 +9998,7 @@
         "name": null,
         "short_name": "woman-woman-boy",
         "short_names": ["woman-woman-boy"],
-        "unicode": "",
+        "unicode": "1f469-200d-1f469-200d-1f466",
         "sort_order": 166
       }, {
         "has_img_apple": true,
@@ -10010,7 +10010,7 @@
         "name": null,
         "short_name": "woman-woman-girl",
         "short_names": ["woman-woman-girl"],
-        "unicode": "",
+        "unicode": "1f469-200d-1f469-200d-1f467",
         "sort_order": 167
       }, {
         "has_img_apple": true,
@@ -10022,7 +10022,7 @@
         "name": null,
         "short_name": "woman-woman-girl-boy",
         "short_names": ["woman-woman-girl-boy"],
-        "unicode": "",
+        "unicode": "1f469-200d-1f469-200d-1f467-200d-1f466",
         "sort_order": 168
       }, {
         "has_img_apple": true,
@@ -10034,7 +10034,7 @@
         "name": null,
         "short_name": "woman-woman-boy-boy",
         "short_names": ["woman-woman-boy-boy"],
-        "unicode": "",
+        "unicode": "1f469-200d-1f469-200d-1f466-200d-1f466",
         "sort_order": 169
       }, {
         "has_img_apple": true,
@@ -10046,7 +10046,7 @@
         "name": null,
         "short_name": "woman-woman-girl-girl",
         "short_names": ["woman-woman-girl-girl"],
-        "unicode": "",
+        "unicode": "1f469-200d-1f469-200d-1f467-200d-1f467",
         "sort_order": 170
       }, {
         "has_img_apple": true,
@@ -10058,7 +10058,7 @@
         "name": null,
         "short_name": "man-man-boy",
         "short_names": ["man-man-boy"],
-        "unicode": "",
+        "unicode": "1f468-200d-1f468-200d-1f466",
         "sort_order": 171
       }, {
         "has_img_apple": true,
@@ -10070,7 +10070,7 @@
         "name": null,
         "short_name": "man-man-girl",
         "short_names": ["man-man-girl"],
-        "unicode": "",
+        "unicode": "1f468-200d-1f468-200d-1f467",
         "sort_order": 172
       }, {
         "has_img_apple": true,
@@ -10082,7 +10082,7 @@
         "name": null,
         "short_name": "man-man-girl-boy",
         "short_names": ["man-man-girl-boy"],
-        "unicode": "",
+        "unicode": "1f468-200d-1f468-200d-1f467-200d-1f466",
         "sort_order": 173
       }, {
         "has_img_apple": true,
@@ -10094,7 +10094,7 @@
         "name": null,
         "short_name": "man-man-boy-boy",
         "short_names": ["man-man-boy-boy"],
-        "unicode": "",
+        "unicode": "1f468-200d-1f468-200d-1f466-200d-1f466",
         "sort_order": 174
       }, {
         "has_img_apple": true,
@@ -10106,7 +10106,7 @@
         "name": null,
         "short_name": "man-man-girl-girl",
         "short_names": ["man-man-girl-girl"],
-        "unicode": "",
+        "unicode": "1f468-200d-1f468-200d-1f467-200d-1f467",
         "sort_order": 175
       }, {
         "has_img_apple": true,
@@ -10118,7 +10118,7 @@
         "name": "WOMANS CLOTHES",
         "short_name": "womans_clothes",
         "short_names": ["womans_clothes"],
-        "unicode": "",
+        "unicode": "1f45a",
         "sort_order": 176
       }, {
         "has_img_apple": true,
@@ -10130,7 +10130,7 @@
         "name": "T-SHIRT",
         "short_name": "shirt",
         "short_names": ["shirt", "tshirt"],
-        "unicode": "",
+        "unicode": "1f455",
         "sort_order": 177
       }, {
         "has_img_apple": true,
@@ -10142,7 +10142,7 @@
         "name": "JEANS",
         "short_name": "jeans",
         "short_names": ["jeans"],
-        "unicode": "",
+        "unicode": "1f456",
         "sort_order": 178
       }, {
         "has_img_apple": true,
@@ -10154,7 +10154,7 @@
         "name": "NECKTIE",
         "short_name": "necktie",
         "short_names": ["necktie"],
-        "unicode": "",
+        "unicode": "1f454",
         "sort_order": 179
       }, {
         "has_img_apple": true,
@@ -10166,7 +10166,7 @@
         "name": "DRESS",
         "short_name": "dress",
         "short_names": ["dress"],
-        "unicode": "",
+        "unicode": "1f457",
         "sort_order": 180
       }, {
         "has_img_apple": true,
@@ -10178,7 +10178,7 @@
         "name": "BIKINI",
         "short_name": "bikini",
         "short_names": ["bikini"],
-        "unicode": "",
+        "unicode": "1f459",
         "sort_order": 181
       }, {
         "has_img_apple": true,
@@ -10190,7 +10190,7 @@
         "name": "KIMONO",
         "short_name": "kimono",
         "short_names": ["kimono"],
-        "unicode": "",
+        "unicode": "1f458",
         "sort_order": 182
       }, {
         "has_img_apple": true,
@@ -10202,7 +10202,7 @@
         "name": "LIPSTICK",
         "short_name": "lipstick",
         "short_names": ["lipstick"],
-        "unicode": "",
+        "unicode": "1f484",
         "sort_order": 183
       }, {
         "has_img_apple": true,
@@ -10214,7 +10214,7 @@
         "name": "KISS MARK",
         "short_name": "kiss",
         "short_names": ["kiss"],
-        "unicode": "",
+        "unicode": "1f48b",
         "sort_order": 184
       }, {
         "has_img_apple": true,
@@ -10226,7 +10226,7 @@
         "name": "FOOTPRINTS",
         "short_name": "footprints",
         "short_names": ["footprints"],
-        "unicode": "",
+        "unicode": "1f463",
         "sort_order": 185
       }, {
         "has_img_apple": true,
@@ -10238,7 +10238,7 @@
         "name": "HIGH-HEELED SHOE",
         "short_name": "high_heel",
         "short_names": ["high_heel"],
-        "unicode": "",
+        "unicode": "1f460",
         "sort_order": 186
       }, {
         "has_img_apple": true,
@@ -10250,7 +10250,7 @@
         "name": "WOMANS SANDAL",
         "short_name": "sandal",
         "short_names": ["sandal"],
-        "unicode": "",
+        "unicode": "1f461",
         "sort_order": 187
       }, {
         "has_img_apple": true,
@@ -10262,7 +10262,7 @@
         "name": "WOMANS BOOTS",
         "short_name": "boot",
         "short_names": ["boot"],
-        "unicode": "",
+        "unicode": "1f462",
         "sort_order": 188
       }, {
         "has_img_apple": true,
@@ -10274,7 +10274,7 @@
         "name": "MANS SHOE",
         "short_name": "mans_shoe",
         "short_names": ["mans_shoe", "shoe"],
-        "unicode": "",
+        "unicode": "1f45e",
         "sort_order": 189
       }, {
         "has_img_apple": true,
@@ -10286,7 +10286,7 @@
         "name": "ATHLETIC SHOE",
         "short_name": "athletic_shoe",
         "short_names": ["athletic_shoe"],
-        "unicode": "",
+        "unicode": "1f45f",
         "sort_order": 190
       }, {
         "has_img_apple": true,
@@ -10298,7 +10298,7 @@
         "name": "WOMANS HAT",
         "short_name": "womans_hat",
         "short_names": ["womans_hat"],
-        "unicode": "",
+        "unicode": "1f452",
         "sort_order": 191
       }, {
         "has_img_apple": true,
@@ -10310,7 +10310,7 @@
         "name": "TOP HAT",
         "short_name": "tophat",
         "short_names": ["tophat"],
-        "unicode": "",
+        "unicode": "1f3a9",
         "sort_order": 192
       }, {
         "has_img_apple": true,
@@ -10322,7 +10322,7 @@
         "name": "HELMET WITH WHITE CROSS",
         "short_name": "helmet_with_white_cross",
         "short_names": ["helmet_with_white_cross"],
-        "unicode": "",
+        "unicode": "26d1",
         "sort_order": 193
       }, {
         "has_img_apple": true,
@@ -10334,7 +10334,7 @@
         "name": "GRADUATION CAP",
         "short_name": "mortar_board",
         "short_names": ["mortar_board"],
-        "unicode": "",
+        "unicode": "1f393",
         "sort_order": 194
       }, {
         "has_img_apple": true,
@@ -10346,7 +10346,7 @@
         "name": "CROWN",
         "short_name": "crown",
         "short_names": ["crown"],
-        "unicode": "",
+        "unicode": "1f451",
         "sort_order": 195
       }, {
         "has_img_apple": true,
@@ -10358,7 +10358,7 @@
         "name": "SCHOOL SATCHEL",
         "short_name": "school_satchel",
         "short_names": ["school_satchel"],
-        "unicode": "",
+        "unicode": "1f392",
         "sort_order": 196
       }, {
         "has_img_apple": true,
@@ -10370,7 +10370,7 @@
         "name": "POUCH",
         "short_name": "pouch",
         "short_names": ["pouch"],
-        "unicode": "",
+        "unicode": "1f45d",
         "sort_order": 197
       }, {
         "has_img_apple": true,
@@ -10382,7 +10382,7 @@
         "name": "PURSE",
         "short_name": "purse",
         "short_names": ["purse"],
-        "unicode": "",
+        "unicode": "1f45b",
         "sort_order": 198
       }, {
         "has_img_apple": true,
@@ -10394,7 +10394,7 @@
         "name": "HANDBAG",
         "short_name": "handbag",
         "short_names": ["handbag"],
-        "unicode": "",
+        "unicode": "1f45c",
         "sort_order": 199
       }, {
         "has_img_apple": true,
@@ -10406,7 +10406,7 @@
         "name": "BRIEFCASE",
         "short_name": "briefcase",
         "short_names": ["briefcase"],
-        "unicode": "",
+        "unicode": "1f4bc",
         "sort_order": 200
       }, {
         "has_img_apple": true,
@@ -10418,7 +10418,7 @@
         "name": "EYEGLASSES",
         "short_name": "eyeglasses",
         "short_names": ["eyeglasses"],
-        "unicode": "",
+        "unicode": "1f453",
         "sort_order": 201
       }, {
         "has_img_apple": true,
@@ -10430,7 +10430,7 @@
         "name": "DARK SUNGLASSES",
         "short_name": "dark_sunglasses",
         "short_names": ["dark_sunglasses"],
-        "unicode": "",
+        "unicode": "1f576",
         "sort_order": 202
       }, {
         "has_img_apple": true,
@@ -10442,7 +10442,7 @@
         "name": "RING",
         "short_name": "ring",
         "short_names": ["ring"],
-        "unicode": "",
+        "unicode": "1f48d",
         "sort_order": 203
       }, {
         "has_img_apple": true,
@@ -10454,7 +10454,7 @@
         "name": "CLOSED UMBRELLA",
         "short_name": "closed_umbrella",
         "short_names": ["closed_umbrella"],
-        "unicode": "",
+        "unicode": "1f302",
         "sort_order": 204
       }],
       "Places": [{
