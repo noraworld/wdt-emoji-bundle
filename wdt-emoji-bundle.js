@@ -11848,7 +11848,7 @@
         "name": "SOCCER BALL",
         "short_name": "soccer",
         "short_names": ["soccer"],
-        "unicode": "",
+        "unicode": "26bd",
         "sort_order": 1
       }, {
         "has_img_apple": true,
@@ -11860,7 +11860,7 @@
         "name": "BASKETBALL AND HOOP",
         "short_name": "basketball",
         "short_names": ["basketball"],
-        "unicode": "",
+        "unicode": "1f3c0",
         "sort_order": 2
       }, {
         "has_img_apple": true,
@@ -11872,7 +11872,7 @@
         "name": "AMERICAN FOOTBALL",
         "short_name": "football",
         "short_names": ["football"],
-        "unicode": "",
+        "unicode": "1f3c8",
         "sort_order": 3
       }, {
         "has_img_apple": true,
@@ -11884,7 +11884,7 @@
         "name": "BASEBALL",
         "short_name": "baseball",
         "short_names": ["baseball"],
-        "unicode": "",
+        "unicode": "26be",
         "sort_order": 4
       }, {
         "has_img_apple": true,
@@ -11896,7 +11896,7 @@
         "name": "TENNIS RACQUET AND BALL",
         "short_name": "tennis",
         "short_names": ["tennis"],
-        "unicode": "",
+        "unicode": "1f3be",
         "sort_order": 5
       }, {
         "has_img_apple": true,
@@ -11908,7 +11908,7 @@
         "name": "VOLLEYBALL",
         "short_name": "volleyball",
         "short_names": ["volleyball"],
-        "unicode": "",
+        "unicode": "1f3d0",
         "sort_order": 6
       }, {
         "has_img_apple": true,
@@ -11920,7 +11920,7 @@
         "name": "RUGBY FOOTBALL",
         "short_name": "rugby_football",
         "short_names": ["rugby_football"],
-        "unicode": "",
+        "unicode": "1f3c9",
         "sort_order": 7
       }, {
         "has_img_apple": true,
@@ -11932,7 +11932,7 @@
         "name": "BILLIARDS",
         "short_name": "8ball",
         "short_names": ["8ball"],
-        "unicode": "",
+        "unicode": "1f3b1",
         "sort_order": 8
       }, {
         "has_img_apple": true,
@@ -11944,7 +11944,7 @@
         "name": "FLAG IN HOLE",
         "short_name": "golf",
         "short_names": ["golf"],
-        "unicode": "",
+        "unicode": "26f3",
         "sort_order": 9
       }, {
         "has_img_apple": true,
@@ -11956,7 +11956,7 @@
         "name": "GOLFER",
         "short_name": "golfer",
         "short_names": ["golfer"],
-        "unicode": "",
+        "unicode": "1f3cc",
         "sort_order": 10
       }, {
         "has_img_apple": true,
@@ -11968,7 +11968,7 @@
         "name": "TABLE TENNIS PADDLE AND BALL",
         "short_name": "table_tennis_paddle_and_ball",
         "short_names": ["table_tennis_paddle_and_ball"],
-        "unicode": "",
+        "unicode": "1f3d3",
         "sort_order": 11
       }, {
         "has_img_apple": true,
@@ -11980,7 +11980,7 @@
         "name": "BADMINTON RACQUET AND SHUTTLECOCK",
         "short_name": "badminton_racquet_and_shuttlecock",
         "short_names": ["badminton_racquet_and_shuttlecock"],
-        "unicode": "",
+        "unicode": "1f3f8",
         "sort_order": 12
       }, {
         "has_img_apple": true,
@@ -11992,7 +11992,7 @@
         "name": "ICE HOCKEY STICK AND PUCK",
         "short_name": "ice_hockey_stick_and_puck",
         "short_names": ["ice_hockey_stick_and_puck"],
-        "unicode": "",
+        "unicode": "1f3d2",
         "sort_order": 13
       }, {
         "has_img_apple": true,
@@ -12004,7 +12004,7 @@
         "name": "FIELD HOCKEY STICK AND BALL",
         "short_name": "field_hockey_stick_and_ball",
         "short_names": ["field_hockey_stick_and_ball"],
-        "unicode": "",
+        "unicode": "1f3d1",
         "sort_order": 14
       }, {
         "has_img_apple": true,
@@ -12016,7 +12016,7 @@
         "name": "CRICKET BAT AND BALL",
         "short_name": "cricket_bat_and_ball",
         "short_names": ["cricket_bat_and_ball"],
-        "unicode": "",
+        "unicode": "1f3cf",
         "sort_order": 15
       }, {
         "has_img_apple": true,
@@ -12028,7 +12028,7 @@
         "name": "SKI AND SKI BOOT",
         "short_name": "ski",
         "short_names": ["ski"],
-        "unicode": "",
+        "unicode": "1f3bf",
         "sort_order": 16
       }, {
         "has_img_apple": true,
@@ -12040,7 +12040,7 @@
         "name": "SKIER",
         "short_name": "skier",
         "short_names": ["skier"],
-        "unicode": "",
+        "unicode": "26f7",
         "sort_order": 17
       }, {
         "has_img_apple": true,
@@ -12052,7 +12052,7 @@
         "name": "SNOWBOARDER",
         "short_name": "snowboarder",
         "short_names": ["snowboarder"],
-        "unicode": "",
+        "unicode": "1f3c2",
         "sort_order": 18
       }, {
         "has_img_apple": true,
@@ -12064,7 +12064,7 @@
         "name": "ICE SKATE",
         "short_name": "ice_skate",
         "short_names": ["ice_skate"],
-        "unicode": "",
+        "unicode": "26f8",
         "sort_order": 19
       }, {
         "has_img_apple": true,
@@ -12076,7 +12076,7 @@
         "name": "BOW AND ARROW",
         "short_name": "bow_and_arrow",
         "short_names": ["bow_and_arrow"],
-        "unicode": "",
+        "unicode": "1f3f9",
         "sort_order": 20
       }, {
         "has_img_apple": true,
@@ -12088,7 +12088,7 @@
         "name": "FISHING POLE AND FISH",
         "short_name": "fishing_pole_and_fish",
         "short_names": ["fishing_pole_and_fish"],
-        "unicode": "",
+        "unicode": "1f3a3",
         "sort_order": 21
       }, {
         "has_img_apple": true,
@@ -12100,7 +12100,7 @@
         "name": "ROWBOAT",
         "short_name": "rowboat",
         "short_names": ["rowboat"],
-        "unicode": "",
+        "unicode": "1f6a3",
         "sort_order": 22
       }, {
         "has_img_apple": true,
@@ -12112,7 +12112,7 @@
         "name": "SWIMMER",
         "short_name": "swimmer",
         "short_names": ["swimmer"],
-        "unicode": "",
+        "unicode": "1f3ca",
         "sort_order": 23
       }, {
         "has_img_apple": true,
@@ -12124,7 +12124,7 @@
         "name": "SURFER",
         "short_name": "surfer",
         "short_names": ["surfer"],
-        "unicode": "",
+        "unicode": "1f3c4",
         "sort_order": 24
       }, {
         "has_img_apple": true,
@@ -12136,7 +12136,7 @@
         "name": "BATH",
         "short_name": "bath",
         "short_names": ["bath"],
-        "unicode": "",
+        "unicode": "1f6c0",
         "sort_order": 25
       }, {
         "has_img_apple": true,
@@ -12148,7 +12148,7 @@
         "name": "PERSON WITH BALL",
         "short_name": "person_with_ball",
         "short_names": ["person_with_ball"],
-        "unicode": "",
+        "unicode": "26f9",
         "sort_order": 26
       }, {
         "has_img_apple": true,
@@ -12160,7 +12160,7 @@
         "name": "WEIGHT LIFTER",
         "short_name": "weight_lifter",
         "short_names": ["weight_lifter"],
-        "unicode": "",
+        "unicode": "1f3cb",
         "sort_order": 27
       }, {
         "has_img_apple": true,
@@ -12172,7 +12172,7 @@
         "name": "BICYCLIST",
         "short_name": "bicyclist",
         "short_names": ["bicyclist"],
-        "unicode": "",
+        "unicode": "1f6b4",
         "sort_order": 28
       }, {
         "has_img_apple": true,
@@ -12184,7 +12184,7 @@
         "name": "MOUNTAIN BICYCLIST",
         "short_name": "mountain_bicyclist",
         "short_names": ["mountain_bicyclist"],
-        "unicode": "",
+        "unicode": "1f6b5",
         "sort_order": 29
       }, {
         "has_img_apple": true,
@@ -12196,7 +12196,7 @@
         "name": "HORSE RACING",
         "short_name": "horse_racing",
         "short_names": ["horse_racing"],
-        "unicode": "",
+        "unicode": "1f3c7",
         "sort_order": 30
       }, {
         "has_img_apple": true,
@@ -12208,7 +12208,7 @@
         "name": "MAN IN BUSINESS SUIT LEVITATING",
         "short_name": "man_in_business_suit_levitating",
         "short_names": ["man_in_business_suit_levitating"],
-        "unicode": "",
+        "unicode": "1f574",
         "sort_order": 31
       }, {
         "has_img_apple": true,
@@ -12220,7 +12220,7 @@
         "name": "TROPHY",
         "short_name": "trophy",
         "short_names": ["trophy"],
-        "unicode": "",
+        "unicode": "1f3c6",
         "sort_order": 32
       }, {
         "has_img_apple": true,
@@ -12232,7 +12232,7 @@
         "name": "RUNNING SHIRT WITH SASH",
         "short_name": "running_shirt_with_sash",
         "short_names": ["running_shirt_with_sash"],
-        "unicode": "",
+        "unicode": "1f3bd",
         "sort_order": 33
       }, {
         "has_img_apple": true,
@@ -12244,7 +12244,7 @@
         "name": "SPORTS MEDAL",
         "short_name": "sports_medal",
         "short_names": ["sports_medal"],
-        "unicode": "",
+        "unicode": "1f3c5",
         "sort_order": 34
       }, {
         "has_img_apple": true,
@@ -12256,7 +12256,7 @@
         "name": "MILITARY MEDAL",
         "short_name": "medal",
         "short_names": ["medal"],
-        "unicode": "",
+        "unicode": "1f396",
         "sort_order": 35
       }, {
         "has_img_apple": true,
@@ -12268,7 +12268,7 @@
         "name": "REMINDER RIBBON",
         "short_name": "reminder_ribbon",
         "short_names": ["reminder_ribbon"],
-        "unicode": "",
+        "unicode": "1f397",
         "sort_order": 36
       }, {
         "has_img_apple": true,
@@ -12280,7 +12280,7 @@
         "name": "ROSETTE",
         "short_name": "rosette",
         "short_names": ["rosette"],
-        "unicode": "",
+        "unicode": "1f3f5",
         "sort_order": 37
       }, {
         "has_img_apple": true,
@@ -12292,7 +12292,7 @@
         "name": "TICKET",
         "short_name": "ticket",
         "short_names": ["ticket"],
-        "unicode": "",
+        "unicode": "1f3ab",
         "sort_order": 38
       }, {
         "has_img_apple": true,
@@ -12304,7 +12304,7 @@
         "name": "ADMISSION TICKETS",
         "short_name": "admission_tickets",
         "short_names": ["admission_tickets"],
-        "unicode": "",
+        "unicode": "1f39f",
         "sort_order": 39
       }, {
         "has_img_apple": true,
@@ -12316,7 +12316,7 @@
         "name": "PERFORMING ARTS",
         "short_name": "performing_arts",
         "short_names": ["performing_arts"],
-        "unicode": "",
+        "unicode": "1f3ad",
         "sort_order": 40
       }, {
         "has_img_apple": true,
@@ -12328,7 +12328,7 @@
         "name": "ARTIST PALETTE",
         "short_name": "art",
         "short_names": ["art"],
-        "unicode": "",
+        "unicode": "1f3a8",
         "sort_order": 41
       }, {
         "has_img_apple": true,
@@ -12340,7 +12340,7 @@
         "name": "CIRCUS TENT",
         "short_name": "circus_tent",
         "short_names": ["circus_tent"],
-        "unicode": "",
+        "unicode": "1f3aa",
         "sort_order": 42
       }, {
         "has_img_apple": true,
@@ -12352,7 +12352,7 @@
         "name": "MICROPHONE",
         "short_name": "microphone",
         "short_names": ["microphone"],
-        "unicode": "",
+        "unicode": "1f3a4",
         "sort_order": 43
       }, {
         "has_img_apple": true,
@@ -12364,7 +12364,7 @@
         "name": "HEADPHONE",
         "short_name": "headphones",
         "short_names": ["headphones"],
-        "unicode": "",
+        "unicode": "1f3a7",
         "sort_order": 44
       }, {
         "has_img_apple": true,
@@ -12376,7 +12376,7 @@
         "name": "MUSICAL SCORE",
         "short_name": "musical_score",
         "short_names": ["musical_score"],
-        "unicode": "",
+        "unicode": "1f3bc",
         "sort_order": 45
       }, {
         "has_img_apple": true,
@@ -12388,7 +12388,7 @@
         "name": "MUSICAL KEYBOARD",
         "short_name": "musical_keyboard",
         "short_names": ["musical_keyboard"],
-        "unicode": "",
+        "unicode": "1f3b9",
         "sort_order": 46
       }, {
         "has_img_apple": true,
@@ -12400,7 +12400,7 @@
         "name": "SAXOPHONE",
         "short_name": "saxophone",
         "short_names": ["saxophone"],
-        "unicode": "",
+        "unicode": "1f3b7",
         "sort_order": 47
       }, {
         "has_img_apple": true,
@@ -12412,7 +12412,7 @@
         "name": "TRUMPET",
         "short_name": "trumpet",
         "short_names": ["trumpet"],
-        "unicode": "",
+        "unicode": "1f3ba",
         "sort_order": 48
       }, {
         "has_img_apple": true,
@@ -12424,7 +12424,7 @@
         "name": "GUITAR",
         "short_name": "guitar",
         "short_names": ["guitar"],
-        "unicode": "",
+        "unicode": "1f3b8",
         "sort_order": 49
       }, {
         "has_img_apple": true,
@@ -12436,7 +12436,7 @@
         "name": "VIOLIN",
         "short_name": "violin",
         "short_names": ["violin"],
-        "unicode": "",
+        "unicode": "1f3bb",
         "sort_order": 50
       }, {
         "has_img_apple": true,
@@ -12448,7 +12448,7 @@
         "name": "CLAPPER BOARD",
         "short_name": "clapper",
         "short_names": ["clapper"],
-        "unicode": "",
+        "unicode": "1f3ac",
         "sort_order": 51
       }, {
         "has_img_apple": true,
@@ -12460,7 +12460,7 @@
         "name": "VIDEO GAME",
         "short_name": "video_game",
         "short_names": ["video_game"],
-        "unicode": "",
+        "unicode": "1f3ae",
         "sort_order": 52
       }, {
         "has_img_apple": true,
@@ -12472,7 +12472,7 @@
         "name": "ALIEN MONSTER",
         "short_name": "space_invader",
         "short_names": ["space_invader"],
-        "unicode": "",
+        "unicode": "1f47e",
         "sort_order": 53
       }, {
         "has_img_apple": true,
@@ -12484,7 +12484,7 @@
         "name": "DIRECT HIT",
         "short_name": "dart",
         "short_names": ["dart"],
-        "unicode": "",
+        "unicode": "1f3af",
         "sort_order": 54
       }, {
         "has_img_apple": true,
@@ -12496,7 +12496,7 @@
         "name": "GAME DIE",
         "short_name": "game_die",
         "short_names": ["game_die"],
-        "unicode": "",
+        "unicode": "1f3b2",
         "sort_order": 55
       }, {
         "has_img_apple": true,
@@ -12508,7 +12508,7 @@
         "name": "SLOT MACHINE",
         "short_name": "slot_machine",
         "short_names": ["slot_machine"],
-        "unicode": "",
+        "unicode": "1f3b0",
         "sort_order": 56
       }, {
         "has_img_apple": true,
@@ -12520,7 +12520,7 @@
         "name": "BOWLING",
         "short_name": "bowling",
         "short_names": ["bowling"],
-        "unicode": "",
+        "unicode": "1f3b3",
         "sort_order": 57
       }],
       "Skin Tones": [{
