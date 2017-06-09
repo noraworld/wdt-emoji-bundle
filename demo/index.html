@@ -227,6 +227,13 @@
             'messenger': '../sheets/sheet_messenger_64_indexed_128.png'
         };
 
+        // select which should be outputted to a target form,
+        // shourtnames or unicode.
+        // if true, outputs unicode like `🤔`.
+        // otherwise, outputs shortnames like `:thinking_face:`.
+        // default value is true.
+        wdtEmojiBundle.defaults.outputUnicode = true;
+
         wdtEmojiBundle.init('.wdt-emoji-bundle-enabled');
 
         wdtEmojiBundle.on('afterSelect', function (a, b) {

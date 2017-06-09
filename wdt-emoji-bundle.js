@@ -21,6 +21,7 @@
   wdtEmojiBundle.defaults = {
     pickerColors : ['green', 'pink', 'yellow', 'blue', 'gray'],
     textMode     : true,
+    outputUnicode: true,
     disabledCategories: ['Skin Tones'],
     sectionOrders: {
       'Recent'  : 10,
@@ -16050,7 +16051,8 @@
     live('click', '.wdt-emoji-list a.wdt-emoji', function (event) {
       var selection = getSelection(wdtEmojiBundle.input);
 
-      replaceText(wdtEmojiBundle.input, selection, convertShortnamesToUnicode(this.dataset.wdtEmojiUnicode));
+      var emo = wdtEmojiBundle.defaults.outputUnicode ? convertShortnamesToUnicode(this.dataset.wdtEmojiUnicode) : ':' + this.dataset.wdtEmojiShortname + ':';
+      replaceText(wdtEmojiBundle.input, selection, emo);
       fire('select', {el: wdtEmojiBundle.input, event: event, emoji: ':' + this.dataset.wdtEmojiShortname + ':'});
 
       var ce = document.createEvent('Event');
