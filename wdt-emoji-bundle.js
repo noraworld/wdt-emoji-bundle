@@ -16477,7 +16477,12 @@
           convertion = getConvertionTextAndLength(textBefore),
           textBeforeConvertionString = val.substring(0, convertion["textLengthBeforeFirstColon"] + convertion["textLengthBetweenAfterSpaceAndLastConvertibleColon"]);
 
-      el.value = textBeforeConvertionString + emo + val.substring(selection.end, selection.len);
+      if (convertion["emojiSearchText"]) {
+        el.value = textBeforeConvertionString + emo + val.substring(selection.end, selection.len);
+      }
+      else {
+        el.value = textBefore + emo + val.substring(selection.end, selection.len);
+      }
 
       // @todo - [needim] - check browser compatibilities
       el.selectionStart = el.selectionEnd = (textBefore.length + emo.length);
