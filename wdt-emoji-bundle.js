@@ -15808,12 +15808,9 @@
         val = element.value,
         selection = getSelection(element),
         textBeforeCursor = val.substring(0, selection.start),
-        // `<space>:` OR `^:` followed by text
-        // text is captured
-        matches = textBeforeCursor.match(/(\s|^):(\S*)$/),
-        text = matches && matches[2];
+        convertion = getConvertionTextAndLength(textBeforeCursor);
 
-    wdtEmojiBundle.searchAfterColon(text, emojiPicker);
+    wdtEmojiBundle.searchAfterColon(convertion["emojiSearchText"], emojiPicker);
   };
 
   /**
@@ -15824,7 +15821,7 @@
    */
   wdtEmojiBundle.searchAfterColon = function (text, emojiPicker) {
     // no text  or not enough text after colon
-    if (!text || text.length < 2) {
+    if (!text || text.length < 1) {
       wdtEmojiBundle.close();
       return;
     }
@@ -16053,7 +16050,7 @@
     live('click', '.wdt-emoji-list a.wdt-emoji', function (event) {
       var selection = getSelection(wdtEmojiBundle.input);
 
-      replaceText(wdtEmojiBundle.input, selection, convert(this.dataset.wdtEmojiUnicode));
+      replaceText(wdtEmojiBundle.input, selection, convertShortnamesToUnicode(this.dataset.wdtEmojiUnicode));
       fire('select', {el: wdtEmojiBundle.input, event: event, emoji: ':' + this.dataset.wdtEmojiShortname + ':'});
 
       var ce = document.createEvent('Event');
@@ -16476,14 +16473,60 @@
       el.focus();
       document.execCommand('insertText', false, emo);
     } else {
-      var textBefore = val.substring(0, selection.start);
-      textBefore = textBefore.replace(/:\S*$/, '')
-      el.value = textBefore + emo + val.substring(selection.end, selection.len);
+      var textBefore = val.substring(0, selection.start),
+          convertion = getConvertionTextAndLength(textBefore),
+          textBeforeConvertionString = val.substring(0, convertion["textLengthBeforeFirstColon"] + convertion["textLengthBetweenAfterSpaceAndLastConvertibleColon"]);
+
+      el.value = textBeforeConvertionString + emo + val.substring(selection.end, selection.len);
 
       // @todo - [needim] - check browser compatibilities
       el.selectionStart = el.selectionEnd = (textBefore.length + emo.length);
       el.focus();
     }
+  };
+
+  var getConvertionTextAndLength = function (textBeforeCursor) {
+    var firstColonMatches                                  = textBeforeCursor.match(/:(\S*)$/),
+        textAfterSpaceMatches                              = textBeforeCursor.match(/(\S*)$/),
+        emojiSearchText                                    = firstColonMatches && firstColonMatches[1],
+        textAfterSpace                                     = textAfterSpaceMatches && textAfterSpaceMatches[1];
+        isFirstColonPart                                   = false,
+        textLengthBetweenAfterSpaceAndLastConvertibleColon = 0;
+
+    if (textAfterSpace) {
+      for (var i = 0; i < textAfterSpace.length; i++) {
+        if (isFirstColonPart && textAfterSpace[i] === ":" && textAfterSpace[i - 1] !== ":") {
+          isFirstColonPart = false;
+        }
+        else if (textAfterSpace[i] === ":") {
+          isFirstColonPart = true;
+        }
+      }
+    }
+
+    if (isFirstColonPart && emojiSearchText) {
+      emojiSearchText = emojiSearchText.split(":");
+      for (var i = 0; i < emojiSearchText.length - 1; i++) {
+        textLengthBetweenAfterSpaceAndLastConvertibleColon += emojiSearchText[i].length;
+      }
+      textLengthBetweenAfterSpaceAndLastConvertibleColon += emojiSearchText.length - 1;
+      emojiSearchText = emojiSearchText[emojiSearchText.length - 1];
+    }
+    else {
+      emojiSearchText = null;
+    }
+
+    var convertion = [];
+    convertion["emojiSearchText"] = emojiSearchText;
+    convertion["textLengthBetweenAfterSpaceAndLastConvertibleColon"] = textLengthBetweenAfterSpaceAndLastConvertibleColon;
+    if (firstColonMatches) {
+      convertion["textLengthBeforeFirstColon"] = firstColonMatches.index;
+    }
+    else {
+      convertion["textLengthBeforeFirstColon"] = 0;
+    }
+
+    return convertion;
   };
 
   /**
@@ -16492,7 +16535,7 @@
    *
    * Many thanks to EmojiOne!
    */
-  var convert = function(unicode) {
+  var convertShortnamesToUnicode = function (unicode) {
     if (unicode.indexOf("-") > -1) {
       var parts = [];
       var s = unicode.split('-');
