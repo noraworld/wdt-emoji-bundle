@@ -15809,7 +15809,7 @@
         val = element.value,
         selection = getSelection(element),
         textBeforeCursor = val.substring(0, selection.start),
-        convertion = getConvertionTextAndLength(textBeforeCursor);
+        convertion = getConvertionTextAndLength(textBeforeCursor, true);
 
     wdtEmojiBundle.searchAfterColon(convertion["emojiSearchText"], emojiPicker);
   };
@@ -16051,8 +16051,8 @@
     live('click', '.wdt-emoji-list a.wdt-emoji', function (event) {
       var selection = getSelection(wdtEmojiBundle.input);
 
-      var emo = wdtEmojiBundle.defaults.outputUnicode ? convertShortnamesToUnicode(this.dataset.wdtEmojiUnicode) : ':' + this.dataset.wdtEmojiShortname + ':';
-      replaceText(wdtEmojiBundle.input, selection, emo);
+      var emo = wdtEmojiBundle.defaults.outputUnicode ? convertUnicodeToRaw(this.dataset.wdtEmojiUnicode) : ':' + this.dataset.wdtEmojiShortname + ':';
+      replaceText(wdtEmojiBundle.input, selection, emo, false);
       fire('select', {el: wdtEmojiBundle.input, event: event, emoji: ':' + this.dataset.wdtEmojiShortname + ':'});
 
       var ce = document.createEvent('Event');
@@ -16467,7 +16467,7 @@
    * @param selection
    * @param emo
    */
-  var replaceText = function (el, selection, emo) {
+  var replaceText = function (el, selection, emo, autoConvertion) {
     var val = el.value || el.innerHTML || '';
     // emo = emo + ' '; //append a space
 
@@ -16476,8 +16476,22 @@
       document.execCommand('insertText', false, emo);
     } else {
       var textBefore = val.substring(0, selection.start),
-          convertion = getConvertionTextAndLength(textBefore),
-          textBeforeConvertionString = val.substring(0, convertion["textLengthBeforeFirstColon"] + convertion["textLengthBetweenAfterSpaceAndLastConvertibleColon"]);
+          convertion = getConvertionTextAndLength(textBefore, false),
+          textBeforeConvertionString = val.substring(0, convertion["textLengthBeforeFirstColon"] + convertion["textLengthBetweenAfterSpaceAndLastConvertibleColon"]),
+          isFirstColonPart = false;
+
+      if (autoConvertion) {
+        for (var i = textBefore.length - 1; i >= 0; i--) {
+          if (textBefore[i] === ":" && isFirstColonPart) {
+            isFirstColonPart = false;
+            textBefore = textBefore.substring(0, i);
+            break;
+          }
+          else if (textBefore[i] === ":") {
+            isFirstColonPart = true;
+          }
+        }
+      }
 
       if (convertion["emojiSearchText"]) {
         el.value = textBeforeConvertionString + emo + val.substring(selection.end, selection.len);
@@ -16492,7 +16506,7 @@
     }
   };
 
-  var getConvertionTextAndLength = function (textBeforeCursor) {
+  var getConvertionTextAndLength = function (textBeforeCursor, autoConvertion) {
     var firstColonMatches                                  = textBeforeCursor.match(/:(\S*)$/),
         textAfterSpaceMatches                              = textBeforeCursor.match(/(\S*)$/),
         emojiSearchText                                    = firstColonMatches && firstColonMatches[1],
@@ -16533,7 +16547,34 @@
       convertion["textLengthBeforeFirstColon"] = 0;
     }
 
+    if (textAfterSpace[textAfterSpace.length-1] === ":" && isFirstColonPart === false && autoConvertion === true) {
+      var shortnamesArray = textAfterSpace.split(":");
+      var shortnames = shortnamesArray[shortnamesArray.length - 2];
+
+      var selection = getSelection(wdtEmojiBundle.input);
+      var unicode = convertShortnamesToUnicode(shortnames);
+      if (unicode) {
+        var emo = convertUnicodeToRaw(unicode);
+        replaceText(wdtEmojiBundle.input, selection, emo, true);
+      }
+    }
+
     return convertion;
+  };
+
+  var convertShortnamesToUnicode = function (shortnames) {
+    var unicode = null;
+
+    for (category in wdtEmojiBundle.defaults.emojiData) {
+      for (var i = 0; i < wdtEmojiBundle.defaults.emojiData[category].length; i++) {
+        if (wdtEmojiBundle.defaults.emojiData[category][i]["short_names"][0] === shortnames) {
+          unicode = wdtEmojiBundle.defaults.emojiData[category][i]["unicode"];
+          break;
+        }
+      }
+    }
+
+    return unicode;
   };
 
   /**
@@ -16542,7 +16583,7 @@
    *
    * Many thanks to EmojiOne!
    */
-  var convertShortnamesToUnicode = function (unicode) {
+  var convertUnicodeToRaw = function (unicode) {
     if (unicode.indexOf("-") > -1) {
       var parts = [];
       var s = unicode.split('-');
