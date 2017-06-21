@@ -16547,7 +16547,7 @@
       convertion["textLengthBeforeFirstColon"] = 0;
     }
 
-    if (textAfterSpace[textAfterSpace.length-1] === ":" && isFirstColonPart === false && autoConvertion === true) {
+    if (textAfterSpace[textAfterSpace.length-1] === ":" && isFirstColonPart === false && autoConvertion === true && wdtEmojiBundle.defaults.outputUnicode === true) {
       var shortnamesArray = textAfterSpace.split(":");
       var shortnames = shortnamesArray[shortnamesArray.length - 2];
 
